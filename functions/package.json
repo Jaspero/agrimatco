@@ -12,6 +12,7 @@
     "node": "10"
   },
   "dependencies": {
+    "@sendgrid/mail": "^6.5.2",
     "compression": "1.7.4",
     "firebase-admin": "7.0.0",
     "firebase-functions": "2.3.0",

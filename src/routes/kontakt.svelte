@@ -11,7 +11,15 @@
     let message = '';
 
     function handleSubmit() {
-        console.log(name, email, message);
+        fetch(`/kontakt.json`, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json; charset=utf-8'
+            },
+            body: JSON.stringify({name, email, message})
+        })
+            .then(() => {})
+            .catch(error => {})
     }
 </script>
 
