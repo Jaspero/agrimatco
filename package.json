@@ -1,5 +1,5 @@
 {
-  "name": "Agrimatco",
+  "name": "agrimatco",
   "description": "Agrimatco website",
   "license": "MIT",
   "author": {
@@ -10,10 +10,8 @@
   "scripts": {
     "target-setup": "firebase target:apply hosting website agrimatco-staging",
     "dev": "sapper dev",
-    "build:scss": "node-sass index.scss static/global.css",
-    "watch:scss": "node-sass index.scss static/global.css -w",
     "build": "sapper build --legacy && cp -r ./__sapper__/ ./functions/__sapper__",
-    "prebuild": "rm -rf functions/__sapper__/build && node-sass index.scss static/global.css --output-style=compressed",
+    "prebuild": "rm -rf functions/__sapper__/build",
     "export": "sapper export --legacy",
     "start": "npm run build && firebase serve",
     "deploy": "firebase deploy --only hosting,functions:ssr",
@@ -37,7 +35,6 @@
     "@babel/plugin-transform-runtime": "7.0.0",
     "@babel/preset-env": "7.0.0",
     "@babel/runtime": "7.0.0",
-    "node-sass": "^4.13.1",
     "npm-run-all": "4.1.5",
     "rollup": "1.0.0",
     "rollup-plugin-babel": "4.0.2",
