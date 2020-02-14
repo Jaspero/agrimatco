@@ -8,6 +8,10 @@ Jaspero benefits greatly from the open source community. This app in its entiret
 
 We don't have the required manpower and experties to build frameworks and tools the community could directly use in building awesome software, so by open sourcing our projects we hope people can find inspiration or code snippets to speed up development. 
 
+## Search
+
+This project uses [lunrjs](https://lunrjs.com) for search. A compiled index is generated from `search.json` in the build pipeline.
+
 ## License 
 
 The source code is publised under MIT © [Jaspero Ltd](mailto:info@jaspero.co) and all media assets are property of Agrimatco.
