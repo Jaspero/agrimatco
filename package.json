@@ -21,7 +21,7 @@
     "build:search": "node build-search-indexes.js && cp search.json static/search.json"
   },
   "dependencies": {
-    "@glidejs/glide": "^3.4.1",
+    "@glidejs/glide": "3.4.1",
     "@sendgrid/mail": "6.5.2",
     "body-parser": "1.19.0",
     "compression": "1.7.4",
