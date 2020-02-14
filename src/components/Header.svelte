@@ -1,6 +1,5 @@
 <script>
     export let menuToggle;
-    export let menu;
 </script>
 
 <style>

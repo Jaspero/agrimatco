@@ -1,6 +1,5 @@
 <script>
     export let segment;
-    export let menuToggle;
     export let menuFalse;
     export let menu;
 </script>

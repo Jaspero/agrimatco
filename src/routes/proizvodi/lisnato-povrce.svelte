@@ -189,7 +189,7 @@
                     link: 'katalozi/2020-sjeme-povrca.pdf#page=22'
                 },
                 {
-                    title: 'Rossa di Verona Precoce-Toga',
+                    title: 'Rossa di Verona Precoce - Toga',
                     description: 'Dobavljač: Esasem',
                     image: 'sjeme-povrca/lisnato-povrce/radic/rossa-di-verona-precoce-toga.jpg',
                     link: 'katalozi/2020-sjeme-povrca.pdf#page=22'
