@@ -1,3 +1,6 @@
+[![CircleCI](https://circleci.com/gh/Jaspero/agrimatco.svg?style=svg)](https://circleci.com/gh/Jaspero/agrimatco)
+
+
 # Agrimatco.hr
 This is the full source code for the agrimatco.hr.
 The app is built in [Sapper](https://github.com/sveltejs/sapper) and the database and hosting is on [Firebase](https://firebase.google.com/).  
