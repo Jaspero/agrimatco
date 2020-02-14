@@ -9,8 +9,13 @@
     let name = '';
     let email = '';
     let message = '';
+    let loading = false;
 
-    function handleSubmit() {
+    async function handleSubmit() {
+        loading = true;
+
+        const formEl = document.querySelector('form');
+
         fetch(`/kontakt.json`, {
             method: 'POST',
             headers: {
@@ -19,7 +24,16 @@
             body: JSON.stringify({name, email, message})
         })
             .then(() => {})
-            .catch(error => {})
+            .catch(error => {
+                formEl.reset();
+                loading = false;
+                alert("Došlo je do greške pri slanju. Molimo pokušajte kasnije.");
+            })
+            .finally(() => {
+                formEl.reset();
+                loading = false;
+                alert("Vaša poruka je uspješno poslana!");
+            })
     }
 </script>
 
@@ -79,7 +93,7 @@
             <Field label="Vaša poruka">
                 <textarea name="" id="" cols="60" rows="4" bind:value={message} required></textarea>
             </Field>
-            <Button type="submit">Pošalji</Button>
+            <Button type="submit" id="contact-page-send" bind:loading={loading} disabled={!name || !email || !message}>Pošalji</Button>
         </form>
 
         <hr>
