@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "agrimatco-fb254": {
+      "hosting": {
+        "website": [
+          "agrimatco-staging"
+        ]
+      }
+    }
+  }
+}

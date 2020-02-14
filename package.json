@@ -10,27 +10,29 @@
   "scripts": {
     "target-setup": "firebase target:apply hosting website agrimatco-staging",
     "dev": "sapper dev",
-    "build": "sapper build --legacy && cp -r ./__sapper__/ ./functions/__sapper__",
+    "build": "npm run build:search && sapper build --legacy && cp -r ./__sapper__/ ./functions/__sapper__",
     "prebuild": "rm -rf functions/__sapper__/build",
     "export": "sapper export --legacy",
     "start": "npm run build && firebase serve",
     "deploy": "firebase deploy --only hosting,functions:ssr",
     "cy:run": "cypress run",
     "cy:open": "cypress open",
-    "test": "run-p --race dev cy:run"
+    "test": "run-p --race dev cy:run",
+    "build:search": "node build-search-indexes.js && cp search.json static/search.json"
   },
   "dependencies": {
     "@sendgrid/mail": "6.5.2",
     "body-parser": "1.19.0",
-    "compression": "1.7.1",
-    "firebase": "6.3.3",
-    "firebase-admin": "8.3.0",
-    "polka": "0.5.0",
-    "sirv": "0.4.0"
+    "compression": "1.7.4",
+    "firebase": "7.8.2",
+    "firebase-admin": "8.9.2",
+    "lunr": "2.3.8",
+    "polka": "0.5.2",
+    "sirv": "0.4.2"
   },
   "devDependencies": {
     "@babel/core": "7.0.0",
-    "@babel/plugin-proposal-object-rest-spread": "^7.7.4",
+    "@babel/plugin-proposal-object-rest-spread": "7.7.4",
     "@babel/plugin-syntax-dynamic-import": "7.0.0",
     "@babel/plugin-transform-runtime": "7.0.0",
     "@babel/preset-env": "7.0.0",
@@ -42,9 +44,9 @@
     "rollup-plugin-node-resolve": "4.0.0",
     "rollup-plugin-replace": "2.0.0",
     "rollup-plugin-svelte": "5.1.0",
-    "rollup-plugin-terser": "^5.2.0",
+    "rollup-plugin-terser": "5.2.0",
     "sapper": "0.27.9",
     "siema": "1.5.1",
-    "svelte": "3.12.1"
+    "svelte": "3.18.2"
   }
 }
