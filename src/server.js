@@ -12,7 +12,7 @@ const { PORT, NODE_ENV } = process.env;
 const dev = NODE_ENV === 'development';
 
 if (dev) {
-	polka() // You can also use Express
+	polka()
 		.use(
 			json(),
 			compression({ threshold: 0 }),
