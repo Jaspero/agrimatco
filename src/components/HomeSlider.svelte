@@ -1,4 +1,7 @@
 <script>
+    import {afterUpdate} from 'svelte';
+    import Glide from '@glidejs/glide'
+
     const slides = [
         {
             image: `../home-slider/gnojidba.jpg`,
@@ -41,36 +44,67 @@
             content: `Mulch folije se koriste u proizvodnji jer sprječavaju rast korova, reguliraju temperaturu, smanjuju evaporaciju iz tla, povoljno utječu na povećanje vlage u tlu te smanjuju nadmetanje biljnih vrsta s korovima.`
         }
     ];
+    afterUpdate(() => {
+        new Glide('.glide', {
+            autoplay: 10000,
+            gap: 0,
+            rewind: false
+        }).mount()
+    });
 </script>
 
 <style>
-    .slider {
-        border-bottom: 1px solid var(--border);
-        display: flex;
-        overflow-x: auto;
-        scroll-snap-type: x mandatory;
-        scroll-behavior: smooth;
-        -webkit-overflow-scrolling: touch;
-    }
-    .slider-slide {
+    .glide {
         box-sizing: border-box;
+        position: relative;
+        width: 100%;
+        cursor: grab;
+    }
+    :global(.glide--dragging) {
+        cursor: grabbing !important;
+    }
+    .glide * {
+        box-sizing: inherit;
+    }
+    .glide__track {
+        overflow: hidden;
+    }
+    .glide__slides {
+        position: relative;
+        width: 100%;
+        backface-visibility: hidden;
+        transform-style: preserve-3d;
+        touch-action: pan-Y;
+        overflow: hidden;
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        border: none;
+        white-space: nowrap;
+        display: flex;
+        flex-wrap: nowrap;
+        will-change: transform;
+    }
+    .glide__slide {
+        white-space: normal;
+        user-select: none;
+        -webkit-touch-callout: none;
+        -webkit-tap-highlight-color: transparent;
+        flex-shrink: 0;
         display: flex;
         flex-direction: column;
-        flex-shrink: 0;
+        width: 100%;
+        height: 100%;
         min-height: 75vh;
-        width: calc(100vw - var(--space-medium));
-        border-left: 1px solid var(--border);
-        border-right: 1px solid var(--border);
         background-size: cover;
         background-position: center;
-        scroll-snap-align: start;
     }
-    .slider-slide-title {
+    .glide__slide-title {
         color: white;
         text-shadow: 0 0 6px black;
         margin: var(--space-medium);
     }
-    .slider-slide-content {
+    .glide__slide-content {
         margin: auto var(--space-regular) var(--space-regular) auto;
         padding: var(--space-regular);
         font-size: var(--font-small);
@@ -79,18 +113,22 @@
         max-width: 30em;
     }
     @media (max-width: 600px) {
-        .slider-slide-content {
+        .glide__slide-content {
             max-width: unset;
             margin: auto var(--space-medium) var(--space-medium);
         }
     }
 </style>
 
-<section class="slider">
-    {#each slides as slide, i}
-        <article class="slider-slide" style="background-image: url('{slide.image}')">
-            <h1 class="slider-slide-title">{slide.title}</h1>
-            <p class="slider-slide-content">{slide.content}</p>
-        </article>
-    {/each}
-</section>
+<div class="glide">
+    <div class="glide__track" data-glide-el="track">
+        <ul class="glide__slides">
+            {#each slides as slide, i}
+                <li class="glide__slide" style="background-image: url('{slide.image}')">
+                    <h1 class="glide__slide-title">{slide.title}</h1>
+                    <p class="glide__slide-content">{slide.content}</p>
+                </li>
+            {/each}
+        </ul>
+    </div>
+</div>
