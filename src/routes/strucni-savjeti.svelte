@@ -43,6 +43,7 @@
                     <li><a href="strucni-savjeti/salata-i-spinat">Salata i špinat</a></li>
                     <li><a href="strucni-savjeti/rajcica">Rajčica</a></li>
                     <li><a href="strucni-savjeti/paprika">Paprika</a></li>
+                    <li><a href="strucni-savjeti/batat">Batat</a></li>
                 </ul>
             </figure>
             <figure class="col-6 col-s-12">
@@ -50,12 +51,13 @@
                 <ul>
                     <li><a href="strucni-savjeti/jezgricavo-voce">Jezgričavo voće</a></li>
                     <li><a href="strucni-savjeti/kosticavo-voce">Koštičavo voće</a></li>
-                    <li><a href="strucni-savjeti/bobicasto-voce">Bobičasto voće</a></li>
+                    <li><a href="strucni-savjeti/bobicasto-voce">Bobičasto voće (malina, jagoda, borovnica)</a></li>
                     <li><a href="strucni-savjeti/lijeska">Lijeska</a></li>
                     <li><a href="strucni-savjeti/vinova-loza">Vinova loza</a></li>
                     <li><a href="strucni-savjeti/travnjak">Travnjak</a></li>
                     <li><a href="strucni-savjeti/maslina">Maslina</a></li>
                     <li><a href="strucni-savjeti/duhan">Duhan</a></li>
+                    <li><a href="/katalozi/2020-prihrana.pdf#page=56">Šparoga</a></li>
                 </ul>
             </figure>
         </div>

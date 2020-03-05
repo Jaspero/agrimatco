@@ -53,13 +53,13 @@
                 },
                 {
                     title: 'Trifender Pro',
-                    description: '/',
+                    description: 'Mnogo učinkovitiji soj gljivice T-34 za eliminaciju zemljišnih patogena',
                     image: 'stimulatori-porasta-i-poboljsivaci-tla/trifender-pro.png',
                     link: 'katalozi/2020-prihrana.pdf#page=41'
                 },
                 {
                     title: 'Ekotron',
-                    description: '/',
+                    description: 'Organsko gnojivo za popravak degradiranog tla',
                     image: 'stimulatori-porasta-i-poboljsivaci-tla/ekotron.jpg',
                     link: 'katalozi/2020-prihrana.pdf#page=42'
                 },

@@ -102,7 +102,7 @@
     <div class="proizvod">
         <div class="proizvod-content">
             <h2 class="proizvod-content-title">Navodnjavanje</h2>
-            <p class="proizvod-content-description">Cijevi za navodnjavanje tvrtki <b>Peštan, Lespinasse Irrigation i Akona</b> nastale su kao rezultat neprekidne pažnje posvećene razvoju novih proizvoda. Napravljene su tehnologijom koja podrazumijeva primjenu visoko kvalitetnih, posebno razvijenih polimera koji zbog čvrstoće i fleksibilnosti imaju uporabu u poljoprivredi.</p>
+            <p class="proizvod-content-description">Cijevi za navodnjavanje tvrtki <b>Peštan, Lespinasse Irrigation, Akona, i Sumika</b> nastale su kao rezultat neprekidne pažnje posvećene razvoju novih proizvoda. Napravljene su tehnologijom koja podrazumijeva primjenu visoko kvalitetnih, posebno razvijenih polimera koji zbog čvrstoće i fleksibilnosti imaju uporabu u poljoprivredi.</p>
             <a class="proizvod-content-link" href=".">Opširnije</a>
         </div>
         <div class="proizvod-image">

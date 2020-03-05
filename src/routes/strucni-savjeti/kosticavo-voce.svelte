@@ -122,7 +122,7 @@
 
         <p>Tokom cijele vegetacije, u posebno nepovoljnim uvjetima koristiti Bioplex, folijarno 0,5-1 L/ha čime se stiče otpornost na sušu, tuču, visoku vlagu i bolesti.</p>
 
-        <p><a href="strucni-savjeti/kosticavo-voce/visnja.pdf">Folijarna prihrana višnje (PDF)</a></p>
+        <p><a href="strucni-savjeti/kosticavo-voce/visnja.pdf"><b>Folijarna prihrana višnje (PDF)</b></a></p>
 
         <hr>
         <p><b>Sve informacije iz kataloga su orijentacijskog karaktera te služe samo kao pomoć ili putokaz profesionalnim uzgajivačima i korisnicima. Prihrana može varirati ovisno o tipu tla, pH vrijednosti tla, osnovnoj gnojidbi, hibridu ili sorti, načinu uzgoja i drugim faktorima. Stoga ove preporuke ne pružaju garanciju uspješnog uroda. Preko osamdeset godina uspješnog poslovanja Agrimatco je sigurnost proizvođača na dobar odabir!</b></p>

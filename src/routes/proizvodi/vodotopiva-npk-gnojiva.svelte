@@ -11,7 +11,7 @@
             items: [
                 {
                     title: 'SoluPotasse',
-                    description: '/',
+                    description: 'Kalij sulfat (SOP)',
                     image: 'vodotopiva-npk-gnojiva/solupotasse.jpg',
                     link: 'katalozi/2020-prihrana.pdf#page=11'
                 },
@@ -32,6 +32,12 @@
                     description: 'Vodotopivo folijarno gnojivo, koje sadrži dušik i kalcij',
                     image: 'vodotopiva-npk-gnojiva/yaraliva-calcinit.jpg',
                     link: 'katalozi/2020-prihrana.pdf#page=20'
+                },
+                {
+                    title: 'Amcolon',
+                    description: 'NPK vodotopivo gnojivo + mikroelementi',
+                    image: 'vodotopiva-npk-gnojiva/amcolon-18-18-18.png',
+                    link: 'proizvodi/amcolon'
                 }
             ]
         }

@@ -5,7 +5,7 @@
 <section class="section">
     <div class="container">
         <nav><small><a rel="prefetch" href="strucni-savjeti">Stručni savjeti</a> > Vinova loza</small></nav>
-        <h1>Folijarna prihrana vinove loze </h1>
+        <h1>Folijarna prihrana vinove loze</h1>
 
         <p>S obzirom na to da se svake godine iz tla odnose značajne količine dušika, fosfora, kalija, kalcija i ostalih hranjiva, potrebno ih je gnojidbom nadoknaditi. Unošenjem hranjiva preko tla ili preko lista (folijarno), osiguravamo vinovoj lozi brz rast i razvoj, održavamo ravnotežu, opseg i kvalitetu uroda, te općenito utječemo na zdravstveno stanje vinove loze.</p>
         <p>Količina hranjivih tvari koje se godišnje iznesu iz tla u vinogradu, ovisi o urodu, načinu obrade, vrsti tla i nagibu terena. Da bismo to utvrdili potrebno je obaviti  fizikalnu i kemijsku analizu tla.</p>

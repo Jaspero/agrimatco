@@ -2,6 +2,8 @@
     <title>Agrimatco | Stručni savjeti | Travnjak</title>
 </svelte:head>
 
+<img src="strucni-savjeti/travnjak/i1.jpg" alt="">
+
 <section class="section">
     <div class="container">
         <nav><small><a rel="prefetch" href="strucni-savjeti">Stručni savjeti</a> > Travnjak</small></nav>
@@ -9,7 +11,7 @@
 
         <p>Korištenjem travnjaka (košnjom, ispašom ili kombinirano) iz tla se iznose velike količine biljnih hranjiva, čime se tlo osiromašuje, odnosno gubi plodnost. Gnojidba travnjaka je neophodna mjera za: postizanje visokih i stabilnih prinosa, poboljšavanje kvalitete krme, povećavanje otpornosti na bolesti i klimatske stresove, promjenu botaničkog sastava travnjaka itd. S obzirom na to da je cijena mineralnih gnojiva visoka, travnjake treba gnojiti racionalno.</p>
         <p>Racionalna gnojidba je primjena one količine gnojiva koja odgovara potrebama biljke, stanju usjeva, plodnosti tla, a istovremeno vodi računa o klimatskim uvjetima i mogućem prinosu. Da bismo odredili pravilne količine gnojiva, potrebno je napraviti kemijsku analizu tla te znati koliko se hranjiva iznese iz tla prinosom. Razliku bi trebalo nadoknaditi gnojidbom. Ukoliko je tlo dobro opskrbljeno hranjivima, potrebno je vratiti samo one količine hranjiva koje smo iznijeli prinosom.</p>
-        <p><img src="strucni-savjeti/travnjak/i.jpg" alt=""></p>
+        <p><img src="strucni-savjeti/travnjak/i2.jpg" alt=""></p>
         <p>Ovisno o godišnjem dobu za folijarnu prihranu travnjaka preporuča se sljedeće:</p>
 
         <h2>Proljeće</h2>

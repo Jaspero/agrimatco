@@ -17,8 +17,8 @@
                 },
                 {
                     title: 'Sticker',
-                    description: '/',
-                    image: 'okvasivaci/sticker.png',
+                    description: 'Posebno formulirano pomoćno sredstvo za primjenu u poljoprivredi',
+                    image: 'okvasivaci/sticker.jpg',
                     link: 'katalozi/2020-prihrana.pdf#page=45'
                 }
             ]

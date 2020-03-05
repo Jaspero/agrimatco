@@ -28,14 +28,14 @@
                     link: 'katalozi/2020-prihrana.pdf#page=27'
                 },
                 {
-                    title: 'YaraVita 1. grupa',
-                    description: '/',
+                    title: 'YaraVita',
+                    description: 'Folijarna gnojiva s jednim hranjivim elementom',
                     image: 'tekuca-gnojiva/.jpg',
                     link: 'katalozi/2020-prihrana.pdf#page=34'
                 },
                 {
-                    title: 'YaraVita 2. grupa',
-                    description: '/',
+                    title: 'YaraVita',
+                    description: 'Folijarna gnojiva s kombinacijom hranjivih elemenata',
                     image: 'tekuca-gnojiva/.jpg',
                     link: 'katalozi/2020-prihrana.pdf#page=35'
                 },
@@ -71,7 +71,7 @@
                 },
                 {
                     title: 'Kalex',
-                    description: '/',
+                    description: 'Posebno tekuće mineralno gnojivo koje sadrži visoku koncentraciju fosfora i kalija dobivenog iz kalij-fosfita',
                     image: 'tekuca-gnojiva/kalex.png',
                     link: 'katalozi/2020-prihrana.pdf#page=39'
                 },

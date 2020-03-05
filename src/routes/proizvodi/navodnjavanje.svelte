@@ -10,27 +10,27 @@
             name: '',
             items: [
                 {
-                    title: 'Peštan',
-                    description: '/',
+                    title: 'Gerovit (Peštan)',
+                    description: '',
                     image: 'navodnjavanje/pestan.jpg',
                     link: 'katalozi/2020-prihrana.pdf#page=64'
                 },
                 {
                     title: 'AMCO-drip',
-                    description: '/',
+                    description: '',
                     image: 'navodnjavanje/amco-drip.jpeg',
                     link: 'katalozi/2020-prihrana.pdf#page=64'
                 },
                 {
                     title: 'Akona',
-                    description: '/',
+                    description: '',
                     image: 'navodnjavanje/akona.jpg',
                     link: 'katalozi/2020-prihrana.pdf#page=65'
                 },
                 {
-                    title: 'Sumisansui',
-                    description: '/',
-                    image: 'navodnjavanje/sumisansui.jpg',
+                    title: 'Sumika',
+                    description: '',
+                    image: 'navodnjavanje/sumika.jpg',
                     link: 'katalozi/2020-prihrana.pdf#page=66'
                 }
             ]

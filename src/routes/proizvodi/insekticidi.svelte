@@ -11,7 +11,7 @@
             items: [
                 {
                     title: 'FASTHRIN 10 EC',
-                    description: '/',
+                    description: 'Insekticid namijenjen suzbijanju štetnika u ratarstvu',
                     image: 'insekticidi/fasthrin-10-ec.png',
                     link: 'katalozi/2020-prihrana.pdf#page=59'
                 }

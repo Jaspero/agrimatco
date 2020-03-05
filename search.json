@@ -42,6 +42,12 @@
     "link": "/katalozi/2020-prihrana.pdf#page=20"
   },
   {
+    "id": "amcolon",
+    "label": "Amcolon",
+    "keywords": "amcolon",
+    "link": "/proizvodi/amcolon"
+  },
+  {
     "id": "specijalna-npk-gnojiva-u-pasti",
     "label": "Specijalna NPK gnojiva u pasti",
     "keywords": "specijalna npk gnojiva u pasti",
@@ -1500,9 +1506,9 @@
     "link": "/katalozi/2020-prihrana.pdf#page=65"
   },
   {
-    "id": "sumisansui",
-    "label": "Sumisansui",
-    "keywords": "sumisansui",
+    "id": "sumika",
+    "label": "Sumika",
+    "keywords": "sumika",
     "link": "/katalozi/2020-prihrana.pdf#page=66"
   },
   {
@@ -1704,6 +1710,12 @@
     "link": "/strucni-savjeti/paprika"
   },
   {
+    "id": "strucni-savjeti-batat",
+    "label": "Prihrana - Batat",
+    "keywords": "batat",
+    "link": "/strucni-savjeti/batat"
+  },
+  {
     "id": "strucni-savjeti-jezgricavo-voce",
     "label": "Prihrana - Jezgričavo voće",
     "keywords": "jezgricavo voce",
@@ -1750,6 +1762,12 @@
     "label": "Prihrana - Duhan",
     "keywords": "duhan",
     "link": "/strucni-savjeti/duhan"
+  },
+  {
+    "id": "strucni-savjeti-sparoga",
+    "label": "Prihrana - Šparoga",
+    "keywords": "sparoga",
+    "link": "/katalozi/2020-prihrana.pdf#page=56"
   },
   {
     "id": "o-nama",

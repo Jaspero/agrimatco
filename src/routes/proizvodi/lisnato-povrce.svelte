@@ -168,7 +168,7 @@
                 {
                     title: 'Raris - Endivija',
                     description: 'Dobavljač: Isi Sementi',
-                    image: 'sjeme-povrca/lisnato-povrce/salata/raris-endivija.png',
+                    image: 'sjeme-povrca/lisnato-povrce/salata/raris-endivija.jpg',
                     link: 'katalozi/2020-sjeme-povrca.pdf#page=21'
                 }
             ]

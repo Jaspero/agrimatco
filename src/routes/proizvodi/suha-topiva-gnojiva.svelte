@@ -59,7 +59,7 @@
                 },
                 {
                     title: 'Panon Starter Perfect Pro',
-                    description: '/',
+                    description: 'Startno gnojivo',
                     image: 'suha-topiva-gnojiva/panon-starter-perfect-pro.png',
                     link: 'katalozi/2020-prihrana.pdf#page=41'
                 }
