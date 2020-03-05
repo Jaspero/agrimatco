@@ -2,6 +2,24 @@
     <title>Agrimatco | Stručni savjeti | Bobičasto voće</title>
 </svelte:head>
 
+<script>
+    import Table from '../../components/Table.svelte';
+</script>
+
+<style>
+    .container-large {
+        max-width: 80rem;
+        margin: auto;
+    }
+    .container-large :global(table) {
+        margin: auto;
+        width: auto !important;
+    }
+    .accent > td {
+        background: #abbe92;
+    }
+</style>
+
 <img src="strucni-savjeti/bobicasto-voce/i.jpg" alt="">
 
 <section class="section">
@@ -70,6 +88,125 @@
 
         <hr>
         <h2>Preporuka za folijarnu prihranu borovnice</h2>
-        <!--TODO: Tablica-->
+    </div>
+    <div class="container-large">
+        <Table>
+            <tr>
+                <th>Vrijeme primjene /Fenofaza</th>
+                <th>Formulacija</th>
+                <th>Način</th>
+                <th colspan="2">Količina</th>
+                <th>Napomena</th>
+                <th>Aplikacija</th>
+            </tr>
+            <tr>
+                <td>Početak travnja</td>
+                <td>AMCOPASTA 20/50/10 m/v</td>
+                <td>Kap na kap</td>
+                <td>20 kg/ha</td>
+                <td>2kg/1000m<sup>2</sup> tjedno</td>
+                <td>Startno gnojivo (nizak ph )</td>
+                <td>Kroz dvije aplikacije</td>
+            </tr>
+            <tr>
+                <td>Travanj</td>
+                <td>AMONIJ SULFAT</td>
+                <td>Granulirano</td>
+                <td>100 kg/ha</td>
+                <td>40 gr/sadnici</td>
+                <td>Dušično gnojivo sa sumporom</td>
+                <td>Prva primjena do polovine travnja</td>
+            </tr>
+            <tr>
+                <td>Sredina travnja</td>
+                <td>AMCOPASTA 15/20/50 m/v</td>
+                <td>Kap na kap</td>
+                <td>40 kg/ha</td>
+                <td>1-1,5 kg/ 1000m<sup>2</sup>/tjedno</td>
+                <td>Gnojivo (nizak ph)</td>
+                <td>Kroz 4 - aplikacije do kraja svibnja</td>
+            </tr>
+            <tr>
+                <td>Cvatnja i oplodnja</td>
+                <td>KELATEX Ca+B</td>
+                <td>Folijarno</td>
+                <td>1 kg/ha</td>
+                <td></td>
+                <td>Za oplodnju</td>
+                <td>Duža cvatnja i bolja oplodnja</td>
+            </tr>
+            <tr>
+                <td>Procvjetavanje</td>
+                <td>AMONIJ SULFAT</td>
+                <td>Granulirano</td>
+                <td>100 kg/ha</td>
+                <td>40 gr/sadnici</td>
+                <td>Dušično gnojivo sa sumporom</td>
+                <td>U procvjetavanju</td>
+            </tr>
+            <tr>
+                <td>Početak svibnja</td>
+                <td>PROMET Ca</td>
+                <td>Folijarno</td>
+                <td>3l/ha</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Lipanj</td>
+                <td>NOVALON 6-12-36 + TM ili KALIJ SULFAT (Solupotasse)</td>
+                <td>Kap na kap</td>
+                <td>40 kg/ha</td>
+                <td>1-1,5 kg/ 1000m<sup>2</sup>/tjedno</td>
+                <td>Za boju i količinu suhe tvari</td>
+                <td>3 - 4 aplikacije početak zriobe</td>
+            </tr>
+            <tr>
+                <td>Kraj lipnja</td>
+                <td>BARRIER  (Ca + Si)</td>
+                <td>Folijarno</td>
+                <td>1,5 l/ha</td>
+                <td></td>
+                <td>Čvrstoća plodova kroz duži vremenski period</td>
+                <td>Pred berbu</td>
+            </tr>
+            <tr class="accent">
+                <td>Kroz vegetaciju<br><small>s razvojem lisne mase /niske temperature/oplodnja</small></td>
+                <td>BIOPLEX</td>
+                <td>Folijarno</td>
+                <td>200 ml/100 l vode</td>
+                <td></td>
+                <td>Stimulator porasta s aminokiselinama</td>
+                <td>Kad postoji mogućnost(2-3 puta)</td>
+            </tr>
+            <tr>
+                <td>Kroz vegetaciju</td>
+                <td>TRAZEX</td>
+                <td>Folijarno</td>
+                <td>1,5 kg/ha</td>
+                <td>0,5 kg + 0,5 kg + 0,5 kg <br><small>Kroz faze vegetacije</small></td>
+                <td>Mikroelementi<br><small>6% fe 6% mn 6% zn 2% b 2% cu +3%la+2%oe</small></td>
+                <td>Primjena željeza zbog moguće pojave kloroze</td>
+            </tr>
+            <tr>
+                <td>Pred opadanje listova<br><small>(kraj 10. mjeseca)</small></td>
+                <td>TROPICEL</td>
+                <td>Folijarno</td>
+                <td>1 kg/ha</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td colspan="7">
+                    Kroz  vegetaciju u intezivnom porastu i zriobi omogućiti navodnjavanje sa 30 m3 vode dnevno / veličina ploda i do 20 % veća.
+                    <br>
+                    Za korekciju vode koristiti pH Master - 1l/1000 l vode / ph kontrolirati na kapaljkama.
+                    <br>
+                    <b>Berba se obavlja u punoj zrelosti. Ne blagovremena berba uzrokuje venuće i opadanje plodova.</b>
+                </td>
+            </tr>
+        </Table>
     </div>
 </section>
