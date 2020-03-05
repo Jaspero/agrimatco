@@ -2,6 +2,8 @@
     <title>Agrimatco | Stručni savjeti | Uljana repica</title>
 </svelte:head>
 
+<img src="strucni-savjeti/uljana-repica/i.jpg" alt="">
+
 <section class="section">
     <div class="container">
         <nav><small><a rel="prefetch" href="strucni-savjeti">Stručni savjeti</a> > Uljana repica</small></nav>
@@ -9,7 +11,7 @@
 
         <p>Uljana repica je jedna od značajnih uljarica čije su potrebe za hranjivima najveće u razdoblju od početnog proljetnog porasta do početka cvatnje i biljka do te faze razvoja treba biti opskrbljena optimalnim količinama hranjiva kako bi se bolje granala te formirala veći broj mahuna.</p>
         <p>Optimalna gnojidba uljane repice osnovni je preduvjet za postizanje visokih i stabilnih prinosa. Ukupne količine dušika primijenjene u jesen ne bi trebale biti veće od 50 do 60 kg/ha. Veći dio dušika KAN (27%N) primjenjuje se u dvije prihrane, neposredo prije kretanja vegetacije u proljeće i prihrana nakon 20-25 dana.</p>
-        <p><img src="strucni-savjeti/uljana-repica/i.jpg" alt=""></p>
+        <p><img src="strucni-savjeti/uljana-repica/i1.jpg" alt=""></p>
 
         <h2>Folijarna prihrana uljane repice:</h2>
 

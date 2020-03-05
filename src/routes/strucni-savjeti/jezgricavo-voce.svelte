@@ -2,6 +2,8 @@
     <title>Agrimatco | Stručni savjeti | Jezgričavo voće</title>
 </svelte:head>
 
+<img src="strucni-savjeti/jezgricavo-voce/i.jpg" alt="">
+
 <section class="section">
     <div class="container">
         <nav><small><a rel="prefetch" href="strucni-savjeti">Stručni savjeti</a> > Jezgričavo voće</small></nav>

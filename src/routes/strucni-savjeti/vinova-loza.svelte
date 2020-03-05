@@ -2,6 +2,8 @@
     <title>Agrimatco | Stručni savjeti | Vinova loza</title>
 </svelte:head>
 
+<img src="strucni-savjeti/vinova-loza/i.jpg" alt="">
+
 <section class="section">
     <div class="container">
         <nav><small><a rel="prefetch" href="strucni-savjeti">Stručni savjeti</a> > Vinova loza</small></nav>

@@ -2,6 +2,8 @@
     <title>Agrimatco | Stručni savjeti | Kukuruz</title>
 </svelte:head>
 
+<img src="strucni-savjeti/kukuruz/i.jpg" alt="">
+
 <section class="section">
     <div class="container">
         <nav><small><a rel="prefetch" href="strucni-savjeti">Stručni savjeti</a> > Kukuruz</small></nav>
@@ -9,7 +11,7 @@
 
         <p>Kukuruz ima visok proizvodni potencijal pa da bi se taj potencijal iskoristio, gnojidbom se treba osigurati sva potrebna hranjiva u dovoljnoj količini.</p>
         <p> Prihrana je važna agrotehnička mjera u većini poljoprivrednih kultura, pa tako i u kukuruzu jer tada biljke usvajaju najviše hraniva unešenih u tlo ili putem lista, a koja poslije utječu na kvantitetu i kvalitetu prinosa.</p>
-        <p><img src="strucni-savjeti/kukuruz/i.png" alt=""></p>
+        <p><img src="strucni-savjeti/kukuruz/i1.png" alt=""></p>
 
         <p>Kukuruz osnovna hraniva, dušik, fosfor i kalij, usvaja tijekom vegetativnog stadija do oprašivanja. Fosfor i kalij na većini tala unose se gnojidbom u osnovnoj obradi.</p>
         <p>Gnojidbom u osnovnoj obradi, hraniva fosfor i kalij se raspodjeljuju u zoni najviše razvijenog korijenovog sustava. U odnosu na fosfor i kalij, dušik je hranivo koje je u pravilu bolje primijeniti u dopunskoj obradi tla.</p>

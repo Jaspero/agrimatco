@@ -6,6 +6,8 @@
     import Table from '../../components/Table.svelte';
 </script>
 
+<img src="strucni-savjeti/salata-i-spinat/i.jpg" alt="">
+
 <section class="section">
     <div class="container">
         <nav><small><a rel="prefetch" href="strucni-savjeti">Stručni savjeti</a> > Salata i špinat</small></nav>

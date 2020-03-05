@@ -2,6 +2,8 @@
     <title>Agrimatco | Stručni savjeti | Šećerna repa</title>
 </svelte:head>
 
+<img src="strucni-savjeti/secerna-repa/i.jpg" alt="">
+
 <section class="section">
     <div class="container">
         <nav><small><a rel="prefetch" href="strucni-savjeti">Stručni savjeti</a> > Šećerna repa</small></nav>

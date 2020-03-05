@@ -2,6 +2,8 @@
     <title>Agrimatco | Stručni savjeti | Presadnice u kontejnerima</title>
 </svelte:head>
 
+<img src="strucni-savjeti/presadnice-u-kontejnerima/i.jpg" alt="">
+
 <section class="section">
     <div class="container">
         <nav><small><a rel="prefetch" href="strucni-savjeti">Stručni savjeti</a> > Presadnice u kontejnerima</small></nav>

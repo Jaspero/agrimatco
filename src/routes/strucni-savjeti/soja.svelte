@@ -2,6 +2,8 @@
     <title>Agrimatco | Stručni savjeti | Soja</title>
 </svelte:head>
 
+<img src="strucni-savjeti/soja/i.jpg" alt="">
+
 <section class="section">
     <div class="container">
         <nav><small><a rel="prefetch" href="strucni-savjeti">Stručni savjeti</a> > Soja</small></nav>
@@ -56,7 +58,7 @@
 
         <figure>
             <figcaption><b>3. faza – kada su mahune od 0,5-2cm</b></figcaption>
-            <img src="strucni-savjeti/soja/i.jpg" alt="">
+            <img src="strucni-savjeti/soja/i1.jpg" alt="">
             <ul>
                 <li>Kada su mahune veličine od 0,5-2 cm veoma važan element je kalij. Kalij je bitan za nalijevanje zrna i zajedno sa biostimulatorom utječe na povećanje prinosa i kvalitete zrna, kao i na otpornost na sušu.</li>
                 <li>U ovoj fazi se preporuča kombinacija gnojiva Kalex i biostimulatora Bioplex.</li>

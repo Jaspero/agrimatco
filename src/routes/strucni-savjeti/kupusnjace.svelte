@@ -2,6 +2,8 @@
     <title>Agrimatco | Stručni savjeti | Kupusnjače</title>
 </svelte:head>
 
+<img src="strucni-savjeti/kupusnjace/i.jpg" alt="">
+
 <section class="section">
     <div class="container">
         <nav><small><a rel="prefetch" href="strucni-savjeti">Stručni savjeti</a> > Kupusnjače</small></nav>
@@ -9,7 +11,7 @@
 
         <p>Kupusnjače po raširenosti u proizvodnji jedna su od najznačajnijih skupina povrtnih kultura. Ove povrtnice najbolje uspijevaju na humusom bogatim tlima dobre prozračnosti i dovoljno opskrbljene vlagom te blago kisele do neutralne reakcije gdje je pH vrijednost tla između 6 i 7. U kupusnjače ubrajamo: kupus, kineski kupus, kelj, kelj pupčar, raštiku i lisnati kelj, korabicu, cvjetaču i brokulu.</p>
         <p>Prije određivanja gnojidbe potrebno je znati stanje hraniva u tlu i pH tla. Kupus iznosi iz tla velike količine hranjivih tvari i odlikuje se naročito velikim zahtjevima prema dušiku i kaliju. Unošenje dušika jako povećava prinos, ali je pri tom vrlo značajan međusobni odnos N:P:K. Ako se preobilno gnoji dušikom glavica ostaje rastresita, meka i šuplja te je tržišna vrijednost takvih glavica mala. S povećanjem količine kalijskih gnojiva povećava se čvrstoća glavice, a nedovoljna količina kalija u odnosu na dušik izaziva neugodan miris kod kuhanja takvog kupusa.</p>
-        <img src="strucni-savjeti/kupusnjace/i.jpg" alt="">
+        <img src="strucni-savjeti/kupusnjace/i1.jpg" alt="">
 
         <h2>Faze prihrane</h2>
         <figure>

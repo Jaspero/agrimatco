@@ -2,6 +2,8 @@
     <title>Agrimatco | Stručni savjeti | Lijeska</title>
 </svelte:head>
 
+<img src="strucni-savjeti/lijeska/i.jpg" alt="">
+
 <section class="section">
     <div class="container">
         <nav><small><a rel="prefetch" href="strucni-savjeti">Stručni savjeti</a> > Lijeska</small></nav>

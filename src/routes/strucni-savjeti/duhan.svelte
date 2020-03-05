@@ -2,6 +2,8 @@
     <title>Agrimatco | Stručni savjeti | Duhan</title>
 </svelte:head>
 
+<img src="strucni-savjeti/duhan/i.jpg" alt="">
+
 <section class="section">
     <div class="container">
         <nav><small><a rel="prefetch" href="strucni-savjeti">Stručni savjeti</a> > Duhan</small></nav>

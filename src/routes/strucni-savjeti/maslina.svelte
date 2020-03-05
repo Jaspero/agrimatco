@@ -2,6 +2,8 @@
     <title>Agrimatco | Stručni savjeti | Maslina</title>
 </svelte:head>
 
+<img src="strucni-savjeti/maslina/i.jpg" alt="">
+
 <section class="section">
     <div class="container">
         <nav><small><a rel="prefetch" href="strucni-savjeti">Stručni savjeti</a> > Maslina</small></nav>

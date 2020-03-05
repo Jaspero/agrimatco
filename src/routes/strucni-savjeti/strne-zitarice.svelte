@@ -2,6 +2,8 @@
     <title>Agrimatco | Stručni savjeti | Strne žitarice</title>
 </svelte:head>
 
+<img src="strucni-savjeti/strne-zitarice/i.jpg" alt="">
+
 <section class="section">
     <div class="container">
         <nav><small><a rel="prefetch" href="strucni-savjeti">Stručni savjeti</a> > Strne žitarice</small></nav>
@@ -21,7 +23,7 @@
         <p>Bioplex je kompleksni biostimulator koji je izvstan za jačanje biljnih funkcija. Sadrži makro i mikro elemente kao i različite supstance prirodnog podrijetla koji stimuliraju fiziološke procese u biljci.</p>
         <p>Inex kao okvašivač, aktivator i penetrator smanjuje površinsku napetost vode i povećava kontaktnu površinu lista. Djeluje kao pojačivač primjenjenih folijarnih gnojiva i otporan je na ispiranje, te ne stvara pjenu u prskalicama.</p>
         <p>Primjenom sva tri preparata prinosi će biti optimizirani na najisplativiji način.</p>
-        <p><img src="strucni-savjeti/strne-zitarice/i.jpg" alt=""></p>
+        <p><img src="strucni-savjeti/strne-zitarice/i1.jpg" alt=""></p>
         <figure>
             <figcaption>Fenofaze strnih žitarica su:</figcaption>
             <ul>

@@ -2,6 +2,8 @@
     <title>Agrimatco | Stručni savjeti | Lubenice i dinje</title>
 </svelte:head>
 
+<img src="strucni-savjeti/lubenice-i-dinje/i.jpg" alt="">
+
 <section class="section">
     <div class="container">
         <nav><small><a rel="prefetch" href="strucni-savjeti">Stručni savjeti</a> > Lubenice i dinje</small></nav>

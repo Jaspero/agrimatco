@@ -2,6 +2,8 @@
     <title>Agrimatco | Stručni savjeti | Rajčica</title>
 </svelte:head>
 
+<img src="strucni-savjeti/rajcica/i.jpg" alt="">
+
 <section class="section">
     <div class="container">
         <nav><small><a rel="prefetch" href="strucni-savjeti">Stručni savjeti</a> > Rajčica</small></nav>
@@ -11,7 +13,7 @@
         <p>Kod uzgoja u zaštićenom prostoru ima nekoliko mogućnosti prihrana, ali svaka se bazira na osnovu analize tla i preporuci stručnjaka. Najčešća prihrana je kroz sustav kap na kap.</p>
         <p>Tlo za uzgoj rajčice mora biti rahlo, dobre strukture, plodno, neutralno ili slabo kisele reakcije pH 6,0-6,5. Treba izbjegavati tla koja sadržavaju puno gline jer u tim uvjetima ne može se dobro razvijati korijenov sistem. Isto tako je važno da tlo na kojem se uzgaja rajčica ne smije imati visoki nivo podzemnih voda.</p>
         <p>Prije presadjivanja presadnica u tlo unijeti organski regulator tla H-85. H-85 se primjenjuje u dozi do 10 kg/ha direktno na tlo. Također se može napraviti otopina u omjeru 2-4g /1L vode. Presadnice se umoče u otopinu kraće vrijeme prijepresađivanja. H-85 poboljšava zdravlje i vigor mladih biljčica.</p>
-        <p><img src="strucni-savjeti/rajcica/i.jpg" alt=""></p>
+        <p><img src="strucni-savjeti/rajcica/i1.jpg" alt=""></p>
 
         <figure>
             <figcaption><b>1. faza</b></figcaption>

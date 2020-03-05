@@ -2,6 +2,8 @@
     <title>Agrimatco | Stručni savjeti | Bobičasto voće</title>
 </svelte:head>
 
+<img src="strucni-savjeti/bobicasto-voce/i.jpg" alt="">
+
 <section class="section">
     <div class="container">
         <nav><small><a rel="prefetch" href="strucni-savjeti">Stručni savjeti</a> > Bobičasto voće</small></nav>
