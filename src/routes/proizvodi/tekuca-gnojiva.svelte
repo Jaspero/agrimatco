@@ -30,13 +30,13 @@
                 {
                     title: 'YaraVita',
                     description: 'Folijarna gnojiva s jednim hranjivim elementom',
-                    image: 'tekuca-gnojiva/.jpg',
+                    image: 'tekuca-gnojiva/yara-vita-1.png',
                     link: 'katalozi/2020-prihrana.pdf#page=34'
                 },
                 {
                     title: 'YaraVita',
                     description: 'Folijarna gnojiva s kombinacijom hranjivih elemenata',
-                    image: 'tekuca-gnojiva/.jpg',
+                    image: 'tekuca-gnojiva/yara-vita-2.png',
                     link: 'katalozi/2020-prihrana.pdf#page=35'
                 },
                 {

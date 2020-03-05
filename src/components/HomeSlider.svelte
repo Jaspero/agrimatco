@@ -46,7 +46,7 @@
     ];
     afterUpdate(() => {
         new Glide('.glide', {
-            autoplay: 10000,
+            autoplay: 7500,
             gap: 0,
             rewind: false
         }).mount()
