@@ -481,7 +481,7 @@
                     link: 'katalozi/2020-sjeme-povrca.pdf#page=72'
                 },
                 {
-                    title: 'Klondike F1',
+                    title: 'HMX9388S (Klondike F1)',
                     description: 'Dobavljač: Vilmorin',
                     image: 'sjeme-povrca/plodno-povrce/kukuruz-secerac/klondike-f1.jpg',
                     link: 'katalozi/2020-sjeme-povrca.pdf#page=73'

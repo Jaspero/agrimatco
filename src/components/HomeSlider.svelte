@@ -1,5 +1,5 @@
 <script>
-    import {afterUpdate} from 'svelte';
+    import {onMount} from 'svelte';
     import Glide from '@glidejs/glide'
 
     const slides = [
@@ -44,7 +44,7 @@
             content: `Mulch folije se koriste u proizvodnji jer sprječavaju rast korova, reguliraju temperaturu, smanjuju evaporaciju iz tla, povoljno utječu na povećanje vlage u tlu te smanjuju nadmetanje biljnih vrsta s korovima.`
         }
     ];
-    afterUpdate(() => {
+    onMount(() => {
         new Glide('.glide', {
             autoplay: 7500,
             gap: 0,
