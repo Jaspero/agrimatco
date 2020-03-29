@@ -8,7 +8,7 @@
   },
   "version": "0.0.1",
   "scripts": {
-    "target-setup": "firebase target:apply hosting website agrimatco-staging",
+    "target-setup": "firebase target:apply hosting website agrimatco-fb254",
     "dev": "sapper dev",
     "build": "npm run build:search && sapper build --legacy && cp -r ./__sapper__/ ./functions/__sapper__",
     "prebuild": "rm -rf functions/__sapper__/build",
