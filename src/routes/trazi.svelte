@@ -41,8 +41,11 @@
 
     let searchField = '';
     let results = [];
+    let searched = false;
 
     function handleSubmit() {
+
+        searched = true;
 
         let toSearch = searchField
             .trim()
@@ -80,6 +83,9 @@
                     {/each}
                 </ul>
             </figure>
+        {/if}
+        {#if searched && results.length === 0}
+            <p>Nema rezultata.</p>
         {/if}
     </div>
 </section>
