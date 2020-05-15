@@ -26,12 +26,6 @@ self.addEventListener('fetch', event => {
 	// ignore dev server requests
 	if (url.hostname === self.location.hostname && url.port !== self.location.port) return;
 
-	// always serve static files and bundler-generated assets from cache
-	if (url.host === self.location.host) {
-		event.respondWith(caches.match(event.request));
-		return;
-	}
-
 	if (event.request.cache === 'only-if-cached') {
 		return;
 	}
