@@ -19,8 +19,6 @@
         <p>Robu čuvati izvan dosega djece I kućnih ljubimaca.</p>
         <p>Sredstvo ne spada u grupu otrova, te za njega nema karence.</p>
         <p>Zemlja porijekla: Turska</p>
-        <p>Datum proizvodnje: 03/2020</p>
-        <p>Vrijedi do: 03/2022</p>
         <hr>
         <img src="proizvodi/ljepljive-ploce-i-role/rola-zuta-30x100-large.jpg" alt="">
     </div>

@@ -17,8 +17,6 @@
         <p>Robu čuvati izvan dosega djece i kućnih ljubimaca.</p>
         <p>Sredstvo ne spada u grupu otrova, te za njega nema karence.</p>
         <p>Zemlja porijekla: Turska</p>
-        <p>Datum proizvodnje: 03/2020</p>
-        <p>Vrijedi do: 03/2022</p>
         <hr>
         <img src="proizvodi/ljepljive-ploce-i-role/ploca-plava-10x25-large.jpg" alt="">
     </div>
