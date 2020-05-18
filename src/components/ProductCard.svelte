@@ -3,6 +3,7 @@
     export let description = '';
     export let image = '';
     export let link = '';
+    export let target = '_blank';
 </script>
 
 <style>
@@ -35,7 +36,7 @@
     }
 </style>
 
-<a class="product-card" href={link} target="_blank" rel="prefetch">
+<a class="product-card" href={link} target={target} rel="prefetch">
     <img class="product-card-image" src="proizvodi/{image}" alt="">
     <div class="product-card-title">{title}</div>
     <div class="product-card-description">{description}</div>
