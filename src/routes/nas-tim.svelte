@@ -109,6 +109,13 @@
                     area: 'Zapadna Slavonija',
                     phone: '+385 (0)99 3083 580',
                     email: 'boris.pudja@agrimatco-eu.com'
+                },
+                {
+                    name: 'Krešimir Šmit, dipl. ing. agronomije',
+                    title: 'stručni savjetnik za SZB i gnojiva',
+                    area: 'Slavonija i Baranja',
+                    phone: '+385 (0)99 3083 085',
+                    email: 'kresimir.smit@agrimatco-eu.com'
                 }
             ]
         }
