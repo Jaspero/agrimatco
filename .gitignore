@@ -5,3 +5,4 @@ src/node_modules
 env-config.js
 static/search.json
 static/search-indexes.json
+.DS_Store
