@@ -34,9 +34,9 @@
                 <ul>
                     <li><a rel="prefetch" target="_blank" href="katalozi/2020-prihrana.pdf">Prihrana - 2020</a></li>
                     <li><a rel="prefetch" target="_blank" href="katalozi/2020-sjeme-povrca.pdf">Sjeme povrća - 2020</a></li>
-                    <li><a rel="prefetch" target="_blank" href="katalozi/2020-katalog.pdf">Katalog - 2021</a></li>
-                    <li><a rel="prefetch" target="_blank" href="katalozi/2020-sjeme-povrca.pdf">Sjeme povrća - 2021</a></li>
-                    <li><a rel="prefetch" target="_blank" href="katalozi/2020-prihrana.pdf">Prihrana - 2021</a></li>
+                    <li><a rel="prefetch" target="_blank" href="katalozi/2021-katalog.pdf">Katalog - 2021</a></li>
+                    <li><a rel="prefetch" target="_blank" href="katalozi/2021-sjeme-povrca.pdf">Sjeme povrća - 2021</a></li>
+                    <li><a rel="prefetch" target="_blank" href="katalozi/2021-prihrana.pdf">Prihrana - 2021</a></li>
                 </ul>
             </figure>
             <figure class="col-12">
