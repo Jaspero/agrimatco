@@ -13,13 +13,13 @@
                     title: 'Primel',
                     description: 'Dobavljač: Vilmorin',
                     image: 'sjeme-povrca/mahunarke/mahune/primel.jpg',
-                    link: 'katalozi/2020-sjeme-povrca.pdf#page=56'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=56'
                 },
                 {
                     title: 'Sundance',
                     description: 'Dobavljač: Vilmorin',
                     image: 'sjeme-povrca/mahunarke/mahune/sundance.jpg',
-                    link: 'katalozi/2020-sjeme-povrca.pdf#page=56'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=56'
                 }
             ]
         }

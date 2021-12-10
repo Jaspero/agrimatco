@@ -10,46 +10,40 @@
             name: 'Luk',
             items: [
                 {
-                    title: 'Lorenzos F1',
-                    description: 'Dobavljač: Vilmorin',
-                    image: 'sjeme-povrca/lukovicasto-povrce/luk/lorenzos-f1.jpg',
-                    link: 'katalozi/2020-sjeme-povrca.pdf#page=42'
-                },
-                {
                     title: 'Khroma F1',
                     description: 'Dobavljač: Isi Sementi',
                     image: 'sjeme-povrca/lukovicasto-povrce/luk/khroma-f1.jpg',
-                    link: 'katalozi/2020-sjeme-povrca.pdf#page=42'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=42'
                 },
                 {
-                    title: 'Aurora F1',
-                    description: 'Dobavljač: Isi Sementi',
-                    image: 'sjeme-povrca/lukovicasto-povrce/luk/aurora-f1.jpg',
-                    link: 'katalozi/2020-sjeme-povrca.pdf#page=42'
+                    title: 'Bonita F1',
+                    description: 'Dobavljač: Mira seeds',
+                    image: 'sjeme-povrca/lukovicasto-povrce/luk/bonita-f1.jpg',
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=42'
                 },
                 {
-                    title: 'Supernova F1',
-                    description: 'Dobavljač: Isi Sementi',
-                    image: 'sjeme-povrca/lukovicasto-povrce/luk/supernova-f1.jpg',
-                    link: 'katalozi/2020-sjeme-povrca.pdf#page=42'
+                    title: 'Ofelia F1',
+                    description: 'Dobavljač: Mira seeds',
+                    image: 'sjeme-povrca/lukovicasto-povrce/luk/ofelia-f1.jpg',
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=42'
                 },
                 {
-                    title: 'Derek F1',
-                    description: 'Dobavljač: Isi Sementi',
-                    image: 'sjeme-povrca/lukovicasto-povrce/luk/derek-f1.jpg',
-                    link: 'katalozi/2020-sjeme-povrca.pdf#page=43'
+                    title: 'Reyana F1',
+                    description: 'Dobavljač: Mira seeds',
+                    image: 'sjeme-povrca/lukovicasto-povrce/luk/reyana-f1.jpg',
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=42'
                 },
                 {
                     title: 'Focus F1',
                     description: 'Dobavljač: Isi Sementi',
                     image: 'sjeme-povrca/lukovicasto-povrce/luk/focus-f1.jpg',
-                    link: 'katalozi/2020-sjeme-povrca.pdf#page=43'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=43'
                 },
                 {
                     title: 'Extra Early Gold F1',
                     description: 'Dobavljač: United Genetics',
                     image: 'sjeme-povrca/lukovicasto-povrce/luk/extra-early-gold-f1.jpg',
-                    link: 'katalozi/2020-sjeme-povrca.pdf#page=43'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=43'
                 }
             ]
         },
@@ -60,13 +54,13 @@
                     title: 'Totem',
                     description: 'Dobavljač: Sakata',
                     image: 'sjeme-povrca/lukovicasto-povrce/mladi-luk/totem.jpg',
-                    link: 'katalozi/2020-sjeme-povrca.pdf#page=43'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=43'
                 },
                 {
                     title: 'Yoda F1',
                     description: 'Dobavljač: Sakata',
                     image: 'sjeme-povrca/lukovicasto-povrce/mladi-luk/yoda-f1.jpg',
-                    link: 'katalozi/2020-sjeme-povrca.pdf#page=43'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=43'
                 }
             ]
         },
@@ -77,14 +71,14 @@
                     title: 'Lancaster F1',
                     description: 'Dobavljač: Zada seeds',
                     image: 'sjeme-povrca/lukovicasto-povrce/poriluk/lancaster-f1.jpg',
-                    link: 'katalozi/2020-sjeme-povrca.pdf#page=44'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=44'
                 },
                 {
-                    title: 'Warwick F1',
+                    title: 'Exeter F1',
                     description: 'Dobavljač: Zada seeds',
-                    image: 'sjeme-povrca/lukovicasto-povrce/poriluk/warwick-f1.jpg',
-                    link: 'katalozi/2020-sjeme-povrca.pdf#page=44'
-                }
+                    image: 'sjeme-povrca/lukovicasto-povrce/poriluk/exeter-f1.jpg',
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=44'
+                },
             ]
         }
     ]

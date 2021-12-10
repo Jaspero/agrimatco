@@ -13,13 +13,13 @@
                     title: 'Rajčica i korisni kukci',
                     description: '/',
                     image: 'bioloska-zastita/rajcica.png',
-                    link: 'katalozi/2020-sjeme-povrca.pdf#page=8'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=8'
                 },
                 {
                     title: 'Paprika i korisni kukci',
                     description: '/',
                     image: 'bioloska-zastita/paprika.png',
-                    link: 'katalozi/2020-sjeme-povrca.pdf#page=9'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=9'
                 }
             ]
         }
