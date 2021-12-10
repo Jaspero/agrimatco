@@ -27,16 +27,14 @@
                     <li><a rel="prefetch" target="_blank" href="letci/salata.pdf">Salata</a></li>
                     <li><a rel="prefetch" target="_blank" href="letci/kupusnjace.pdf">Kupusnjače</a></li>
                     <li><a rel="prefetch" target="_blank" href="letci/novi-proizvodi.pdf">Novi proizvodi (2021/22)</a></li>
+                    <li><a rel="prefetch" target="_blank" href="letci/sjeme-povrca.pdf">Novi proizvodi (2021/22) - Sjeme povrća</a></li>
                 </ul>
             </figure>
             <figure class="col-6 col-s-12">
                 <figcaption><b>Katalozi</b></figcaption>
                 <ul>
-                    <li><a rel="prefetch" target="_blank" href="katalozi/2020-prihrana.pdf">Prihrana - 2020</a></li>
-                    <li><a rel="prefetch" target="_blank" href="katalozi/2020-sjeme-povrca.pdf">Sjeme povrća - 2020</a></li>
-                    <li><a rel="prefetch" target="_blank" href="katalozi/2021-katalog.pdf">Katalog - 2021</a></li>
-                    <li><a rel="prefetch" target="_blank" href="katalozi/2021-sjeme-povrca.pdf">Sjeme povrća - 2021</a></li>
-                    <li><a rel="prefetch" target="_blank" href="katalozi/2021-prihrana.pdf">Prihrana - 2021</a></li>
+                    <li><a rel="prefetch" target="_blank" href="katalozi/2021-katalog.pdf">EKO Katalog - 2021</a></li>
+                    <li><a rel="prefetch" target="_blank" href="katalozi/2022-sjeme-povrca.pdf">Sjeme povrća - 2022</a></li>
                 </ul>
             </figure>
             <figure class="col-12">
