@@ -34,6 +34,7 @@
         <ul>
           <li><a rel="prefetch" target="_blank" href="katalozi/2021-katalog.pdf">EKO Katalog - 2021</a></li>
           <li><a rel="prefetch" target="_blank" href="katalozi/2022-sjeme-povrca.pdf">Sjeme povrća - 2022</a></li>
+          <li><a rel="prefetch" target="_blank" href="katalozi/2022-gnojidba-prihrana-zastita.pdf">Gnojidba, prihrana, zaštita - 2022</a></li>
         </ul>
       </figure>
       <figure class="col-12">
