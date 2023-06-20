@@ -69,7 +69,7 @@
     <div class="proizvod">
         <div class="proizvod-content">
             <h2 class="proizvod-content-title">Sjeme povrća</h2>
-            <p class="proizvod-content-description">Agrimatco doo je zastupnik proizvođača povrtarskih kultura renomiranih sjemenskih tvrtki <b>Vilmorin, Sakata, Duna, ISI Sementi, Semo, United Genetics, Esasem</b>. Visoka kvaliteta profesionalnog sjemena je prilagođena našim regionalnim klimatskim uvjetima i sa sigurnošću će ispuniti vaša očekivanja.</p>
+            <p class="proizvod-content-description">Agrimatco doo je zastupnik proizvođača povrtarskih kultura renomiranih sjemenskih tvrtki <b>Vilmorin, Sakata, Duna, ISI Sementi, Semo, United Genetics, Esasem, Mira seeds, Strube, Tozer seeds, S.A.I.S.</b> Sementi. Visoka kvaliteta profesionalnog sjemena je prilagođena našim regionalnim klimatskim uvjetima i sa sigurnošću će ispuniti vaša očekivanja</p>
             <a class="proizvod-content-link" href=".">Opširnije</a>
         </div>
         <div class="proizvod-image">
@@ -80,7 +80,7 @@
     <div class="proizvod">
         <div class="proizvod-content">
             <h2 class="proizvod-content-title">Mineralna gnojiva</h2>
-            <p class="proizvod-content-description">Tvrtke <b>Modern Company for Fertilizer Production, DRT, Cosmocel, Yara, Tessenderlo, Alba Milagro, Kwizda Agro</b> proizvođači su visoko kvalitetnih vodotopivih gnojiva i biostimulatora za tlo i list koje nudimo u našoj paleti. U suvremenoj biljnoj proizvodnji dopunska ishrana vodotopivim gnojivima i biostimulatorima značajno će poboljšati proizvodnju i kvalitetu i na taj način omogućiti postizanje visokih prinosa.</p>
+            <p class="proizvod-content-description">Tvrtke <b>Modern Company for Fertilizer Production, DRT, Cosmocel, Tessenderlo, Alba Milagro, Compo-expert, Fertinagro, Simonis, SQM i Biontech</b> proizvođači su visoko kvalitetnih vodotopivih gnojiva i biostimulatora za tlo i list koje nudimo u našoj paleti. U suvremenoj biljnoj proizvodnji dopunska ishrana vodotopivim gnojivima i biostimulatorima značajno će poboljšati proizvodnju i kvalitetu i na taj način omogućiti postizanje visokih prinosa.</p>
             <a class="proizvod-content-link" href=".">Opširnije</a>
         </div>
         <div class="proizvod-image">
@@ -91,7 +91,7 @@
     <div class="proizvod">
         <div class="proizvod-content">
             <h2 class="proizvod-content-title">Sredstva za zaštitu bilja</h2>
-            <p class="proizvod-content-description">Sredstva za zaštitu bilja tvrtki <b>Sharda, Diagro i Barclay</b> koje nudimo u našoj paleti, te podrška naših stručnih savjetnika zasigurno će omogućiti postizanje vrhunskih prinosa i bogate žetve u nadolazećoj sezoni, štiteći usjeve od korova, bolesti i štetnika.</p>
+            <p class="proizvod-content-description">Sredstva za zaštitu bilja tvrtki <b>Sharda, Barclay, Ascenza Agro, Diachem, Pireco i Interagro</b> koje nudimo u našoj paleti, te podrška naših stručnih savjetnika zasigurno će omogućiti postizanje vrhunskih prinosa i bogate žetve u nadolazećoj sezoni, štiteći usjeve od korova, bolesti i štetnika.</p>
             <a class="proizvod-content-link" href=".">Opširnije</a>
         </div>
         <div class="proizvod-image">
@@ -102,7 +102,7 @@
     <div class="proizvod">
         <div class="proizvod-content">
             <h2 class="proizvod-content-title">Navodnjavanje</h2>
-            <p class="proizvod-content-description">Cijevi za navodnjavanje tvrtki <b>Peštan, Lespinasse Irrigation, Akona, i Sumika</b> nastale su kao rezultat neprekidne pažnje posvećene razvoju novih proizvoda. Napravljene su tehnologijom koja podrazumijeva primjenu visoko kvalitetnih, posebno razvijenih polimera koji zbog čvrstoće i fleksibilnosti imaju uporabu u poljoprivredi.</p>
+            <p class="proizvod-content-description">Cijevi za navodnjavanje tvrtki <b>Lespinasse Irrigation, Akona, Sumika i Sisteme Azud</b>, nastale su kao rezultat neprekidne pažnje posvećene razvoju novih proizvoda. Napravljene su tehnologijom koja podrazumijeva primjenu visoko kvalitetnih, posebno razvijenih polimera koji zbog čvrstoće i fleksibilnosti imaju uporabu u poljoprivredi.</p>
             <a class="proizvod-content-link" href=".">Opširnije</a>
         </div>
         <div class="proizvod-image">
