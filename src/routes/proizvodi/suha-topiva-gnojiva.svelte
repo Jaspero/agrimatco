@@ -57,12 +57,6 @@
                     image: 'suha-topiva-gnojiva/kelatex-fe.jpg',
                     link: 'katalozi/2020-prihrana.pdf#page=33'
                 },
-                {
-                    title: 'Panon Starter Perfect Pro',
-                    description: 'Startno gnojivo',
-                    image: 'suha-topiva-gnojiva/panon-starter-perfect-pro.png',
-                    link: 'katalozi/2020-prihrana.pdf#page=41'
-                }
             ]
         }
     ]
