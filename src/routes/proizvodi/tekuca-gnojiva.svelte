@@ -28,18 +28,6 @@
                     link: 'katalozi/2020-prihrana.pdf#page=27'
                 },
                 {
-                    title: 'YaraVita',
-                    description: 'Folijarna gnojiva s jednim hranjivim elementom',
-                    image: 'tekuca-gnojiva/yara-vita-1.png',
-                    link: 'katalozi/2020-prihrana.pdf#page=34'
-                },
-                {
-                    title: 'YaraVita',
-                    description: 'Folijarna gnojiva s kombinacijom hranjivih elemenata',
-                    image: 'tekuca-gnojiva/yara-vita-2.png',
-                    link: 'katalozi/2020-prihrana.pdf#page=35'
-                },
-                {
                     title: 'Agrofol 650',
                     description: 'Tekuće gnojivo s visokim sadržajem sumpora (S)',
                     image: 'tekuca-gnojiva/agrofol-650.jpg',
@@ -52,28 +40,16 @@
                     link: 'katalozi/2020-prihrana.pdf#page=37'
                 },
                 {
+                    title: 'Agrofol 300N',
+                    description: 'Tekuće gnojivo na bazi sumpora i kalija sa mikro-hranjivim tvarima',
+                    image: 'tekuca-gnojiva/agrofol-N-300.png',
+                    link: 'katalozi/2020-prihrana.pdf#page=34'
+                },
+                {
                     title: 'Agrofol 550K',
                     description: 'Tekuće gnojivo na bazi sumpora i kalija sa mikro-hranjivim tvarima',
-                    image: 'tekuca-gnojiva/agrofol-550K.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=38'
-                },
-                {
-                    title: 'Kalex Zn',
-                    description: 'Tekuće mineralno gnojivo koje sadrži visoku koncentraciju fosfora i cinka',
-                    image: 'tekuca-gnojiva/kalex-zn.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=38'
-                },
-                {
-                    title: 'Kalex Cu',
-                    description: 'Tekuće gnojivo s visokim sadržajem bakra (Cu)',
-                    image: 'tekuca-gnojiva/kalex-cu.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=39'
-                },
-                {
-                    title: 'Kalex',
-                    description: 'Posebno tekuće mineralno gnojivo koje sadrži visoku koncentraciju fosfora i kalija dobivenog iz kalij-fosfita',
-                    image: 'tekuca-gnojiva/kalex.png',
-                    link: 'katalozi/2020-prihrana.pdf#page=39'
+                    image: 'tekuca-gnojiva/agrofol-550K.png',
+                    link: 'katalozi/2020-prihrana.pdf#page=34'
                 },
                 {
                     title: 'Calcibor',
@@ -92,6 +68,36 @@
                     description: 'Regulator pH vrijednosti vode / NP gnojivo',
                     image: 'tekuca-gnojiva/ph-master.jpg',
                     link: 'katalozi/2020-prihrana.pdf#page=61'
+                },
+                {
+                    title: 'Molbor ',
+                    description: 'Tekuće gnojivo za cvatnju i oplodnju',
+                    image: 'tekuca-gnojiva/molbor.png',
+                    link: 'katalozi/2020-prihrana.pdf#page=38'
+                },
+                {
+                    title: 'Multiphos Mg',
+                    description: 'Tekuće folijarno gnojivo za početni porast i cvatnju',
+                    image: 'tekuca-gnojiva/multiphos-mg.png',
+                    link: 'katalozi/2020-prihrana.pdf#page=37'
+                },
+                {
+                    title: 'Foliar Plus ',
+                    description: 'Univerzalno tekuće folijarno gnojivo',
+                    image: 'tekuca-gnojiva/foliar-plus.png',
+                    link: 'katalozi/2020-prihrana.pdf#page=37'
+                },
+                {
+                    title: 'Apical Plus',
+                    description: 'Tekuće folijarno gnojivo za početak zriobe',
+                    image: 'tekuca-gnojiva/apical-plus.png',
+                    link: 'katalozi/2020-prihrana.pdf#page=37'
+                },
+                {
+                    title: 'Dentamet ',
+                    description: 'Mješavina mikroelemenata Cu i Zn',
+                    image: 'tekuca-gnojiva/dentamet.png',
+                    link: 'katalozi/2020-prihrana.pdf#page=30'
                 }
             ]
         }

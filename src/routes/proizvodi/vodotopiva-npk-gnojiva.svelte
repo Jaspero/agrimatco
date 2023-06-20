@@ -12,7 +12,7 @@
                 {
                     title: 'SoluPotasse',
                     description: 'Kalij sulfat (SOP)',
-                    image: 'vodotopiva-npk-gnojiva/solupotasse.jpg',
+                    image: 'vodotopiva-npk-gnojiva/solupotasse.png',
                     link: 'katalozi/2020-prihrana.pdf#page=11'
                 },
                 {
@@ -28,17 +28,23 @@
                     link: 'katalozi/2020-prihrana.pdf#page=16'
                 },
                 {
-                    title: 'YaraLiva Calcinit',
-                    description: 'Vodotopivo folijarno gnojivo, koje sadrži dušik i kalcij',
-                    image: 'vodotopiva-npk-gnojiva/yaraliva-calcinit.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=20'
-                },
-                {
                     title: 'Amcolon',
                     description: 'NPK vodotopivo gnojivo + mikroelementi',
                     image: 'vodotopiva-npk-gnojiva/amcolon-18-18-18.png',
                     link: 'proizvodi/amcolon'
                 }
+                {
+                    title: 'Hydroponica Calnit',
+                    description: 'Vodotopivo gnojivo kalcij nitrat',
+                    image: 'vodotopiva-npk-gnojiva/hydroponica-calnit.png',
+                    // link: 'katalozi/2020-prihrana.pdf#page=20'
+                },
+                {
+                    title: 'Hydroponica Calmag',
+                    description: 'Vodotopivo gnojivo kalcij magnezij nitrat',
+                    image: 'vodotopiva-npk-gnojiva/hydroponica-calmag.png',
+                    // link: 'katalozi/2020-prihrana.pdf#page=20'
+                },
             ]
         }
     ]
