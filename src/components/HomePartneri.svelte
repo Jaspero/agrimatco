@@ -46,5 +46,16 @@
         <img class="partneri-slider-image" src="home-partneri/logo-21.png" alt="">
         <img class="partneri-slider-image" src="home-partneri/logo-22.jpg" alt="">
         <img class="partneri-slider-image" src="home-partneri/logo-23.png" alt="">
+        <img class="partneri-slider-image" src="home-partneri/logo-24.png" alt="">
+        <img class="partneri-slider-image" src="home-partneri/logo-25.png" alt="">
+        <img class="partneri-slider-image" src="home-partneri/logo-26.png" alt="">
+        <img class="partneri-slider-image" src="home-partneri/logo-27.png" alt="">
+        <img class="partneri-slider-image" src="home-partneri/logo-28.png" alt="">
+        <img class="partneri-slider-image" src="home-partneri/logo-29.png" alt="">
+        <img class="partneri-slider-image" src="home-partneri/logo-30.png" alt="">
+        <img class="partneri-slider-image" src="home-partneri/logo-31.png" alt="">
+        <img class="partneri-slider-image" src="home-partneri/logo-32.png" alt="">
+        <img class="partneri-slider-image" src="home-partneri/logo-33.png" alt="">
+        <img class="partneri-slider-image" src="home-partneri/logo-34.webp" alt="">
     </div>
 </section>
