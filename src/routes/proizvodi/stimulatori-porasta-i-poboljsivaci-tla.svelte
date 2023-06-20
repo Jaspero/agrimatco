@@ -13,19 +13,13 @@
                     title: 'Bioplex',
                     description: 'Tekuće folijarno gnojivo i biostimulator za jačanje biljnih funkcija',
                     image: 'stimulatori-porasta-i-poboljsivaci-tla/bioplex.png',
-                    link: 'katalozi/2020-prihrana.pdf#page=21'
+                    link: 'katalozi/2020-prihrana.pdf#page=23'
                 },
                 {
                     title: 'Calcium Mainstay',
                     description: 'Tekući kalcij-oksid (CaO) za poboljšanje kvalitete ploda pri svim vrstama navodnjavanja i folijarno',
                     image: 'stimulatori-porasta-i-poboljsivaci-tla/calcium-mainstay.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=23'
-                },
-                {
-                    title: 'Vigorizer',
-                    description: 'Stimulator rasta i poboljšivač tla kojim se osigurava visoka otpornost biljke na vanjske utjecaje',
-                    image: 'stimulatori-porasta-i-poboljsivaci-tla/vigorizer.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=24'
+                    link: 'katalozi/2020-prihrana.pdf#page=21'
                 },
                 {
                     title: 'Kelatex Ca+B',
@@ -40,9 +34,9 @@
                     link: 'katalozi/2020-prihrana.pdf#page=26'
                 },
                 {
-                    title: 'Bioriviter',
+                    title: 'Riviter HFA ',
                     description: 'Organsko tekuće gnojivo na osnovu huminskih fulvo kiselina',
-                    image: 'stimulatori-porasta-i-poboljsivaci-tla/bioriviter.jpg',
+                    image: 'stimulatori-porasta-i-poboljsivaci-tla/riviter-HFA.png',
                     link: 'katalozi/2020-prihrana.pdf#page=26'
                 },
                 {
@@ -52,21 +46,21 @@
                     link: 'katalozi/2020-prihrana.pdf#page=28'
                 },
                 {
-                    title: 'Trifender Pro',
-                    description: 'Mnogo učinkovitiji soj gljivice T-34 za eliminaciju zemljišnih patogena',
-                    image: 'stimulatori-porasta-i-poboljsivaci-tla/trifender-pro.png',
-                    link: 'katalozi/2020-prihrana.pdf#page=41'
-                },
-                {
                     title: 'Ekotron',
                     description: 'Organsko gnojivo za popravak degradiranog tla',
-                    image: 'stimulatori-porasta-i-poboljsivaci-tla/ekotron.jpg',
+                    image: 'stimulatori-porasta-i-poboljsivaci-tla/ekotron.webp',
                     link: 'katalozi/2020-prihrana.pdf#page=42'
                 },
                 {
                     title: 'H-85',
                     description: 'Stimulator tla koji sadrži huminske i fulvo kiseline',
                     image: 'stimulatori-porasta-i-poboljsivaci-tla/h-85.jpg',
+                    link: 'katalozi/2020-prihrana.pdf#page=43'
+                },
+                {
+                    title: 'Biolife ',
+                    description: 'Mikrobiološki preparat stimulativnog djelovanja',
+                    image: 'stimulatori-porasta-i-poboljsivaci-tla/biolife.png',
                     link: 'katalozi/2020-prihrana.pdf#page=43'
                 }
             ]
