@@ -10,9 +10,9 @@
             name: '',
             items: [
                 {
-                    title: 'FASTHRIN 10 EC',
-                    description: 'Insekticid namijenjen suzbijanju štetnika u ratarstvu',
-                    image: 'insekticidi/fasthrin-10-ec.png',
+                    title: 'Demetrina 25 EC',
+                    description: 'Deltamethrin 25g/L',
+                    image: 'insekticidi/demetrina.png',
                     link: 'katalozi/2020-prihrana.pdf#page=59'
                 }
             ]

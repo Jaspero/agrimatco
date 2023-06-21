@@ -10,17 +10,11 @@
             name: '',
             items: [
                 {
-                    title: 'Azocip SC',
-                    description: 'Sistematični fungicid za suzbijanje bolesti lista u pšenici, raži i pšenoraži',
-                    image: 'fungicidi/azocip-sc.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=4'
+                    title: 'Actlef F',
+                    description: 'Metalaksil-M 50 g/kg, Folpet 400 g/kg',
+                    image: 'fungicidi/actlef.png',
+                    link: 'katalozi/2020-prihrana.pdf#page=59'
                 },
-                {
-                    title: 'Manfil 80 WP',
-                    description: 'Preventicni kontaktni fungicid namijenjen suzbijanju biljnih bolesti u vinogradarstvu, voćarstvu i povrćarstvu',
-                    image: 'fungicidi/manfil-80-wp.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=4'
-                }
             ]
         }
     ]

@@ -94,10 +94,16 @@
                     link: 'katalozi/2020-prihrana.pdf#page=37'
                 },
                 {
-                    title: 'Dentamet ',
+                    title: 'Dentamet',
                     description: 'Mješavina mikroelemenata Cu i Zn',
                     image: 'tekuca-gnojiva/dentamet.png',
                     link: 'katalozi/2020-prihrana.pdf#page=30'
+                },
+                {
+                    title: 'Wopro tana',
+                    description: 'Wopro Tana NPK 9 -0- 0 + Mg, S, Ca , Wopro Tana NPK 4 -1- 6 + Mg, S, Ca, Wopro Tana NPK 3 -4- 3 + Mg, S, Ca',
+                    image: 'tekuca-gnojiva/wopro-tana.png',
+                    link: 'katalozi/2020-prihrana.pdf#page=24'
                 }
             ]
         }
