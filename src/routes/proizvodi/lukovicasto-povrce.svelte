@@ -37,12 +37,36 @@
                     title: 'Focus F1',
                     description: 'Dobavljač: Isi Sementi',
                     image: 'sjeme-povrca/lukovicasto-povrce/luk/focus-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=43'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=44'
+                },
+                {
+                    title: 'Flavia',
+                    description: 'Dobavljač: Mira seeds',
+                    image: 'sjeme-povrca/lukovicasto-povrce/luk/flavia.png',
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=44'
                 },
                 {
                     title: 'Extra Early Gold F1',
                     description: 'Dobavljač: United Genetics',
                     image: 'sjeme-povrca/lukovicasto-povrce/luk/extra-early-gold-f1.jpg',
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=43'
+                },
+                {
+                    title: 'Navajo ',
+                    description: 'Dobavljač: Mira seeds',
+                    image: 'sjeme-povrca/lukovicasto-povrce/luk/navajo.png',
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=43'
+                },
+                {
+                    title: 'Globo',
+                    description: 'Dobavljač: SEMO',
+                    image: 'sjeme-povrca/lukovicasto-povrce/luk/globo.png',
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=43'
+                },
+                {
+                    title: 'Aeneus',
+                    description: 'Dobavljač: SEMO',
+                    image: 'sjeme-povrca/lukovicasto-povrce/luk/aeneus.png',
                     link: 'katalozi/2022-sjeme-povrca.pdf#page=43'
                 }
             ]
@@ -54,13 +78,31 @@
                     title: 'Totem',
                     description: 'Dobavljač: Sakata',
                     image: 'sjeme-povrca/lukovicasto-povrce/mladi-luk/totem.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=43'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=45'
                 },
                 {
                     title: 'Yoda F1',
                     description: 'Dobavljač: Sakata',
                     image: 'sjeme-povrca/lukovicasto-povrce/mladi-luk/yoda-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=43'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=45'
+                },
+                {
+                    title: 'Gerda',
+                    description: 'Dobavljač: SEMO',
+                    image: 'sjeme-povrca/lukovicasto-povrce/mladi-luk/yoda-f1.jpg',
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=45'
+                },
+                {
+                    title: 'Kaj',
+                    description: 'Dobavljač: SEMO',
+                    image: 'sjeme-povrca/lukovicasto-povrce/mladi-luk/kaj.png',
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=45'
+                },
+                {
+                    title: 'Snow Queen',
+                    description: 'Dobavljač: SEMO',
+                    image: 'sjeme-povrca/lukovicasto-povrce/mladi-luk/snow-queen.png',
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=45'
                 }
             ]
         },
