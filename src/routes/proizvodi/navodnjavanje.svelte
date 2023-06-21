@@ -10,12 +10,6 @@
             name: '',
             items: [
                 {
-                    title: 'Gerovit (Peštan)',
-                    description: '',
-                    image: 'navodnjavanje/pestan.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=64'
-                },
-                {
                     title: 'AMCO-drip',
                     description: '',
                     image: 'navodnjavanje/amco-drip.jpeg',
@@ -32,6 +26,12 @@
                     description: '',
                     image: 'navodnjavanje/sumika.jpg',
                     link: 'katalozi/2020-prihrana.pdf#page=66'
+                },
+                {
+                    title: 'Azud Sprint',
+                    description: '',
+                    image: 'navodnjavanje/azud.png',
+                    link: 'katalozi/2020-prihrana.pdf#page=64'
                 }
             ]
         }

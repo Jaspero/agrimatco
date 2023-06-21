@@ -13,14 +13,26 @@
                     title: 'Primel',
                     description: 'Dobavljač: Vilmorin',
                     image: 'sjeme-povrca/mahunarke/mahune/primel.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=56'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=59'
                 },
                 {
                     title: 'Sundance',
                     description: 'Dobavljač: Vilmorin',
                     image: 'sjeme-povrca/mahunarke/mahune/sundance.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=56'
-                }
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=59'
+                },
+                {
+                    title: 'Fiorino',
+                    description: 'Dobavljač: SEMO',
+                    image: 'sjeme-povrca/mahunarke/mahune/fiorino.png',
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=59'
+                },
+                {
+                    title: 'Radovan',
+                    description: 'Dobavljač: SAIS',
+                    image: 'sjeme-povrca/mahunarke/mahune/radovan.png',
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=59'
+                },
             ]
         }
     ]

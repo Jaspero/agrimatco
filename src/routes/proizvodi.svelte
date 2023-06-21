@@ -46,7 +46,6 @@
                     <li><a rel="prefetch" href="proizvodi/navodnjavanje">Navodnjavanje</a></li>
                     <li><a rel="prefetch" href="proizvodi/bioloska-zastita">Biološka zaštita - korisni kukci</a></li>
                     <li><a rel="prefetch" href="proizvodi/ekoloski-proizvodi">Ekološki proizvodi</a></li>
-                    <li><a rel="prefetch" href="proizvodi/ljepljive-ploce-i-role">Ljepljive ploče i role</a></li>
                 </ul>
             </figure>
         </div>

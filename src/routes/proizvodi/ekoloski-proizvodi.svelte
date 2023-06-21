@@ -13,19 +13,19 @@
                     title: 'Folisec',
                     description: '/',
                     image: 'ekoloski-proizvodi/folisec.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=62'
+                    link: 'katalozi/2020-prihrana.pdf#page=17'
                 },
                 {
                     title: 'Herfomyc',
                     description: '/',
                     image: 'ekoloski-proizvodi/herfomyc.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=62'
+                    link: 'katalozi/2020-prihrana.pdf#page=18'
                 },
                 {
                     title: 'Herfosec',
                     description: '/',
                     image: 'ekoloski-proizvodi/herfosec.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=62'
+                    link: 'katalozi/2020-prihrana.pdf#page=18'
                 },
                 {
                     title: 'Ekološka gnojiva',
@@ -38,6 +38,36 @@
                     description: '/',
                     image: 'ekoloski-proizvodi/repelent-za-puzeve.jpg',
                     link: 'katalozi/2020-prihrana.pdf#page=62'
+                },
+                {
+                    title: 'Nemater ',
+                    description: '/',
+                    image: 'ekoloski-proizvodi/nemater.png',
+                    link: 'katalozi/2020-prihrana.pdf#page=20'
+                },
+                {
+                    title: 'Tercol',
+                    description: '/',
+                    image: 'ekoloski-proizvodi/tercol.png',
+                    link: 'katalozi/2020-prihrana.pdf#page=21'
+                },
+                {
+                    title: 'Ascoleg',
+                    description: '/',
+                    image: 'ekoloski-proizvodi/ascoleg.png',
+                    link: 'katalozi/2020-prihrana.pdf#page=31'
+                },
+                {
+                    title: 'Borealg',
+                    description: '/',
+                    image: 'ekoloski-proizvodi/borelag.png',
+                    link: 'katalozi/2020-prihrana.pdf#page=32'
+                },
+                {
+                    title: 'TSL29',
+                    description: '/',
+                    image: 'ekoloski-proizvodi/TSL29.png',
+                    link: 'katalozi/2020-prihrana.pdf#page=33'
                 }
             ]
         }
