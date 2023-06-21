@@ -12,6 +12,7 @@
     <div class="container">
         <nav><small><a rel="prefetch" href="strucni-savjeti">Stručni savjeti</a> > Salata i špinat</small></nav>
         <h1>Prihrana zelene salate i špinata</h1>
+        <a href="katalozi/2020-sjeme-povrca.pdf#page=33">Pročitaj</a>
 
         <p>Zelena salata je povrtna kutlura koja se u Hrvatskoj uzgaja gotovo tijekom cijele godine. Salata ima skromne potrebe za toplinom i svjetlošću, što je čini idealnom za uzgoj u staklenicima i plastenicima tijekom jeseni, zime i ranog proljeća.  Obično se sadi nakon kultura duge vegetacije kao što su krastavac, rajčica, paprika. Zbog kratkog uzgojnog ciklusa, osnovna gnojidba salate je jednostavniji tehnološki zahvat, te se provodi kao osnovna gnojidba prije sadnje te dvije prihrane tijekom rasta i razvoja glavica.</p>
         <p><img src="strucni-savjeti/salata-i-spinat/i3.jpg" alt=""></p>
@@ -21,39 +22,39 @@
 
         <p><img src="strucni-savjeti/salata-i-spinat/i2.jpeg" alt=""></p>
 
-        <figure>
-            <figcaption><b>1. faza</b></figcaption>
-            <ul>
-                <li>U fazi ukorijenjavanja, 10-12 dana nakon presađivanja, preporuča se primjena vodotopivog gnojiva Novalon 12-48-6+TE ili tekućeg gnojiva s visokim sadržajem bakra, Kalex Cu, kao i Rootexa, stimulatora tla i razvoja korijena.</li>
-                <li>Novalon 12-48-6+TE se koristi u količini 0,75-1g/L vode kroz sustav kap na kap ili 2,5 kg/ha folijarno, a Kalex Cu u količini 150-200 ml/100L vode folijarno.</li>
-                <li>Rootex je snažna formula sa visokom koncentracijom organskih ekstrakata, L-aminokiselina i fosfora koja smanjuje stres kod niskih temperatura i poslije presadjivanja pospješuje ukorijenjavanje. Koristi se zaljevanjem 30-50g/10L vode ili kroz sustav kap na kap 0,25 g/L vode.</li>
-            </ul>
-        </figure>
+<!--        <figure>-->
+<!--            <figcaption><b>1. faza</b></figcaption>-->
+<!--            <ul>-->
+<!--                <li>U fazi ukorijenjavanja, 10-12 dana nakon presađivanja, preporuča se primjena vodotopivog gnojiva Novalon 12-48-6+TE ili tekućeg gnojiva s visokim sadržajem bakra, Kalex Cu, kao i Rootexa, stimulatora tla i razvoja korijena.</li>-->
+<!--                <li>Novalon 12-48-6+TE se koristi u količini 0,75-1g/L vode kroz sustav kap na kap ili 2,5 kg/ha folijarno, a Kalex Cu u količini 150-200 ml/100L vode folijarno.</li>-->
+<!--                <li>Rootex je snažna formula sa visokom koncentracijom organskih ekstrakata, L-aminokiselina i fosfora koja smanjuje stres kod niskih temperatura i poslije presadjivanja pospješuje ukorijenjavanje. Koristi se zaljevanjem 30-50g/10L vode ili kroz sustav kap na kap 0,25 g/L vode.</li>-->
+<!--            </ul>-->
+<!--        </figure>-->
 
-        <figure>
-            <figcaption><b>2. faza</b></figcaption>
-            <ul>
-                <li>Za formiranje rozete i početak glavičenja preporuča se vodotopivo gnojivo Novalon 20-20-20+TE, tjedno 2 kg/1000m2. Ova formulacija gnojiva Novalon utječe na brzi porast biljaka, visoki prinos i kvalitet plodova.</li>
-                <li>Takođe se preporuča primjena biostimulatora Bioplexa ili stimulatora rasta Vigorizera.  Ovi stimulatori jačaju biljne funkcije (antistres), otpornost na bolesti i utječu na brzo usvajanje hranjiva.</li>
-                <li>Koriste se u folijarnoj primjeni 0,3L/ha ili kroz sustav kap na kap 0,1-0,15 ml/1L vode 2-3 puta u fazi formiranja rozete.</li>
-            </ul>
-        </figure>
+<!--        <figure>-->
+<!--            <figcaption><b>2. faza</b></figcaption>-->
+<!--            <ul>-->
+<!--                <li>Za formiranje rozete i početak glavičenja preporuča se vodotopivo gnojivo Novalon 20-20-20+TE, tjedno 2 kg/1000m2. Ova formulacija gnojiva Novalon utječe na brzi porast biljaka, visoki prinos i kvalitet plodova.</li>-->
+<!--                <li>Takođe se preporuča primjena biostimulatora Bioplexa ili stimulatora rasta Vigorizera.  Ovi stimulatori jačaju biljne funkcije (antistres), otpornost na bolesti i utječu na brzo usvajanje hranjiva.</li>-->
+<!--                <li>Koriste se u folijarnoj primjeni 0,3L/ha ili kroz sustav kap na kap 0,1-0,15 ml/1L vode 2-3 puta u fazi formiranja rozete.</li>-->
+<!--            </ul>-->
+<!--        </figure>-->
 
-        <figure>
-            <figcaption><b>3. faza</b></figcaption>
-            <ul>
-                <li>
-                    <figure>
-                        <figcaption>U fazi intenzivne vegetacije pa sve do berbe koristiti:</figcaption>
-                        <ul>
-                            <li>Vodotopivo gnojivo Novalon 15-5-35+TE kroz sustav kap na kap 1-1,5 g/1L vode  2-3 puta do berbe, čime se pospješuje visoki prinos i kvalitet plodova.</li>
-                            <li>Calcium Mainstay, tekući kalcij, kroz sustav kap na kap tjedno 300 ml/1000 m2 ili folijarno 2-3L/ha. Ovaj tekući kalcij spriječava pojavu rubne truleži i ne treba ga miješati sa drugim preparatima.</li>
-                            <li>Trazex  koji uklanja nedostatke mikroelemenata kroz sustav kap na kap 0,5 kg/ha ili folijarno 300 g/100L vode.</li>
-                        </ul>
-                    </figure>
-                </li>
-            </ul>
-        </figure>
+<!--        <figure>-->
+<!--            <figcaption><b>3. faza</b></figcaption>-->
+<!--            <ul>-->
+<!--                <li>-->
+<!--                    <figure>-->
+<!--                        <figcaption>U fazi intenzivne vegetacije pa sve do berbe koristiti:</figcaption>-->
+<!--                        <ul>-->
+<!--                            <li>Vodotopivo gnojivo Novalon 15-5-35+TE kroz sustav kap na kap 1-1,5 g/1L vode  2-3 puta do berbe, čime se pospješuje visoki prinos i kvalitet plodova.</li>-->
+<!--                            <li>Calcium Mainstay, tekući kalcij, kroz sustav kap na kap tjedno 300 ml/1000 m2 ili folijarno 2-3L/ha. Ovaj tekući kalcij spriječava pojavu rubne truleži i ne treba ga miješati sa drugim preparatima.</li>-->
+<!--                            <li>Trazex  koji uklanja nedostatke mikroelemenata kroz sustav kap na kap 0,5 kg/ha ili folijarno 300 g/100L vode.</li>-->
+<!--                        </ul>-->
+<!--                    </figure>-->
+<!--                </li>-->
+<!--            </ul>-->
+<!--        </figure>-->
 
         <p>U svim fenofazama preporuča se BIOPLEX kroz sustav kap na kap 0,5-1L/ha. Biostimulator koji sadrži fitohormone i L-aminokiseline za jačanje biljnih funkcija u nepovoljnim uvjetima (hladnoća, zastoj u rastu ...).</p>
 

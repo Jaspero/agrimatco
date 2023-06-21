@@ -62,11 +62,11 @@
                     email: 'vinka.pospisil@agrimatco-eu.com'
                 },
                 {
-                    name: 'Tomislav Zrinski, ing. agr.',
-                    title: 'Stručni savjetnik za sjeme povrća, gnojiva i SZB',
+                    name: 'Bruno Brozović, dipl.ing. agronomije',
+                    title: 'Stručni savjetnik za SZB i folijarna gnojiva u Slavoniji i Baranjii',
                     area: 'Sjevero-zapadna Hrvatska',
-                    phone: '+385 (0)99 4746 906',
-                    email: 'tomislav.zrinski@agrimatco-eu.com'
+                    phone: '+385 3083 085',
+                    email: 'bruno.brozovic@agrimatco-eu.com'
                 },
                 {
                     name: 'Đuro Rađenović, dipl. ing. agr.',
@@ -134,6 +134,6 @@
         <hr>
 
         <h2>Područje rada</h2>
-        <p><img class="media-large" src="nas-tim/podrucje-rada.jpg" alt="Područje rada pojedinih članova Agrimatco tima na karti Hrvatske."></p>
+        <p><img class="media-large" src="nas-tim/karta.jpg" alt="Područje rada pojedinih članova Agrimatco tima na karti Hrvatske."></p>
     </div>
 </section>

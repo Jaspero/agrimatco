@@ -37,26 +37,27 @@
         </figure>
 
         <p>Za folijarnu gnojidbu strnih žitarica po fenofazama preporučamo sljedeće:</p>
-        <figure>
-            <figcaption><b>1. Fenofaza – Kraj busanja, početak vlatanja</b></figcaption>
-            <ul>
-                <li>Za razvoj korijenovog sustava, u fazi formiranja konusa rasta i broja vlati preporuča se primjena vodotopivog gnojiva Novalon 12-48-6+TE (3kg/ha na 200-300L/ha vode) ili Rootexa (0,5 kg/ha na 200-300L/ha vode), stimulatora tla i razvoja korijena.</li>
-                <li>Novalon 12-48-6+TE je namijenjen za prihranu biljke u ranoj fazi u vrijeme formiranja korijenovog sustava na što utječe visoka koncentracija fosfora.</li>
-                <li>Rootex je snažna formula sa visokom koncentracijom organskih ekstrakata, L-aminokiselina i fosfora koja smanjuje stres kod niskih temperatura i pospješuje ukorijenjavanje.</li>
-                <li>Za što bolji prinos i kondiciju usjeva primjenjuje se Trazex, preparat sa visokom koncentracijom mikroelemenata u količini 0,5 kg/ha na 200-300L vode/ha.</li>
-                <li>Obavezno korištenje okvašivača i penetratora INEX, 150 ml/ha na 200-300 L vode, koji poboljšava učinak folijarnih gnojiva.</li>
-            </ul>
-        </figure>
+        <a href="katalozi/2020-prihrana.pdf#page=49">Pročitaj</a>
+<!--        <figure>-->
+<!--            <figcaption><b>1. Fenofaza – Kraj busanja, početak vlatanja</b></figcaption>-->
+<!--            <ul>-->
+<!--                <li>Za razvoj korijenovog sustava, u fazi formiranja konusa rasta i broja vlati preporuča se primjena vodotopivog gnojiva Novalon 12-48-6+TE (3kg/ha na 200-300L/ha vode) ili Rootexa (0,5 kg/ha na 200-300L/ha vode), stimulatora tla i razvoja korijena.</li>-->
+<!--                <li>Novalon 12-48-6+TE je namijenjen za prihranu biljke u ranoj fazi u vrijeme formiranja korijenovog sustava na što utječe visoka koncentracija fosfora.</li>-->
+<!--                <li>Rootex je snažna formula sa visokom koncentracijom organskih ekstrakata, L-aminokiselina i fosfora koja smanjuje stres kod niskih temperatura i pospješuje ukorijenjavanje.</li>-->
+<!--                <li>Za što bolji prinos i kondiciju usjeva primjenjuje se Trazex, preparat sa visokom koncentracijom mikroelemenata u količini 0,5 kg/ha na 200-300L vode/ha.</li>-->
+<!--                <li>Obavezno korištenje okvašivača i penetratora INEX, 150 ml/ha na 200-300 L vode, koji poboljšava učinak folijarnih gnojiva.</li>-->
+<!--            </ul>-->
+<!--        </figure>-->
 
-        <figure>
-            <figcaption><b>2. Fenofaza – Kraj vlatanja, početak klasanja</b></figcaption>
-            <ul>
-                <li>Iznimno je važno da biljka u ovoj fazi ima dovoljno mikrohranjiva što utječe na njen intenzivan rast. Zato treba primjeniti vodotopivo gnojivo Novalon 20-20-20+TE ili Novalon 15-5-35+TE u količini 4-5 kg/ha na 200-300L vode ili Agrofol 390 u količini 5L/ha na 200-300L vode.</li>
-                <li>I u fazi intenzivnog rasta biljke primjenjuje se Trazex, preparat sa visokom koncentracijom mikroelemenata u količini 0,5 kg/ha na 200-300L vode/ha.</li>
-                <li>Obavezno korištenje okvašivača i penetratora INEX, 150 ml/ha na 200-300 L vode, koji poboljšava učinak folijarnih gnojiva.</li>
-                <li>Tokom cijele vegetacije, u posebno nepovoljnim uvjetima, nakon primjene herbicida i prilikom svake gnojidbe, obavezna je primjena Bioplexa 0,5 L/ha na 200-300L vode/ha. Koristiti ga za smanjenje negativnog učinka herbicida, bolesti i štetnika jer u sebi ima veliki utjecaj organskih ekstrakta, aminokiselina i fitohormona.</li>
-            </ul>
-        </figure>
+<!--        <figure>-->
+<!--            <figcaption><b>2. Fenofaza – Kraj vlatanja, početak klasanja</b></figcaption>-->
+<!--            <ul>-->
+<!--                <li>Iznimno je važno da biljka u ovoj fazi ima dovoljno mikrohranjiva što utječe na njen intenzivan rast. Zato treba primjeniti vodotopivo gnojivo Novalon 20-20-20+TE ili Novalon 15-5-35+TE u količini 4-5 kg/ha na 200-300L vode ili Agrofol 390 u količini 5L/ha na 200-300L vode.</li>-->
+<!--                <li>I u fazi intenzivnog rasta biljke primjenjuje se Trazex, preparat sa visokom koncentracijom mikroelemenata u količini 0,5 kg/ha na 200-300L vode/ha.</li>-->
+<!--                <li>Obavezno korištenje okvašivača i penetratora INEX, 150 ml/ha na 200-300 L vode, koji poboljšava učinak folijarnih gnojiva.</li>-->
+<!--                <li>Tokom cijele vegetacije, u posebno nepovoljnim uvjetima, nakon primjene herbicida i prilikom svake gnojidbe, obavezna je primjena Bioplexa 0,5 L/ha na 200-300L vode/ha. Koristiti ga za smanjenje negativnog učinka herbicida, bolesti i štetnika jer u sebi ima veliki utjecaj organskih ekstrakta, aminokiselina i fitohormona.</li>-->
+<!--            </ul>-->
+<!--        </figure>-->
 
         <hr>
         <p><b>Sve informacije iz kataloga su orijentacijskog karaktera te služe samo kao pomoć ili putokaz profesionalnim uzgajivačima i korisnicima. Prihrana može varirati ovisno o tipu tla, pH vrijednosti tla, osnovnoj gnojidbi, hibridu ili sorti, načinu uzgoja i drugim faktorima. Stoga ove preporuke ne pružaju garanciju uspješnog uroda. Preko osamdeset godina uspješnog poslovanja Agrimatco je sigurnost proizvođača na dobar odabir!</b></p>
