@@ -5,7 +5,7 @@
 <section class="section">
     <div class="container">
         <h1>O nama</h1>
-        <p>Agrimatco d.o.o. je dio Agrimatco grupe koja obilježava 80 godina postojanja.</p>
+        <p>Agrimatco d.o.o. je dio Agrimatco grupe koja obilježava preko 80 godina postojanja.</p>
 
         <h2>Povijest</h2>
         <p>Agrimatcova misija počela je sa osnivačem, pokojnim g. Khalil Miqdadi (1908-1980). Nakon što je diplomirao u Francuskoj (L’Ecole Nationale d’Agriculture de Grigon Agricultural Engineer), vratio se u Palestinu 1936 g., i pokrenuo vlastitu tvrtku. Opskrbljivao je poljoprivredne proizvođače sa najboljim materijalima, pomažući im da poboljšaju proizvodnju.  Njegova strast prema poljoprivredi proteže se i do danas kroz njegove sinove g. Khaleda Miqdadi i g. Mustafu Miqdadi koji danas vode Agrimatco, koji je od  male obiteljske tvrtke prerastao je u internacionalnu grupaciju.</p>

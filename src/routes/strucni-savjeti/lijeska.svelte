@@ -46,87 +46,88 @@
         <p>Za puni učinak djelovanja pesticida i folijarnih gnojiva potrebno je koristiti okvašivač, aktivator i penetrator INEX koji omogućava puni učinak pesticida te ne dozvoljava da se otopina u atomizerima pjeni te skida postojeću pjenu sa pesticida koji se pjene (na 500 l vode ide 0,25 l INEX).</p>
 
         <h2>Folijarna prihrana ljeske</h2>
+        <a href="katalozi/2020-sjeme-povrca.pdf#page=56">Pročitaj</a>
 
         <figure>
             <figcaption><b>1. faza – od 15. travnja do 1. svibnja</b></figcaption>
-            <ul>
-                <li>U ovom periodu se preporuča korištenje vodotopivog gnojiva Novalon 20-20-20+TE u količini 3kg/ha za intenzivan porast i bioplexa u količini 0,5-0,7 L/ha za jačanje otpornosti biljke na temperaturne razlike.</li>
-            </ul>
+<!--            <ul>-->
+<!--                <li>U ovom periodu se preporuča korištenje vodotopivog gnojiva Novalon 20-20-20+TE u količini 3kg/ha za intenzivan porast i bioplexa u količini 0,5-0,7 L/ha za jačanje otpornosti biljke na temperaturne razlike.</li>-->
+<!--            </ul>-->
         </figure>
 
         <figure>
             <figcaption><b>2. faza – intenzivna vegetacija i oplodnja (traje oko 45 dana) </b></figcaption>
-            <ul>
-                <li>U fazi intenzivne vegetacije i oplodnje preporuča se korištenje:</li>
-                <li>
-                    <ul>
-                        <li>kombinacije gnojiva Kelatex Ca+B, Kelatex Zn i Novalon 20-20-20+TE</li>
-                        <li>
-                            <ul>
-                                <li>Kelatex Ca+B u količini od 1 kg/ha, koristi se u svim fazama razvoja biljke kada se očekuju visoki prinosi i kvalitet</li>
-                                <li>Kelatex Zn u količini 0,5 kg/ha, vodotopivo gnojivo sa visokom koncentracijom cinka</li>
-                                <li>Novalon 20-20-20+TE u količini 3kg/ha, vodotopivo gnojivo koje utječe na razvoj korijenovog sustava, intenzivnu cvatnju, bolju vegetaciju i otpornost na bolesti i nepovoljne uvjete.</li>
-                            </ul>
-                        </li>
-                        <li>ili kombinacije gnojiva Tropicel i Novalon 20-20-20+TE:</li>
-                        <li>
-                            <ul>
-                                <li>Tropicel 1-1,5 kg/ha, vodotopivo gnojivo za bolju cvatnju i oplodnju</li>
-                                <li>Novalon 20-20-20+TE u količini 3kg/ha, vodotopivo gnojivo koje utječe na razvoj korijenovog sustava, intenzivnu cvatnju, bolju vegetaciju i otpornost na bolesti i nepovoljne uvjete.</li>
-                                <li>Inex, okvašivač i penetrator, poboljšava učinak folijarnih nojiva i treba ga koristiti u količini 0,15 L/ha na 200-300L vode/ha.</li>
-                            </ul>
-                        </li>
-                    </ul>
-                </li>
-            </ul>
+<!--            <ul>-->
+<!--                <li>U fazi intenzivne vegetacije i oplodnje preporuča se korištenje:</li>-->
+<!--                <li>-->
+<!--                    <ul>-->
+<!--                        <li>kombinacije gnojiva Kelatex Ca+B, Kelatex Zn i Novalon 20-20-20+TE</li>-->
+<!--                        <li>-->
+<!--                            <ul>-->
+<!--                                <li>Kelatex Ca+B u količini od 1 kg/ha, koristi se u svim fazama razvoja biljke kada se očekuju visoki prinosi i kvalitet</li>-->
+<!--                                <li>Kelatex Zn u količini 0,5 kg/ha, vodotopivo gnojivo sa visokom koncentracijom cinka</li>-->
+<!--                                <li>Novalon 20-20-20+TE u količini 3kg/ha, vodotopivo gnojivo koje utječe na razvoj korijenovog sustava, intenzivnu cvatnju, bolju vegetaciju i otpornost na bolesti i nepovoljne uvjete.</li>-->
+<!--                            </ul>-->
+<!--                        </li>-->
+<!--                        <li>ili kombinacije gnojiva Tropicel i Novalon 20-20-20+TE:</li>-->
+<!--                        <li>-->
+<!--                            <ul>-->
+<!--                                <li>Tropicel 1-1,5 kg/ha, vodotopivo gnojivo za bolju cvatnju i oplodnju</li>-->
+<!--                                <li>Novalon 20-20-20+TE u količini 3kg/ha, vodotopivo gnojivo koje utječe na razvoj korijenovog sustava, intenzivnu cvatnju, bolju vegetaciju i otpornost na bolesti i nepovoljne uvjete.</li>-->
+<!--                                <li>Inex, okvašivač i penetrator, poboljšava učinak folijarnih nojiva i treba ga koristiti u količini 0,15 L/ha na 200-300L vode/ha.</li>-->
+<!--                            </ul>-->
+<!--                        </li>-->
+<!--                    </ul>-->
+<!--                </li>-->
+<!--            </ul>-->
         </figure>
 
         <figure>
             <figcaption><b>3. faza – zametanje i naljevanje plodova (30 dana)</b></figcaption>
-            <ul>
-                <li><img src="strucni-savjeti/lijeska/i1.jpg" alt=""></li>
-                <li>Vodotopivo gnojivo Novalon 19-6-20+2MgO+TE ili Keymag 10-0-40+2MgO koristiti u fazi zametanja i naljevanja plodova, u količini 3-5 kg/ha, a gnojivo Yara Liva Calcinit koristiti u količini 3-5 kg/ha za formiranje ploda.</li>
-                <li>Bioplex, biostimulator koji pospješuje metaboličku aktivnost biljke, koristiti u količini 0,5L/ha u kombinaciji sa vodotopivim gnojivom Novalon 19:6:20+2MgO+TE ili Keymag 10:0:40 + 2MgO.</li>
-                <li><img src="strucni-savjeti/lijeska/i2.jpg" alt=""></li>
-            </ul>
+<!--            <ul>-->
+<!--                <li><img src="strucni-savjeti/lijeska/i1.jpg" alt=""></li>-->
+<!--                <li>Vodotopivo gnojivo Novalon 19-6-20+2MgO+TE ili Keymag 10-0-40+2MgO koristiti u fazi zametanja i naljevanja plodova, u količini 3-5 kg/ha, a gnojivo Yara Liva Calcinit koristiti u količini 3-5 kg/ha za formiranje ploda.</li>-->
+<!--                <li>Bioplex, biostimulator koji pospješuje metaboličku aktivnost biljke, koristiti u količini 0,5L/ha u kombinaciji sa vodotopivim gnojivom Novalon 19:6:20+2MgO+TE ili Keymag 10:0:40 + 2MgO.</li>-->
+<!--                <li><img src="strucni-savjeti/lijeska/i2.jpg" alt=""></li>-->
+<!--            </ul>-->
         </figure>
 
         <figure>
             <figcaption><b>4. faza – zrioba i berba</b></figcaption>
-            <ul>
-                <li><img src="strucni-savjeti/lijeska/i3.jpg" alt=""></li>
-                <li>Vodotopivo gnojivo Novalon 0-5-35+4,5MgO+TE, koristiti u količini 5kg/ha jer magnezij pojačava fotosintezu u ovoj fazi, a Calcium Mainstay, tekući kalcij, za poboljšanje kvalitete ploda, rast ploda i zdravu ljusku, u količini 3L/ha.</li>
-                <li>
-                    <ul>
-                        <li>Inex, okvašivač i penetrator, poboljšava učinak folijarnih gnojiva i treba ga koristiti u količini 0,15 L/ha na 200-300L vode/ha.</li>
-                    </ul>
-                </li>
-            </ul>
+<!--            <ul>-->
+<!--                <li><img src="strucni-savjeti/lijeska/i3.jpg" alt=""></li>-->
+<!--                <li>Vodotopivo gnojivo Novalon 0-5-35+4,5MgO+TE, koristiti u količini 5kg/ha jer magnezij pojačava fotosintezu u ovoj fazi, a Calcium Mainstay, tekući kalcij, za poboljšanje kvalitete ploda, rast ploda i zdravu ljusku, u količini 3L/ha.</li>-->
+<!--                <li>-->
+<!--                    <ul>-->
+<!--                        <li>Inex, okvašivač i penetrator, poboljšava učinak folijarnih gnojiva i treba ga koristiti u količini 0,15 L/ha na 200-300L vode/ha.</li>-->
+<!--                    </ul>-->
+<!--                </li>-->
+<!--            </ul>-->
         </figure>
 
         <figure>
             <figcaption><b>5. faza – nakon berbe prije opadanja lišća (nakon 15 dana)</b></figcaption>
-            <ul>
-                <li><img src="strucni-savjeti/lijeska/i4.jpg" alt=""></li>
-                <li>Bitna primjena za sljedeću vegetacijsku godinu zasniva se na primjeni vodotopivog gnojiva Novalon 6-12-36+3MgO+TE ili Novalon 0-5-35+4,5MgO+TE u količini 5-8 kg/ha.</li>
-                <li>U ovoj fazi takođe je važna primjena jednog od sljedećih gnojiva:</li>
-                <li>
-                    <ul>
-                        <li>Kelatex B (visoka koncentracija bora), u količini 1-1,5 kg/ha</li>
-                        <li>Trazex (koncentracija mikroelemenata)</li>
-                        <li>Tropicel (za bolju cvatnju i oplodnju),</li>
-                    </ul>
-                </li>
-                <li>A na tlo razbacati u širini krošnje granulirano gnojivo sa povećanim kalijem GRANU POTASSE (50,3%).</li>
-                <li>Obavezna primjena Inexa, okvašivač i penetrator, poboljšava učinak folijarnih gnojiva i treba ga koristiti u količini 0,15 L/ha na 200-300L vode/ha.</li>
-                <li>
-                    <ul>
-                        <li>BIOPLEX* koristiti u stresnim situacijama </li>
-                        <li>NOVALONI* mogu se koristiti s pesticidima, osim kada se koriste uljne formulacije ili postoji zabrana miješanja </li>
-                        <li>INEX * koristiti za puni učinak - kao aktivator i okvašivač</li>
-                    </ul>
-                </li>
-            </ul>
+<!--            <ul>-->
+<!--                <li><img src="strucni-savjeti/lijeska/i4.jpg" alt=""></li>-->
+<!--                <li>Bitna primjena za sljedeću vegetacijsku godinu zasniva se na primjeni vodotopivog gnojiva Novalon 6-12-36+3MgO+TE ili Novalon 0-5-35+4,5MgO+TE u količini 5-8 kg/ha.</li>-->
+<!--                <li>U ovoj fazi takođe je važna primjena jednog od sljedećih gnojiva:</li>-->
+<!--                <li>-->
+<!--                    <ul>-->
+<!--                        <li>Kelatex B (visoka koncentracija bora), u količini 1-1,5 kg/ha</li>-->
+<!--                        <li>Trazex (koncentracija mikroelemenata)</li>-->
+<!--                        <li>Tropicel (za bolju cvatnju i oplodnju),</li>-->
+<!--                    </ul>-->
+<!--                </li>-->
+<!--                <li>A na tlo razbacati u širini krošnje granulirano gnojivo sa povećanim kalijem GRANU POTASSE (50,3%).</li>-->
+<!--                <li>Obavezna primjena Inexa, okvašivač i penetrator, poboljšava učinak folijarnih gnojiva i treba ga koristiti u količini 0,15 L/ha na 200-300L vode/ha.</li>-->
+<!--                <li>-->
+<!--                    <ul>-->
+<!--                        <li>BIOPLEX* koristiti u stresnim situacijama </li>-->
+<!--                        <li>NOVALONI* mogu se koristiti s pesticidima, osim kada se koriste uljne formulacije ili postoji zabrana miješanja </li>-->
+<!--                        <li>INEX * koristiti za puni učinak - kao aktivator i okvašivač</li>-->
+<!--                    </ul>-->
+<!--                </li>-->
+<!--            </ul>-->
         </figure>
 
         <hr>
