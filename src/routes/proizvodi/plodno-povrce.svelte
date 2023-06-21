@@ -13,73 +13,85 @@
                     title: 'TopMara F1',
                     description: 'Dobavljač: United Genetics',
                     image: 'sjeme-povrca/plodno-povrce/lubenica/topmara-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=46'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=48'
                 },
                 {
                     title: 'Early Samantha F1',
                     description: 'Dobavljač: United Genetics',
                     image: 'sjeme-povrca/plodno-povrce/lubenica/early-samantha-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=46'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=48'
                 },
                 {
                     title: 'Early Crimara F1',
                     description: 'Dobavljač: United Genetics',
                     image: 'sjeme-povrca/plodno-povrce/lubenica/early-crimara-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=46'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=48'
                 },
                 {
                     title: 'Karnakata F1',
                     description: 'Dobavljač: United Genetics',
                     image: 'sjeme-povrca/plodno-povrce/lubenica/karnakata-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=47'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=49'
                 },
                 {
                     title: 'Samantha F1',
                     description: 'Dobavljač: United Genetics',
                     image: 'sjeme-povrca/plodno-povrce/lubenica/samantha-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=47'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=49'
                 },
                 {
                     title: 'Marbella F1',
                     description: 'Dobavljač: United Genetics',
                     image: 'sjeme-povrca/plodno-povrce/lubenica/marbella-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=47'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=49'
                 },
                 {
                     title: 'Prismatica F1',
                     description: 'Dobavljač: United Genetics',
                     image: 'sjeme-povrca/plodno-povrce/lubenica/prismatica-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=48'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=50'
                 },
                 {
                     title: 'Crimstar F1',
                     description: 'Dobavljač: Sakata',
                     image: 'sjeme-povrca/plodno-povrce/lubenica/crimstar-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=48'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=50'
                 },
                 {
                     title: 'Odyssey F1',
                     description: 'Dobavljač: Sakata',
                     image: 'sjeme-povrca/plodno-povrce/lubenica/odyssey-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=48'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=50'
+                },
+                {
+                    title: 'Celest F1',
+                    description: 'Dobavljač: Sakata',
+                    image: 'sjeme-povrca/plodno-povrce/lubenica/celest.png',
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=50'
                 },
                 {
                     title: 'Lusia F1',
                     description: 'Dobavljač: Vilmorin',
                     image: 'sjeme-povrca/plodno-povrce/lubenica/lusia-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=49'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=51'
                 },
                 {
                     title: 'Romeria F1',
                     description: 'Dobavljač: United Genetics',
                     image: 'sjeme-povrca/plodno-povrce/lubenica/romeria-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=49'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=51'
                 },
                 {
                     title: 'Obla F1',
                     description: 'Dobavljač: Esasem',
                     image: 'sjeme-povrca/plodno-povrce/lubenica/obla-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=49'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=51'
+                },
+                {
+                    title: 'Ketty F1',
+                    description: 'Dobavljač: Esasem',
+                    image: 'sjeme-povrca/plodno-povrce/lubenica/ketty.png',
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=51'
                 }
             ]
         },
@@ -90,7 +102,7 @@
                     title: 'Routpower',
                     description: 'Dobavljač: Sakata',
                     image: 'sjeme-povrca/plodno-povrce/podloga-za-cijeplenje-lubenica/routpower.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=50'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=52'
                 }
             ]
         },
@@ -101,32 +113,32 @@
                     title: 'Terriero F1',
                     description: 'Dobavljač: Vilmorin',
                     image: 'sjeme-povrca/plodno-povrce/dinja/terriero-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=50'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=53'
                 },
                 {
                     title: 'Wrangler F1',
                     description: 'Dobavljač: SAIS',
                     image: 'sjeme-povrca/plodno-povrce/dinja/wrangler-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=50'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=53'
                 },
                 {
-                    title: 'Jannet F1',
-                    description: 'Dobavljač: Esasem',
-                    image: 'sjeme-povrca/plodno-povrce/dinja/jannet-f1.png',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=51'
+                    title: 'Portento',
+                    description: 'Dobavljač: SAIS',
+                    image: 'sjeme-povrca/plodno-povrce/dinja/wrangler-f1.jpg',
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=53'
                 },
                 {
-                    title: 'Portento F1',
-                    description: 'Dobavljač: United Genetics',
-                    image: 'sjeme-povrca/plodno-povrce/dinja/portento-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=51'
+                    title: 'El Rey',
+                    description: 'Dobavljač: SAIS',
+                    image: 'sjeme-povrca/plodno-povrce/dinja/wrangler-f1.jpg',
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=53'
                 },
                 {
-                    title: 'El Rey F1',
-                    description: 'Dobavljač: United Genetics',
-                    image: 'sjeme-povrca/plodno-povrce/dinja/el-rey-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=51'
-                }
+                    title: 'Jannet',
+                    description: 'Dobavljač: SAIS',
+                    image: 'sjeme-povrca/plodno-povrce/dinja/jannet.png',
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=53'
+                },
             ]
         },
         {
@@ -136,49 +148,49 @@
                     title: 'Ariel F1',
                     description: 'Dobavljač: Sakata',
                     image: 'sjeme-povrca/plodno-povrce/tikva/ariel-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=54'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=56'
                 },
                 {
                     title: 'Pluto',
                     description: 'Dobavljač: Sakata',
                     image: 'sjeme-povrca/plodno-povrce/tikva/pluto.png',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=54'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=56'
                 },
                 {
                     title: 'Veenas F1',
                     description: 'Dobavljač: Sakata',
                     image: 'sjeme-povrca/plodno-povrce/tikva/veenas-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=54'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=56'
                 },
                 {
                     title: 'Yellowboys F1',
                     description: 'Dobavljač: Semo',
                     image: 'sjeme-povrca/plodno-povrce/tikva/yellowboys-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=54'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=56'
                 },
                 {
                     title: 'Yellowgirls F1',
                     description: 'Dobavljač: Semo',
                     image: 'sjeme-povrca/plodno-povrce/tikva/yellowgirls-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=55'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=57'
                 },
                 {
                     title: 'Hokkaido Orange',
                     description: 'Dobavljač: Semo',
                     image: 'sjeme-povrca/plodno-povrce/tikva/hokkaido-orange.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=55'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=57'
                 },
                 {
                     title: 'Delica F1',
                     description: 'Dobavljač: Semo',
                     image: 'sjeme-povrca/plodno-povrce/tikva/delica-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=55'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=57'
                 },
                 {
                     title: 'Crown Prince F1',
                     description: 'Dobavljač: Sakata',
                     image: 'sjeme-povrca/plodno-povrce/tikva/crown-prince-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=55'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=57'
                 }
             ]
         },
