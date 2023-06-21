@@ -62,6 +62,22 @@
                     description: 'Mikrobiološki preparat stimulativnog djelovanja',
                     image: 'stimulatori-porasta-i-poboljsivaci-tla/biolife.png',
                     link: 'katalozi/2020-prihrana.pdf#page=43'
+                },
+                {
+                    title: 'Biolife ',
+                    description: 'Mikrobiološki preparat stimulativnog djelovanja',
+                    image: 'stimulatori-porasta-i-poboljsivaci-tla/biolife.png',
+                    link: 'katalozi/2020-prihrana.pdf#page=43'
+                },
+                {
+                    title: 'Wopro Terra' +
+                        'NPK 4-3-2+Mg, S, Ca; \n' +
+                        'NPK 4-10-2+Mg, S, Ca;\n' +
+                        'NPK 10-7-1+Mg, S, Ca; \n' +
+                        'NPK 1-1-15+Mg, S, Ca;',
+                    description: 'Organski poboljšivač tla',
+                    image: 'stimulatori-porasta-i-poboljsivaci-tla/wopro-terra.png',
+                    link: 'katalozi/2020-prihrana.pdf#page=26'
                 }
             ]
         }

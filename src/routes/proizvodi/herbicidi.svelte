@@ -13,19 +13,37 @@
                     title: 'NICO 4 SC',
                     description: 'Nikosulfuron 40 g/L',
                     image: 'herbicidi/nico-4-sc.png',
-                    link: 'katalozi/2020-prihrana.pdf#page=58'
+                    link: 'katalozi/2020-prihrana.pdf#page=60'
                 },
                 {
                     title: 'Cash',
                     description: 'Dikamba 480 g/L',
                     image: 'herbicidi/cash.png',
-                    link: 'katalozi/2020-prihrana.pdf#page=58'
+                    link: 'katalozi/2020-prihrana.pdf#page=60'
                 },
                 {
                     title: 'Gallup Super 480',
                     description: 'Totalni herbicid za suzbijanje travnih i širokolisnih korova. Glifosat 360 g/L',
                     image: 'herbicidi/gallup-super-480.png',
-                    link: 'katalozi/2020-prihrana.pdf#page=59'
+                    link: 'katalozi/2020-prihrana.pdf#page=61'
+                },
+                {
+                    title: 'Plaza WG',
+                    description: 'Rimsulfuron 250g/kg',
+                    image: 'herbicidi/Plaza.png',
+                    link: 'katalozi/2020-prihrana.pdf#page=61'
+                },
+                {
+                    title: 'Hurler ',
+                    description: 'Fluroksipir 200g/L',
+                    image: 'herbicidi/Hurler.png',
+                    link: 'katalozi/2020-prihrana.pdf#page=61'
+                },
+                {
+                    title: 'Darby ',
+                    description: 'Totalni herbicid za suzbijanje travnih i širokolisnih korova. Glifosat 360 g/L',
+                    image: 'herbicidi/Darby.png',
+                    link: 'katalozi/2020-prihrana.pdf#page=61'
                 }
             ]
         }
