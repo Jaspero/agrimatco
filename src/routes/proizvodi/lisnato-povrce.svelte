@@ -13,7 +13,13 @@
                     title: 'Fripone',
                     description: 'Dobavljač: Vilmorin',
                     image: 'sjeme-povrca/lisnato-povrce/salata/fripone.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=15'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=14'
+                },
+                {
+                    title: 'Quione ',
+                    description: 'Dobavljač: Vilmorin',
+                    image: 'sjeme-povrca/lisnato-povrce/salata/quione.png',
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=14'
                 },
                 {
                     title: 'Arletti',
@@ -25,7 +31,7 @@
                     title: 'Quefir',
                     description: 'Dobavljač: Vilmorin',
                     image: 'sjeme-povrca/lisnato-povrce/salata/quefir.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=15'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=16'
                 },
                 {
                     title: 'Alcaline',
@@ -34,34 +40,28 @@
                     link: 'katalozi/2022-sjeme-povrca.pdf#page=15'
                 },
                 {
-                    title: 'Mignone',
-                    description: 'Dobavljač: Vilmorin',
-                    image: 'sjeme-povrca/lisnato-povrce/salata/mignone.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=16'
-                },
-                {
                     title: 'Zeralda',
                     description: 'Dobavljač: Vilmorin',
                     image: 'sjeme-povrca/lisnato-povrce/salata/zeralda.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=19'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=18'
                 },
                 {
                     title: 'Epsilone',
                     description: 'Dobavljač: Vilmorin',
                     image: 'sjeme-povrca/lisnato-povrce/salata/epsilone.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=16'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=18'
                 },
                 {
                     title: 'Garone',
                     description: 'Dobavljač: Vilmorin',
                     image: 'sjeme-povrca/lisnato-povrce/salata/garone.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=17'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=14'
                 },
                 {
                     title: 'Maradone',
                     description: 'Dobavljač: Vilmorin',
                     image: 'sjeme-povrca/lisnato-povrce/salata/maradone.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=17'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=14'
                 },
                 {
                     title: 'Minestrone',
@@ -73,31 +73,31 @@
                     title: 'Quelio',
                     description: 'Dobavljač: Vilmorin',
                     image: 'sjeme-povrca/lisnato-povrce/salata/quelio.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=18'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=16'
                 },
                 {
                     title: 'Flambine',
                     description: 'Dobavljač: Vilmorin',
                     image: 'sjeme-povrca/lisnato-povrce/salata/flambine.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=18'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=16'
                 },
                 {
                     title: 'Bacchus',
                     description: 'Dobavljač: Vilmorin',
                     image: 'sjeme-povrca/lisnato-povrce/salata/bacchus.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=18'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=16'
                 },
                 {
                     title: 'Amalizia',
                     description: 'Dobavljač: Vilmorin',
                     image: 'sjeme-povrca/lisnato-povrce/salata/amalizia.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=18'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=15'
                 },
                 {
                     title: 'Dragone',
                     description: 'Dobavljač: Vilmorin',
                     image: 'sjeme-povrca/lisnato-povrce/salata/dragone.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=19'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=18'
                 },
                 {
                     title: 'Exquise',
@@ -112,40 +112,58 @@
                     link: 'katalozi/2022-sjeme-povrca.pdf#page=19'
                 },
                 {
+                    title: 'Alyne ',
+                    description: 'Dobavljač: ESASEM',
+                    image: 'sjeme-povrca/lisnato-povrce/salata/allyne.png',
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=19'
+                },
+                {
                     title: 'Tonale',
                     description: 'Dobavljač: Vilmorin',
                     image: 'sjeme-povrca/lisnato-povrce/salata/tonale.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=20'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=17'
                 },
                 {
                     title: 'Jukebox',
                     description: 'Dobavljač: Vilmorin',
                     image: 'sjeme-povrca/lisnato-povrce/salata/jukebox.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=20'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=17'
                 },
                 {
                     title: 'Pursuit',
                     description: 'Dobavljač: Vilmorin',
                     image: 'sjeme-povrca/lisnato-povrce/salata/pursuit.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=21'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=20'
+                },
+                {
+                    title: 'Parabela ',
+                    description: 'Dobavljač: Vilmorin',
+                    image: 'sjeme-povrca/lisnato-povrce/salata/parabela.png',
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=17'
+                },
+                {
+                    title: 'Rocambole  ',
+                    description: 'Dobavljač: Vilmorin',
+                    image: 'sjeme-povrca/lisnato-povrce/salata/rocambole.png',
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=17'
                 },
                 {
                     title: 'Glassica',
                     description: 'Dobavljač: Vilmorin',
                     image: 'sjeme-povrca/lisnato-povrce/salata/glassica.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=21'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=20'
                 },
                 {
                     title: 'Kokyta - Endivija',
                     description: 'Dobavljač: Isi Sementi',
                     image: 'sjeme-povrca/lisnato-povrce/salata/kokyta-endivija.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=21'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=20'
                 },
                 {
                     title: 'Raris - Endivija',
                     description: 'Dobavljač: Isi Sementi',
                     image: 'sjeme-povrca/lisnato-povrce/salata/raris-endivija.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=21'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=20'
                 }
             ]
         },
@@ -156,25 +174,25 @@
                     title: 'Palla Rossa 5 - Preda',
                     description: 'Dobavljač: Esasem',
                     image: 'sjeme-povrca/lisnato-povrce/radic/palla-rossa-5-preda.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=22'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=21'
                 },
                 {
                     title: 'Palla Rossa 6 - Meda',
                     description: 'Dobavljač: Esasem',
                     image: 'sjeme-povrca/lisnato-povrce/radic/palla-rossa-6-meda.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=22'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=21'
                 },
                 {
                     title: 'Rossa di Verona Precoce - Toga',
                     description: 'Dobavljač: Esasem',
                     image: 'sjeme-povrca/lisnato-povrce/radic/rossa-di-verona-precoce-toga.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=22'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=21'
                 },
                 {
                     title: 'Rossa di Treviso Precoce - Trevor',
                     description: 'Dobavljač: Esasem',
                     image: 'sjeme-povrca/lisnato-povrce/radic/rossa-di-treviso-precoce-trevor.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=22'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=21'
                 }
             ]
         },
@@ -185,13 +203,18 @@
                     title: 'Helios F1',
                     description: 'Dobavljač: Sakata',
                     image: 'sjeme-povrca/lisnato-povrce/spinat/helios-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=23'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=22'
                 },
+            ]
+        },
+        {
+            name: 'Blitva',
+            items: [
                 {
-                    title: 'Clipper F1',
-                    description: 'Dobavljač: Sakata',
-                    image: 'sjeme-povrca/lisnato-povrce/spinat/clipper-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=23'
+                    title: 'Candida',
+                    description: 'Dobavljač: SAIS',
+                    image: 'sjeme-povrca/lisnato-povrce/blitva/candida.png',
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=22'
                 },
             ]
         },
@@ -202,61 +225,61 @@
                     title: 'Elisa F1',
                     description: 'Dobavljač: Sakata',
                     image: 'sjeme-povrca/lisnato-povrce/bijeli-kupus/elisa-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=26'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=24'
                 },
                 {
                     title: 'Delight Ball F1',
                     description: 'Dobavljač: Mikado',
                     image: 'sjeme-povrca/lisnato-povrce/bijeli-kupus/delight-ball-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=26'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=24'
                 },
                 {
                     title: 'Nozomi F1',
                     description: 'Dobavljač: Sakata',
                     image: 'sjeme-povrca/lisnato-povrce/bijeli-kupus/nozomi-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=26'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=24'
                 },
                 {
                     title: 'Supreme Vantage F1',
                     description: 'Dobavljač: Sakata',
                     image: 'sjeme-povrca/lisnato-povrce/bijeli-kupus/supreme-vantage-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=27'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=24'
                 },
                 {
                     title: 'Hyppo F1',
                     description: 'Dobavljač: Sakata',
                     image: 'sjeme-povrca/lisnato-povrce/bijeli-kupus/hyppo-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=27'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=25'
                 },
                 {
                     title: 'Powerslam F1',
                     description: 'Dobavljač: Sakata',
                     image: 'sjeme-povrca/lisnato-povrce/bijeli-kupus/powerslam-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=27'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=25'
                 },
                 {
                     title: 'Monroo F1',
                     description: 'Dobavljač: Sakata',
                     image: 'sjeme-povrca/lisnato-povrce/bijeli-kupus/monroo-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=27'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=25'
                 },
                 {
                     title: 'Coronet F1',
                     description: 'Dobavljač: Sakata',
                     image: 'sjeme-povrca/lisnato-povrce/bijeli-kupus/coronet-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=28'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=25'
                 },
                 {
                     title: 'Saturn F1',
                     description: 'Dobavljač: Sakata',
                     image: 'sjeme-povrca/lisnato-povrce/bijeli-kupus/saturn-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=28'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=26'
                 },
                 {
                     title: 'Marloo F1',
                     description: 'Dobavljač: Sakata',
                     image: 'sjeme-povrca/lisnato-povrce/bijeli-kupus/marloo-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=28'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=26'
                 },
             ]
         },
@@ -267,7 +290,7 @@
                     title: 'Red Jewel F1',
                     description: 'Dobavljač: Sakata',
                     image: 'sjeme-povrca/lisnato-povrce/crveni-kupus/red-jewel-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=28'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=26'
                 }
             ]
         },
@@ -278,7 +301,7 @@
                     title: 'Kiseki F1',
                     description: 'Dobavljač: Sakata',
                     image: 'sjeme-povrca/lisnato-povrce/kineski-kupus/kiseki-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=29'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=26'
                 }
             ]
         },
@@ -294,19 +317,25 @@
                 {
                     title: 'Savostar F1',
                     description: 'Dobavljač: United Genetics',
-                    image: 'sjeme-povrca/lisnato-povrce/kelj/savostar-f1.jpg',
+                    image: 'sjeme-povrca/lisnato-povrce/kelj/savostar.png',
                     link: 'katalozi/2022-sjeme-povrca.pdf#page=29'
                 },
                 {
                     title: 'Providence F1',
-                    description: 'Dobavljač: Zada seeds',
+                    description: 'Dobavljač: Tozer seeds',
                     image: 'sjeme-povrca/lisnato-povrce/kelj/providence-f1.jpg',
                     link: 'katalozi/2022-sjeme-povrca.pdf#page=29'
                 },
                 {
                     title: 'Vanguard F1',
-                    description: 'Dobavljač: Zada seeds',
+                    description: 'Dobavljač: Tozer seeds',
                     image: 'sjeme-povrca/lisnato-povrce/kelj/vanguard-f1.jpg',
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=29'
+                },
+                {
+                    title: 'Resolution ',
+                    description: 'Dobavljač: Tozer seeds',
+                    image: 'sjeme-povrca/lisnato-povrce/kelj/resolution.jpg',
                     link: 'katalozi/2022-sjeme-povrca.pdf#page=29'
                 },
             ]
