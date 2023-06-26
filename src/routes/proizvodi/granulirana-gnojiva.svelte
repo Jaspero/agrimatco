@@ -24,14 +24,14 @@
                 {
                     title: 'Fertium Fuerza',
                     description: 'Osnovno i predsjetveno gnojivo',
-                    image: 'granulirana-gnojiva/alba-grow.png',
+                    image: 'granulirana-gnojiva/fertium_fuerza.png',
                     link: 'katalozi/2020-prihrana.pdf#page=10'
                 },
                 {
                     title: 'Sangral 12-0-46',
                     description: 'Predsjetveno gnojivo, kalij nitrat',
                     image: 'granulirana-gnojiva/sangral.png',
-                    link: 'katalozi/2020-prihrana.pdf#page=11'
+                    link: 'katalozi/2020-prihrana.pdf#page=12'
                 }
             ]
         }

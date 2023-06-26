@@ -18,7 +18,7 @@
                 {
                     title: 'Quione ',
                     description: 'Dobavljač: Vilmorin',
-                    image: 'sjeme-povrca/lisnato-povrce/salata/quione.png',
+                    image: 'sjeme-povrca/lisnato-povrce/salata/quione.jpg',
                     link: 'katalozi/2022-sjeme-povrca.pdf#page=14'
                 },
                 {
@@ -114,7 +114,7 @@
                 {
                     title: 'Alyne ',
                     description: 'Dobavljač: ESASEM',
-                    image: 'sjeme-povrca/lisnato-povrce/salata/allyne.png',
+                    image: 'sjeme-povrca/lisnato-povrce/salata/allyne.jpg',
                     link: 'katalozi/2022-sjeme-povrca.pdf#page=19'
                 },
                 {
@@ -138,13 +138,13 @@
                 {
                     title: 'Parabela ',
                     description: 'Dobavljač: Vilmorin',
-                    image: 'sjeme-povrca/lisnato-povrce/salata/parabela.png',
+                    image: 'sjeme-povrca/lisnato-povrce/salata/parabela.jpg',
                     link: 'katalozi/2022-sjeme-povrca.pdf#page=17'
                 },
                 {
                     title: 'Rocambole  ',
                     description: 'Dobavljač: Vilmorin',
-                    image: 'sjeme-povrca/lisnato-povrce/salata/rocambole.png',
+                    image: 'sjeme-povrca/lisnato-povrce/salata/rocambole.jpg',
                     link: 'katalozi/2022-sjeme-povrca.pdf#page=17'
                 },
                 {
@@ -213,7 +213,7 @@
                 {
                     title: 'Candida',
                     description: 'Dobavljač: SAIS',
-                    image: 'sjeme-povrca/lisnato-povrce/blitva/candida.png',
+                    image: 'sjeme-povrca/lisnato-povrce/blitva/candida.jpg',
                     link: 'katalozi/2022-sjeme-povrca.pdf#page=22'
                 },
             ]
@@ -317,7 +317,7 @@
                 {
                     title: 'Savostar F1',
                     description: 'Dobavljač: United Genetics',
-                    image: 'sjeme-povrca/lisnato-povrce/kelj/savostar.png',
+                    image: 'sjeme-povrca/lisnato-povrce/kelj/savostar.jpg',
                     link: 'katalozi/2022-sjeme-povrca.pdf#page=29'
                 },
                 {

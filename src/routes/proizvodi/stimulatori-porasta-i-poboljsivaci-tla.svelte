@@ -36,7 +36,7 @@
                 {
                     title: 'Riviter HFA ',
                     description: 'Organsko tekuće gnojivo na osnovu huminskih fulvo kiselina',
-                    image: 'stimulatori-porasta-i-poboljsivaci-tla/riviter-HFA.png',
+                    image: 'stimulatori-porasta-i-poboljsivaci-tla/riviter-HFA.jpg',
                     link: 'katalozi/2020-prihrana.pdf#page=26'
                 },
                 {
@@ -55,12 +55,6 @@
                     title: 'H-85',
                     description: 'Stimulator tla koji sadrži huminske i fulvo kiseline',
                     image: 'stimulatori-porasta-i-poboljsivaci-tla/h-85.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=43'
-                },
-                {
-                    title: 'Biolife ',
-                    description: 'Mikrobiološki preparat stimulativnog djelovanja',
-                    image: 'stimulatori-porasta-i-poboljsivaci-tla/biolife.png',
                     link: 'katalozi/2020-prihrana.pdf#page=43'
                 },
                 {

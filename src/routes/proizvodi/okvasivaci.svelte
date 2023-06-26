@@ -24,7 +24,7 @@
                 {
                     title: 'Surfare ',
                     description: 'Pomoćno sredstvo, okvašivač, snižava tvrdoću i pH otopine',
-                    image: 'okvasivaci/surfare.png',
+                    image: 'okvasivaci/surfare.jpg',
                     link: 'katalozi/2020-prihrana.pdf#page=45'
                 },
                 {
@@ -37,13 +37,13 @@
                     title: 'Crusade ',
                     description: 'Okvašivač za maksimalan učinak fungicida protiv plamenjače u krumpiru',
                     image: 'okvasivaci/crusade.png',
-                    link: 'katalozi/2020-prihrana.pdf#page=46'
+                    link: 'katalozi/2020-prihrana.pdf#page=48'
                 },
                 {
                     title: 'Soptech ',
                     description: 'Mješavina masnih alkohola',
                     image: 'okvasivaci/soptech.png',
-                    link: 'katalozi/2020-prihrana.pdf#page=46'
+                    link: 'katalozi/2020-prihrana.pdf#page=48'
                 }
             ]
         }

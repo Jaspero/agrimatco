@@ -12,7 +12,7 @@
                 {
                     title: 'Demetrina 25 EC',
                     description: 'Deltamethrin 25g/L',
-                    image: 'insekticidi/demetrina.png',
+                    image: 'insekticidi/demetrina.jpg',
                     link: 'katalozi/2020-prihrana.pdf#page=59'
                 }
             ]

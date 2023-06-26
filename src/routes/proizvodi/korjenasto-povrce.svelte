@@ -69,7 +69,7 @@
                 {
                     title: 'Subito F1',
                     description: 'Dobavljač: Vilmorin',
-                    image: 'sjeme-povrca/korjenasto-povrce/mrkva/subito.png',
+                    image: 'sjeme-povrca/korjenasto-povrce/mrkva/subito-f1.jpg',
                     link: 'katalozi/2022-sjeme-povrca.pdf#page=34'
                 },
                 {
@@ -93,7 +93,7 @@
                 {
                     title: 'Soprano F1',
                     description: 'Dobavljač: Vilmorin',
-                    image: 'sjeme-povrca/korjenasto-povrce/mrkva/soprano.png',
+                    image: 'sjeme-povrca/korjenasto-povrce/mrkva/soprano.jpg',
                     link: 'katalozi/2022-sjeme-povrca.pdf#page=35'
                 },
                 {
@@ -112,24 +112,24 @@
                     title: 'Gold Nugget F1',
                     description: 'Dobavljač: Vilmorin',
                     image: 'sjeme-povrca/korjenasto-povrce/mrkva/gold-nugget-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=41'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=37'
                 },
                 {
                     title: 'Taborska zluta',
                     description: 'Dobavljač: Semo',
                     image: 'sjeme-povrca/korjenasto-povrce/mrkva/taborska-zluta.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=41'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=37'
                 },
                 {
                     title: 'Flamenco',
                     description: 'Dobavljač: ',
-                    image: 'sjeme-povrca/korjenasto-povrce/mrkva/flamenco.png',
+                    image: 'sjeme-povrca/korjenasto-povrce/mrkva/flamenco.jpg',
                     link: 'katalozi/2022-sjeme-povrca.pdf#page=36'
                 },
                 {
                     title: 'Soneto',
                     description: 'Dobavljač: Vilmorin',
-                    image: 'sjeme-povrca/korjenasto-povrce/mrkva/soneto.png',
+                    image: 'sjeme-povrca/korjenasto-povrce/mrkva/soneto.jpg',
                     link: 'katalozi/2022-sjeme-povrca.pdf#page=37'
                 }
             ]
@@ -164,13 +164,13 @@
                 {
                     title: 'Gigante',
                     description: 'Dobavljač: Esasem',
-                    image: 'sjeme-povrca/korjenasto-povrce/persin/gigante.png',
+                    image: 'sjeme-povrca/korjenasto-povrce/persin/gigante.jpg',
                     link: 'katalozi/2022-sjeme-povrca.pdf#page=40'
                 },
                 {
                     title: 'Festival',
                     description: 'Dobavljač: Semo',
-                    image: 'sjeme-povrca/korjenasto-povrce/persin/festival.png',
+                    image: 'sjeme-povrca/korjenasto-povrce/persin/festival.jpg',
                     link: 'katalozi/2022-sjeme-povrca.pdf#page=40'
                 }
             ]
@@ -198,14 +198,14 @@
                 {
                     title: 'Javelin',
                     description: 'Dobavljač: Tozer seeds',
-                    image: 'sjeme-povrca/korjenasto-povrce/pastrnjak/javelin.png',
+                    image: 'sjeme-povrca/korjenasto-povrce/pastrnjak/javelin.jpg',
                     link: 'katalozi/2022-sjeme-povrca.pdf#page=41'
                 }
                 ,
                 {
                     title: 'Tall Utah',
                     description: 'Dobavljač: ESASEM',
-                    image: 'sjeme-povrca/korjenasto-povrce/pastrnjak/tall-utah.png',
+                    image: 'sjeme-povrca/korjenasto-povrce/pastrnjak/tall-utah.jpg',
                     link: 'katalozi/2022-sjeme-povrca.pdf#page=41'
                 }
             ]
