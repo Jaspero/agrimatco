@@ -30,13 +30,13 @@
                 {
                     title: 'Plaza WG',
                     description: 'Rimsulfuron 250g/kg',
-                    image: 'herbicidi/Plaza.png',
+                    image: 'herbicidi/plaza.png',
                     link: 'katalozi/2020-prihrana.pdf#page=61'
                 },
                 {
                     title: 'Hurler ',
                     description: 'Fluroksipir 200g/L',
-                    image: 'herbicidi/Hurler.png',
+                    image: 'herbicidi/Hurler.jpg',
                     link: 'katalozi/2020-prihrana.pdf#page=61'
                 },
                 {

@@ -42,7 +42,7 @@
                 {
                     title: 'Flavia',
                     description: 'Dobavljač: Mira seeds',
-                    image: 'sjeme-povrca/lukovicasto-povrce/luk/flavia.png',
+                    image: 'sjeme-povrca/lukovicasto-povrce/luk/flavia.jpg',
                     link: 'katalozi/2022-sjeme-povrca.pdf#page=44'
                 },
                 {
@@ -54,7 +54,7 @@
                 {
                     title: 'Navajo ',
                     description: 'Dobavljač: Mira seeds',
-                    image: 'sjeme-povrca/lukovicasto-povrce/luk/navajo.png',
+                    image: 'sjeme-povrca/lukovicasto-povrce/luk/navajo.jpg',
                     link: 'katalozi/2022-sjeme-povrca.pdf#page=43'
                 },
                 {
@@ -66,7 +66,7 @@
                 {
                     title: 'Aeneus',
                     description: 'Dobavljač: SEMO',
-                    image: 'sjeme-povrca/lukovicasto-povrce/luk/aeneus.png',
+                    image: 'sjeme-povrca/lukovicasto-povrce/luk/aeneus.jpg',
                     link: 'katalozi/2022-sjeme-povrca.pdf#page=43'
                 }
             ]
@@ -95,13 +95,13 @@
                 {
                     title: 'Kaj',
                     description: 'Dobavljač: SEMO',
-                    image: 'sjeme-povrca/lukovicasto-povrce/mladi-luk/kaj.png',
+                    image: 'sjeme-povrca/lukovicasto-povrce/mladi-luk/kaj.jpg',
                     link: 'katalozi/2022-sjeme-povrca.pdf#page=45'
                 },
                 {
                     title: 'Snow Queen',
                     description: 'Dobavljač: SEMO',
-                    image: 'sjeme-povrca/lukovicasto-povrce/mladi-luk/snow-queen.png',
+                    image: 'sjeme-povrca/lukovicasto-povrce/mladi-luk/snow-queen.jpg',
                     link: 'katalozi/2022-sjeme-povrca.pdf#page=45'
                 }
             ]

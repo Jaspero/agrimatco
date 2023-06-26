@@ -66,7 +66,7 @@
                 {
                     title: 'Celest F1',
                     description: 'Dobavljač: Sakata',
-                    image: 'sjeme-povrca/plodno-povrce/lubenica/celest.png',
+                    image: 'sjeme-povrca/plodno-povrce/lubenica/celest.jpg',
                     link: 'katalozi/2022-sjeme-povrca.pdf#page=50'
                 },
                 {
@@ -90,7 +90,7 @@
                 {
                     title: 'Ketty F1',
                     description: 'Dobavljač: Esasem',
-                    image: 'sjeme-povrca/plodno-povrce/lubenica/ketty.png',
+                    image: 'sjeme-povrca/plodno-povrce/lubenica/ketty.jpg',
                     link: 'katalozi/2022-sjeme-povrca.pdf#page=51'
                 }
             ]
@@ -102,6 +102,12 @@
                     title: 'Routpower',
                     description: 'Dobavljač: Sakata',
                     image: 'sjeme-povrca/plodno-povrce/podloga-za-cijeplenje-lubenica/routpower.jpg',
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=52'
+                },
+                {
+                    title: 'Polifemo',
+                    description: 'Dobavljač: Sakata',
+                    image: 'sjeme-povrca/plodno-povrce/podloga-za-cijeplenje-lubenica/polifemo.jpg',
                     link: 'katalozi/2022-sjeme-povrca.pdf#page=52'
                 }
             ]
@@ -136,7 +142,7 @@
                 {
                     title: 'Jannet',
                     description: 'Dobavljač: SAIS',
-                    image: 'sjeme-povrca/plodno-povrce/dinja/jannet.png',
+                    image: 'sjeme-povrca/plodno-povrce/dinja/jannet.jpg',
                     link: 'katalozi/2022-sjeme-povrca.pdf#page=53'
                 },
             ]
