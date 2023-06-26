@@ -18,7 +18,7 @@
                 {
                     title: 'Amco Potato',
                     description: 'Kompleksna NPK formulacija za folijarnu primjenu u krumpiru',
-                    image: 'vodotopiva-npk-gnojiva/amco-potato.jpg',
+                    image: 'vodotopiva-npk-gnojiva/amco-potato.png',
                     link: 'katalozi/2020-prihrana.pdf#page=15'
                 },
                 {
@@ -42,7 +42,7 @@
                 {
                     title: 'Hydroponica Calmag',
                     description: 'Vodotopivo gnojivo kalcij magnezij nitrat',
-                    image: 'vodotopiva-npk-gnojiva/hydroponica-calmag.png',
+                    image: 'vodotopiva-npk-gnojiva/hydroponica-calmag.jpg',
                     // link: 'katalozi/2020-prihrana.pdf#page=20'
                 },
             ]
