@@ -32,7 +32,7 @@
                     description: 'NPK vodotopivo gnojivo + mikroelementi',
                     image: 'vodotopiva-npk-gnojiva/amcolon-18-18-18.png',
                     link: 'proizvodi/amcolon'
-                }
+                },
                 {
                     title: 'Hydroponica Calnit',
                     description: 'Vodotopivo gnojivo kalcij nitrat',
