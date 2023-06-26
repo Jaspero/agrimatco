@@ -45,6 +45,11 @@
                     <li><a href="strucni-savjeti/rajcica">Rajčica</a></li>
                     <li><a href="strucni-savjeti/paprika">Paprika</a></li>
                     <li><a href="strucni-savjeti/batat">Batat</a></li>
+                    <li><a href="strucni-savjeti/krastavac">Krastavac</a></li>
+                    <li><a href="strucni-savjeti/patlidzan">Patlidžan</a></li>
+                    <li><a href="strucni-savjeti/tikva">Tikvica,tikva</a></li>
+                    <li><a href="strucni-savjeti/cesnjak">Češnjak</a></li>
+                    <li><a href="strucni-savjeti/bob">Bob</a></li>
                 </ul>
             </figure>
             <figure class="col-6 col-s-12">
