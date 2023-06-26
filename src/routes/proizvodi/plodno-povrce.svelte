@@ -201,19 +201,25 @@
                     title: 'Pontino F1',
                     description: 'Dobavljač: Esasem',
                     image: 'sjeme-povrca/plodno-povrce/tikvica/pontino-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=56'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=55'
+                },
+                {
+                    title: 'Ascona',
+                    description: 'Dobavljač: Sakata',
+                    image: 'sjeme-povrca/plodno-povrce/tikvica/pontino-f1.jpg',
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=55'
                 },
                 {
                     title: 'Tendor F1',
                     description: 'Dobavljač: Vilmorin',
                     image: 'sjeme-povrca/plodno-povrce/tikvica/tendor-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=56'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=55'
                 },
                 {
                     title: 'Black Star F1',
                     description: 'Dobavljač: United Genetics',
                     image: 'sjeme-povrca/plodno-povrce/tikvica/black-star-f1.jpg',
-                    link: 'katalozi/2022-sjeme-povrca.pdf#page=56'
+                    link: 'katalozi/2022-sjeme-povrca.pdf#page=55'
                 }
             ]
         },
