@@ -122,7 +122,7 @@
                 },
                 {
                     title: 'Flamenco',
-                    description: 'Dobavljač: ',
+                    description: 'Dobavljač: Vilmorin',
                     image: 'sjeme-povrca/korjenasto-povrce/mrkva/flamenco.jpg',
                     link: 'katalozi/2022-sjeme-povrca.pdf#page=36'
                 },
