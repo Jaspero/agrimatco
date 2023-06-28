@@ -60,7 +60,7 @@
                 {
                     title: 'Globo',
                     description: 'Dobavljač: SEMO',
-                    image: 'sjeme-povrca/lukovicasto-povrce/luk/globo.png',
+                    image: 'sjeme-povrca/lukovicasto-povrce/luk/globo.jpg',
                     link: 'katalozi/2022-sjeme-povrca.pdf#page=43'
                 },
                 {

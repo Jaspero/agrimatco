@@ -30,7 +30,7 @@
                 {
                     title: 'Azud Sprint',
                     description: '',
-                    image: 'navodnjavanje/azud.png',
+                    image: 'navodnjavanje/azud.jpg',
                     link: 'katalozi/2020-prihrana.pdf#page=64'
                 }
             ]
