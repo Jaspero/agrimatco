@@ -42,13 +42,13 @@
                 {
                     title: 'Nemater ',
                     description: '/',
-                    image: 'ekoloski-proizvodi/nemater.png',
+                    image: 'ekoloski-proizvodi/nemater.webp',
                     link: 'katalozi/2020-prihrana.pdf#page=20'
                 },
                 {
                     title: 'Tercol',
                     description: '/',
-                    image: 'ekoloski-proizvodi/tercol.png',
+                    image: 'ekoloski-proizvodi/tercol.webp',
                     link: 'katalozi/2020-prihrana.pdf#page=21'
                 },
                 {

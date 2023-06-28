@@ -138,7 +138,7 @@
                 {
                     title: 'Parabela ',
                     description: 'Dobavljač: Vilmorin',
-                    image: 'sjeme-povrca/lisnato-povrce/salata/parabela.jpg',
+                    image: 'sjeme-povrca/lisnato-povrce/salata/parabella.jpg',
                     link: 'katalozi/2022-sjeme-povrca.pdf#page=17'
                 },
                 {
