@@ -22,7 +22,7 @@
             name: 'Komercijalni sektor',
             members: [
                 {
-                    name: 'Ana Čukalevskiiii, dipl. oec',
+                    name: 'Ana Čukalevski, dipl. oec',
                     title: 'Voditeljica računovodstva',
                     area: '',
                     phone: '+385 (0)99 3083 589',

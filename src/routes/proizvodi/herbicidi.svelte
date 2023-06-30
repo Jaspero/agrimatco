@@ -41,7 +41,7 @@
                 },
                 {
                     title: 'Darby ',
-                    description: 'Totalni herbicid za suzbijanje travnih i širokolisnih korova. Glifosat 360 g/L',
+                    description: '2,4-D 600 g/L',
                     image: 'herbicidi/Darby.png',
                     link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=62'
                 }

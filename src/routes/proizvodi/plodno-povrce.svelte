@@ -141,7 +141,7 @@
                 },
                 {
                     title: 'Jannet',
-                    description: 'Dobavljač: SAIS',
+                    description: 'Dobavljač: Esasem',
                     image: 'sjeme-povrca/plodno-povrce/dinja/jannet.jpg',
                     link: 'katalozi/2023-sjeme-povrca.pdf#page=53'
                 },
