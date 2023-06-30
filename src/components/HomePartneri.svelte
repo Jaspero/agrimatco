@@ -8,7 +8,7 @@
         align-items: center;
         padding: var(--space-medium) 0;
         width: max-content;
-        animation: autoslide 30s linear infinite alternate;
+        animation: autoslide 60s linear infinite alternate;
     }
     @keyframes autoslide {
         from { transform: translateX(0); }
@@ -17,6 +17,7 @@
     .partneri-slider-image {
         flex-shrink: 0;
         margin: 0 var(--space-regular);
+        max-width: 200px;
     }
 </style>
 

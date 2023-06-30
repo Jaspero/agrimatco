@@ -89,7 +89,7 @@
                 {
                     title: 'Gerda',
                     description: 'Dobavljač: SEMO',
-                    image: 'sjeme-povrca/lukovicasto-povrce/mladi-luk/yoda-f1.jpg',
+                    image: 'sjeme-povrca/lukovicasto-povrce/mladi-luk/gerda.jpg',
                     link: 'katalozi/2023-sjeme-povrca.pdf#page=45'
                 },
                 {
