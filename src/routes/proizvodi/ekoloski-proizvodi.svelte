@@ -13,61 +13,61 @@
                     title: 'Folisec',
                     description: '/',
                     image: 'ekoloski-proizvodi/folisec.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=17'
+                    // link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=17'
                 },
                 {
-                    title: 'Herfomyc',
+                    title: 'Herfomic',
                     description: '/',
                     image: 'ekoloski-proizvodi/herfomyc.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=18'
+                    // link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=18'
                 },
                 {
                     title: 'Herfosec',
                     description: '/',
                     image: 'ekoloski-proizvodi/herfosec.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=18'
+                    // link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=19'
                 },
                 {
                     title: 'Ekološka gnojiva',
                     description: '/',
                     image: 'ekoloski-proizvodi/ekoloska-gnojiva.png',
-                    link: 'katalozi/2020-prihrana.pdf#page=8'
+                    // link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=8'
                 },
                 {
                     title: 'Repelent za puževe',
                     description: '/',
                     image: 'ekoloski-proizvodi/repelent-za-puzeve.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=62'
+                    // link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=62'
                 },
                 {
                     title: 'Nemater ',
                     description: '/',
                     image: 'ekoloski-proizvodi/nemater.webp',
-                    link: 'katalozi/2020-prihrana.pdf#page=20'
+                    // link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=20'
                 },
                 {
                     title: 'Tercol',
                     description: '/',
                     image: 'ekoloski-proizvodi/tercol.webp',
-                    link: 'katalozi/2020-prihrana.pdf#page=21'
+                    // link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=21'
                 },
                 {
                     title: 'Ascoleg',
                     description: '/',
                     image: 'ekoloski-proizvodi/ascoleg.png',
-                    link: 'katalozi/2020-prihrana.pdf#page=31'
+                    // link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=31'
                 },
                 {
                     title: 'Borealg',
                     description: '/',
                     image: 'ekoloski-proizvodi/borelag.png',
-                    link: 'katalozi/2020-prihrana.pdf#page=32'
+                    // link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=32'
                 },
                 {
                     title: 'TSL29',
                     description: '/',
                     image: 'ekoloski-proizvodi/TSL29.png',
-                    link: 'katalozi/2020-prihrana.pdf#page=33'
+                    // link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=33'
                 }
             ]
         }
