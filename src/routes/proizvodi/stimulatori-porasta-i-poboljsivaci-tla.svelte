@@ -13,55 +13,55 @@
                     title: 'Bioplex',
                     description: 'Tekuće folijarno gnojivo i biostimulator za jačanje biljnih funkcija',
                     image: 'stimulatori-porasta-i-poboljsivaci-tla/bioplex.png',
-                    link: 'katalozi/2020-prihrana.pdf#page=23'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=23'
                 },
                 {
                     title: 'Calcium Mainstay',
                     description: 'Tekući kalcij-oksid (CaO) za poboljšanje kvalitete ploda pri svim vrstama navodnjavanja i folijarno',
                     image: 'stimulatori-porasta-i-poboljsivaci-tla/calcium-mainstay.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=21'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=21'
                 },
                 {
                     title: 'Kelatex Ca+B',
                     description: 'Vodotopivo gnojivo za folijarnu primjenu za visoku oplodnju',
                     image: 'stimulatori-porasta-i-poboljsivaci-tla/kelatex-ca-b.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=25'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=25'
                 },
                 {
                     title: 'Aminoton',
                     description: 'Aktivator plodnosti tla s aminokiselinama za tlo i folijarnu primjenu',
                     image: 'stimulatori-porasta-i-poboljsivaci-tla/aminoton.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=26'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=26'
                 },
                 {
                     title: 'Riviter HFA ',
                     description: 'Organsko tekuće gnojivo na osnovu huminskih fulvo kiselina',
                     image: 'stimulatori-porasta-i-poboljsivaci-tla/riviter-HFA.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=26'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=26'
                 },
                 {
                     title: 'Staygreen',
                     description: 'Gnojivo - Zaštita biljaka od stresnih klimatskih utjecaja',
                     image: 'stimulatori-porasta-i-poboljsivaci-tla/staygreen.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=28'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=28'
                 },
                 {
                     title: 'Ekotron',
                     description: 'Organsko gnojivo za popravak degradiranog tla',
                     image: 'stimulatori-porasta-i-poboljsivaci-tla/ekotron.webp',
-                    link: 'katalozi/2020-prihrana.pdf#page=42'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=42'
                 },
                 {
                     title: 'H-85',
                     description: 'Stimulator tla koji sadrži huminske i fulvo kiseline',
                     image: 'stimulatori-porasta-i-poboljsivaci-tla/h-85.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=43'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=43'
                 },
                 {
                     title: 'Biolife ',
                     description: 'Mikrobiološki preparat stimulativnog djelovanja',
                     image: 'stimulatori-porasta-i-poboljsivaci-tla/biolife.png',
-                    link: 'katalozi/2020-prihrana.pdf#page=43'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=43'
                 },
                 {
                     title: 'Wopro Terra' +
@@ -71,7 +71,7 @@
                         'NPK 1-1-15+Mg, S, Ca;',
                     description: 'Organski poboljšivač tla',
                     image: 'stimulatori-porasta-i-poboljsivaci-tla/wopro-terra.png',
-                    link: 'katalozi/2020-prihrana.pdf#page=26'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=26'
                 }
             ]
         }

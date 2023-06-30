@@ -13,7 +13,7 @@
                     title: 'Barrier',
                     description: 'Stanični učvrščivać na bazi kalcija i silicija / stimulator otpornosti',
                     image: 'bioprotektor/barrier.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=19'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=19'
                 },
             ]
         }
