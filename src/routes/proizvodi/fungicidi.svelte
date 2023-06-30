@@ -13,7 +13,7 @@
                     title: 'Actlef F',
                     description: 'Metalaksil-M 50 g/kg, Folpet 400 g/kg',
                     image: 'fungicidi/actlet.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=59'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=59'
                 },
             ]
         }
