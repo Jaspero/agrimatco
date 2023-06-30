@@ -13,25 +13,25 @@
                     title: 'AMCO-drip',
                     description: '',
                     image: 'navodnjavanje/amco-drip.jpeg',
-                    link: 'katalozi/2020-prihrana.pdf#page=64'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=64'
                 },
                 {
                     title: 'Akona',
                     description: '',
                     image: 'navodnjavanje/akona.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=65'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=65'
                 },
                 {
                     title: 'Sumika',
                     description: '',
                     image: 'navodnjavanje/sumika.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=66'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=66'
                 },
                 {
                     title: 'Azud Sprint',
                     description: '',
                     image: 'navodnjavanje/azud.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=64'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=64'
                 }
             ]
         }
