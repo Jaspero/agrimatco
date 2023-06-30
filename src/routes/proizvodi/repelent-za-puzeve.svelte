@@ -13,7 +13,7 @@
                     title: 'Delumbri Limax',
                     description: 'Biološki repelent na bazi ekstrakata i biljnih ulja za odbijanje puževa',
                     image: 'repelent-za-puzeve/delumbri-limax.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=40'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=40'
                 }
             ]
         }
