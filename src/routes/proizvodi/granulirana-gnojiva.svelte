@@ -13,7 +13,7 @@
                     title: 'GranuPotasse',
                     description: 'Granulirano gnojivo koje osigurava optimalnu prihranu kalija i sumpora',
                     image: 'granulirana-gnojiva/granupotasse.png',
-                    link: 'katalozi/2020-prihrana.pdf#page=10'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=10'
                 },
                 {
                     title: 'Alba Grow',
@@ -25,13 +25,13 @@
                     title: 'Fertium Fuerza',
                     description: 'Osnovno i predsjetveno gnojivo',
                     image: 'granulirana-gnojiva/fertium_fuerza.png',
-                    link: 'katalozi/2020-prihrana.pdf#page=10'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=10'
                 },
                 {
                     title: 'Sangral 12-0-46',
                     description: 'Predsjetveno gnojivo, kalij nitrat',
                     image: 'granulirana-gnojiva/sangral.png',
-                    link: 'katalozi/2020-prihrana.pdf#page=12'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=12'
                 }
             ]
         }
