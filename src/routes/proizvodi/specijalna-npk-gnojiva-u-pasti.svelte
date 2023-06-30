@@ -13,7 +13,7 @@
                     title: 'Amcopaste',
                     description: 'NPK folijarno gnojivo koje smanjuje rast algi i stvaranje kamenca unutar trajnih sustava za navodnjavanje',
                     image: 'specijalna-npk-gnojiva-u-pasti/amcopaste.png',
-                    link: 'katalozi/2020-prihrana.pdf#page=13'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=13'
                 },
             ]
         }
