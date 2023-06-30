@@ -42,7 +42,7 @@
             <figure class="col-6 col-s-12">
                 <figcaption><b>Ostalo</b></figcaption>
                 <ul>
-                    <li><a rel="prefetch" href="katalozi/2020-prihrana.pdf#page=63" target="_blank">Mulch folije</a></li>
+                    <li><a rel="prefetch" href="katalozi/2023-gnojidba-prihrana-zastita.pdf#page=63" target="_blank">Mulch folije</a></li>
                     <li><a rel="prefetch" href="proizvodi/navodnjavanje">Navodnjavanje</a></li>
                     <li><a rel="prefetch" href="proizvodi/bioloska-zastita">Biološka zaštita - korisni kukci</a></li>
                     <li><a rel="prefetch" href="proizvodi/ekoloski-proizvodi">Ekološki proizvodi</a></li>
