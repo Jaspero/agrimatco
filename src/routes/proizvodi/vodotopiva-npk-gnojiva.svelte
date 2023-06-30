@@ -13,37 +13,37 @@
                     title: 'SoluPotasse',
                     description: 'Kalij sulfat (SOP)',
                     image: 'vodotopiva-npk-gnojiva/solupotasse.png',
-                    link: 'katalozi/2020-prihrana.pdf#page=11'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=11'
                 },
                 {
                     title: 'Amco Potato',
                     description: 'Kompleksna NPK formulacija za folijarnu primjenu u krumpiru',
                     image: 'vodotopiva-npk-gnojiva/amco-potato.png',
-                    link: 'katalozi/2020-prihrana.pdf#page=15'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=15'
                 },
                 {
                     title: 'Novalon',
                     description: 'Gnojivo namijenjeno za folijarnu primjenu u svim razvojnim fazama biljke',
                     image: 'vodotopiva-npk-gnojiva/novalon.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=16'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=16'
                 },
                 {
                     title: 'Amcolon',
                     description: 'NPK vodotopivo gnojivo + mikroelementi',
                     image: 'vodotopiva-npk-gnojiva/amcolon-18-18-18.png',
-                    link: 'proizvodi/amcolon'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=16'
                 },
                 {
                     title: 'Hydroponica Calnit',
                     description: 'Vodotopivo gnojivo kalcij nitrat',
                     image: 'vodotopiva-npk-gnojiva/hydroponica-calnit.png',
-                    // link: 'katalozi/2020-prihrana.pdf#page=20'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=20'
                 },
                 {
                     title: 'Hydroponica Calmag',
                     description: 'Vodotopivo gnojivo kalcij magnezij nitrat',
                     image: 'vodotopiva-npk-gnojiva/hydroponica-calmag.jpg',
-                    // link: 'katalozi/2020-prihrana.pdf#page=20'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=20'
                 },
             ]
         }
