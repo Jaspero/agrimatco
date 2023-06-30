@@ -13,49 +13,49 @@
                     title: 'Agro-K',
                     description: 'Vodotopivo folijarno gnojivo s visokim sadržajem fosfora i kalija',
                     image: 'suha-topiva-gnojiva/agro-k.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=18'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=18'
                 },
                 {
                     title: 'Rootex',
                     description: 'Stimulator rasta i razvoja korjena',
                     image: 'suha-topiva-gnojiva/rootex.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=22'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=22'
                 },
                 {
                     title: 'Oligomix',
                     description: 'Gnojivo s visokim sadržajem mikroelemenata organskog podrijetla',
                     image: 'suha-topiva-gnojiva/oligomix.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=29'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=29'
                 },
                 {
                     title: 'Trazex',
                     description: 'Visoka koncentracija mikroelemenata u fazama rasta i cvjetanja za folijarnu primjenu',
                     image: 'suha-topiva-gnojiva/trazex.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=29'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=29'
                 },
                 {
                     title: 'Tropicel',
                     description: 'Vodotopivo folijarno gnojivo s visokom koncentracijom bora, cinka i molibdena',
                     image: 'suha-topiva-gnojiva/tropicel.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=30'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=32'
                 },
                 {
                     title: 'Kelatex B',
                     description: 'Vodotopivo gnojivo sa visokom koncentracijom bora (B)',
                     image: 'suha-topiva-gnojiva/kelatex-b.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=31'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=33'
                 },
                 {
                     title: 'Kelatex Zn',
                     description: 'Vodotopivo gnojivo za folijarnu primjenu s visokom koncentracijom cinka (Zn)',
                     image: 'suha-topiva-gnojiva/kelatex-zn.png',
-                    link: 'katalozi/2020-prihrana.pdf#page=32'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=31'
                 },
                 {
                     title: 'Kelatex Fe',
                     description: 'Vodotopivo gnojivo za folijarnu primjenu s visokom koncentracijom željeza (Fe)',
                     image: 'suha-topiva-gnojiva/kelatex-fe.jpg',
-                    link: 'katalozi/2020-prihrana.pdf#page=33'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=30'
                 },
             ]
         }
