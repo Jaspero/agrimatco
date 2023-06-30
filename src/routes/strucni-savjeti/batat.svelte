@@ -11,7 +11,7 @@
         <nav><small><a rel="prefetch" href="strucni-savjeti">Stručni savjeti</a> > Batat</small></nav>
 
         <h1>Prihrana batata</h1>
-        <a href="katalozi/2020-sjeme-povrca.pdf#page=55">Pročitaj</a>
+        <a class="link" href="katalozi/2023-sjeme-povrca.pdf#page=55">Pročitaj</a>
         <p>Prije sadnje batata u tlo unijeti granulirano gnojivo GRANU POTTASE (Kalij sulfat, K2O=50,3%, SO4 =52,6%) u količini 250-400 kg.</p>
         <p>Potapanje presadnica pred sadnju: Rootex 0,5 kg/100 L vode + Bioplex 0,2 L/100 L vode</p>
 

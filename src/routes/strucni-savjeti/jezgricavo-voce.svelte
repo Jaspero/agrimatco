@@ -17,7 +17,7 @@
 
         <h2>Folijarna prihrana jezgričavog voća</h2>
 
-        <a href="katalozi/2020-sjeme-povrca.pdf#page=33">Pročitaj</a>
+        <a class="link" href="katalozi/2023-sjeme-povrca.pdf#page=33">Pročitaj</a>
 
 <!--        <figure>-->
 <!--            <figcaption><b>1. faza – pojava pupoljka</b></figcaption>-->

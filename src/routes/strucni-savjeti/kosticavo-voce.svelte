@@ -8,7 +8,7 @@
     <div class="container">
         <nav><small><a rel="prefetch" href="strucni-savjeti">Stručni savjeti</a> > Koštičavo voće</small></nav>
         <h1>Folijarna prihrana koštičavog voća</h1>
-        <a href="katalozi/2020-sjeme-povrca.pdf#page=33">Pročitaj</a>
+        <a class="link" href="katalozi/2023-sjeme-povrca.pdf#page=33">Pročitaj</a>
 
         <p>Prema obliku ploda voćne vrste - marelica, breskva, višnja, trešnja, šljiva, nektarina, spadaju u grupu koštićavog voća. Za svoj rast i razvoj traže duboka, strukturirana tla, bogata hranjivima i organskom tvari. Intenzivan uzgoj koštićavog voća obuhvaća gnojidbu na zalihu, odnosno meliorativnu gnojidbu, a kasnije gnojidbu prema životnim i godišnjim ciklusima.</p>
         <p>Listopad je mjesec u kojem se uglavnom većina voćnih vrsta nalazi u fazi priprema za prelazak u zimsko mirovanje.</p>

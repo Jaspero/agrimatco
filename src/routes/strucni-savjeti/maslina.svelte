@@ -14,7 +14,7 @@
         <p><img src="strucni-savjeti/maslina/i2.jpg" alt=""></p>
 
         <h2>Folijarna dopunska gnojidba masline</h2>
-        <a href="katalozi/2020-sjeme-povrca.pdf#page=54">Pročitaj</a>
+        <a class="link" href="katalozi/2023-sjeme-povrca.pdf#page=54">Pročitaj</a>
 
         <figure>
             <figcaption><b>1. faza – proljetna folijarna gnojidba pred cvatnju</b></figcaption>
