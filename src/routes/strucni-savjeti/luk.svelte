@@ -31,7 +31,7 @@
         <p><img src="strucni-savjeti/luk/i3.jpg" alt=""></p>
 
         <h2>Folijarna prihrana luka</h2>
-        <a href="katalozi/2020-sjeme-povrca.pdf#page=47">Pročitaj</a>
+        <a class="link" href="katalozi/2023-sjeme-povrca.pdf#page=47">Pročitaj</a>
 
 <!--        <figure>-->
 <!--            <figcaption><b>1. faza</b></figcaption>-->

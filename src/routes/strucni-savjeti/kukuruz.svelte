@@ -7,7 +7,7 @@
 <section class="section">
     <div class="container">
         <nav><small><a rel="prefetch" href="strucni-savjeti">Stručni savjeti</a> > Kukuruz</small></nav>
-        <a class="link" href="katalozi/2020-prihrana.pdf#page=49">Pročitaj</a>
+
 
         <p>Kukuruz ima visok proizvodni potencijal pa da bi se taj potencijal iskoristio, gnojidbom se treba osigurati sva potrebna hranjiva u dovoljnoj količini.</p>
         <p> Prihrana je važna agrotehnička mjera u većini poljoprivrednih kultura, pa tako i u kukuruzu jer tada biljke usvajaju najviše hraniva unešenih u tlo ili putem lista, a koja poslije utječu na kvantitetu i kvalitetu prinosa.</p>
@@ -17,7 +17,8 @@
         <p>Gnojidbom u osnovnoj obradi, hraniva fosfor i kalij se raspodjeljuju u zoni najviše razvijenog korijenovog sustava. U odnosu na fosfor i kalij, dušik je hranivo koje je u pravilu bolje primijeniti u dopunskoj obradi tla.</p>
         <p>Folijarnu prihranu potrebno je obavljati u ranim jutarnjim ili kasnim poslijepodnevnim satima kako bi se izbjeglo oštećenje lista.</p>
         <p>Gnojiva primijenjena folijarno biljka odmah usvaja, ali kukuruz podnosi male koncentracije i potrebno je koristiti posebno pripremljena gnojiva za tu svrhu.</p>
-        <p>Folijarna prihrana kukuruza:</p>
+
+        <a class="link" href="katalozi/2023-gnojidba-prihrana-zastita.pdf#page=49">Pročitaj</a>
 
 <!--        <figure>-->
 <!--            <figcaption><b>1. faza</b></figcaption>-->

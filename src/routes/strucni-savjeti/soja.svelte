@@ -8,14 +8,13 @@
     <div class="container">
         <nav><small><a rel="prefetch" href="strucni-savjeti">Stručni savjeti</a> > Soja</small></nav>
         <h1>Folijarna prihrana soje</h1>
-        <a href="katalozi/2020-prihrana.pdf#page=49">Pročitaj</a>
+        <a href="katalozi/2023-gnojidba-prihrana-zastita.pdf#page=49">Pročitaj</a>
 
         <p>Soja je značajna leguminoza u ratarsko - industrijskim kulturama koja razvojem bakterija na korijenu obogaćuje tlo dušikom, fiksirajući ga iz zraka. U kvržicama korijena soje bakterije pretvaraju anorganski dušik iz zraka u amonijski oblik pristupačan biljci. Na aktivnost bakterija utječu fizikalna i kemijska svojstva tla: neutralna reakcija tla, prozračnost te dobre vodozračne osobine tla. U plodoredu prije soje treba izbjegavati suncokret, ozimu uljanu repicu i uzgoj soje u monokulturi.</p>
 
         <h2>Gnojidba soje</h2>
         <p>Dušik i kalij soja zahtjeva u fazi cvatnje i formiranja mahuna, a fosfor i sumpor u vrijeme formiranja i nalijevanja zrna. Soja nema velikih zahtjeva prema gnojidbi dušikom ukoliko su razvijene kvržične bakterije na korijenu, koje fiksiraju dušik iz zraka i mogu sintetizirati 3/4 potrebnog dušika za biljku. Dušična gnojidba pozitivno djeluje na urod soje ukoliko se unosi u proljeće, u vlažno, hladno, slabo plodno i tlo kisele reakcije, jer se tada ne formiraju kvržične bakterije već soja direktno usvaja dodatni dušik iz mineralnih gnojiva. Potrebe soje za hranjivima kreću se ovisno o plodnosti tla i mogućnosti fiksacije dušika.</p>
 
-        <h2>Folijarna prihrana soje</h2>
 
         <figure>
             <figcaption><b>1. faza – faza treće troliske</b></figcaption>

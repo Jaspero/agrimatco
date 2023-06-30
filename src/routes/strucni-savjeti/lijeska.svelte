@@ -46,7 +46,7 @@
         <p>Za puni učinak djelovanja pesticida i folijarnih gnojiva potrebno je koristiti okvašivač, aktivator i penetrator INEX koji omogućava puni učinak pesticida te ne dozvoljava da se otopina u atomizerima pjeni te skida postojeću pjenu sa pesticida koji se pjene (na 500 l vode ide 0,25 l INEX).</p>
 
         <h2>Folijarna prihrana ljeske</h2>
-        <a href="katalozi/2020-sjeme-povrca.pdf#page=56">Pročitaj</a>
+        <a class="link" href="katalozi/2023-sjeme-povrca.pdf#page=56">Pročitaj</a>
 
         <figure>
             <figcaption><b>1. faza – od 15. travnja do 1. svibnja</b></figcaption>
