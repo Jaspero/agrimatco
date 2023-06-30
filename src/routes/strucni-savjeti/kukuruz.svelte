@@ -7,8 +7,7 @@
 <section class="section">
     <div class="container">
         <nav><small><a rel="prefetch" href="strucni-savjeti">Stručni savjeti</a> > Kukuruz</small></nav>
-        <h1>Folijarna prihrana kukuruza</h1>
-        <a href="katalozi/2020-prihrana.pdf#page=49">Pročitaj</a>
+        <a class="link" href="katalozi/2020-prihrana.pdf#page=49">Pročitaj</a>
 
         <p>Kukuruz ima visok proizvodni potencijal pa da bi se taj potencijal iskoristio, gnojidbom se treba osigurati sva potrebna hranjiva u dovoljnoj količini.</p>
         <p> Prihrana je važna agrotehnička mjera u većini poljoprivrednih kultura, pa tako i u kukuruzu jer tada biljke usvajaju najviše hraniva unešenih u tlo ili putem lista, a koja poslije utječu na kvantitetu i kvalitetu prinosa.</p>

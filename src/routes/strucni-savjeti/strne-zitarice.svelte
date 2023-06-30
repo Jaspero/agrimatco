@@ -37,7 +37,7 @@
         </figure>
 
         <p>Za folijarnu gnojidbu strnih žitarica po fenofazama preporučamo sljedeće:</p>
-        <a href="katalozi/2020-prihrana.pdf#page=49">Pročitaj</a>
+        <a class="link" href="katalozi/2020-prihrana.pdf#page=49">Pročitaj</a>
 <!--        <figure>-->
 <!--            <figcaption><b>1. Fenofaza – Kraj busanja, početak vlatanja</b></figcaption>-->
 <!--            <ul>-->
