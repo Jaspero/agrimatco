@@ -18,7 +18,7 @@
         <p>Folijarnu prihranu potrebno je obavljati u ranim jutarnjim ili kasnim poslijepodnevnim satima kako bi se izbjeglo oštećenje lista.</p>
         <p>Gnojiva primijenjena folijarno biljka odmah usvaja, ali kukuruz podnosi male koncentracije i potrebno je koristiti posebno pripremljena gnojiva za tu svrhu.</p>
 
-        <a class="link" href="katalozi/2023-gnojidba-prihrana-zastita.pdf#page=79">Pročitaj</a>
+        <a class="link" href="katalozi/2023-gnojidba-prihrana-zastita.pdf#page=49">Pročitaj</a>
 
 <!--        <figure>-->
 <!--            <figcaption><b>1. faza</b></figcaption>-->
