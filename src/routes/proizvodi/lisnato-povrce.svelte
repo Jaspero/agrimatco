@@ -312,31 +312,31 @@
                     title: 'Estoril F1',
                     description: 'Dobavljač: Sakata',
                     image: 'sjeme-povrca/lisnato-povrce/kelj/estoril-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=29'
+                    link: 'katalozi/2023-sjeme-povrca.pdf#page=27'
                 },
                 {
                     title: 'Savostar F1',
                     description: 'Dobavljač: United Genetics',
                     image: 'sjeme-povrca/lisnato-povrce/kelj/savostar.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=29'
+                    link: 'katalozi/2023-sjeme-povrca.pdf#page=27'
                 },
                 {
                     title: 'Providence F1',
                     description: 'Dobavljač: Tozer seeds',
                     image: 'sjeme-povrca/lisnato-povrce/kelj/providence-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=29'
+                    link: 'katalozi/2023-sjeme-povrca.pdf#page=27'
                 },
                 {
                     title: 'Vanguard F1',
                     description: 'Dobavljač: Tozer seeds',
                     image: 'sjeme-povrca/lisnato-povrce/kelj/vanguard-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=29'
+                    link: 'katalozi/2023-sjeme-povrca.pdf#page=27'
                 },
                 {
                     title: 'Resolution ',
                     description: 'Dobavljač: Tozer seeds',
                     image: 'sjeme-povrca/lisnato-povrce/kelj/resolution.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=29'
+                    link: 'katalozi/2023-sjeme-povrca.pdf#page=27'
                 },
             ]
         }

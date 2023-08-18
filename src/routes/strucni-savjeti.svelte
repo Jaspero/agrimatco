@@ -63,7 +63,7 @@
                     <li><a href="strucni-savjeti/travnjak">Travnjak</a></li>
                     <li><a href="strucni-savjeti/maslina">Maslina</a></li>
                     <li><a href="strucni-savjeti/duhan">Duhan</a></li>
-                    <li><a href="/katalozi/2020-prihrana.pdf#page=58">Šparoga</a></li>
+                    <li><a href="/katalozi/2023-gnojidba-prihrana-zastita.pdf#page=58">Šparoga</a></li>
                 </ul>
             </figure>
         </div>

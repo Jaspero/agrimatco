@@ -8,6 +8,6 @@
     <div class="container">
         <nav><small><a rel="prefetch" href="strucni-savjeti">Stručni savjeti</a> > Soja</small></nav>
         <h1>Prihrana tikve/tikvice</h1>
-        <a class="link" href="katalozi/2023-gnojidba-prihrana-zastita.pdf#page=58">Pročitaj</a>
+        <a class="link" href="katalozi/2023-sjeme-povrca.pdf#page=58">Pročitaj</a>
     </div>
 </section>

@@ -69,7 +69,7 @@
                 {
                     title: 'Subito F1',
                     description: 'Dobavljač: Vilmorin',
-                    image: 'sjeme-povrca/korjenasto-povrce/mrkva/subito-f1.jpg',
+                    image: 'sjeme-povrca/korjenasto-povrce/mrkva/subito.jpg',
                     link: 'katalozi/2023-sjeme-povrca.pdf#page=34'
                 },
                 {

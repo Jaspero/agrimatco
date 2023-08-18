@@ -70,7 +70,7 @@
                         ' NPK 10-7-1+Mg, S, Ca;' +
                         ' NPK 1-1-15+Mg, S, Ca;',
                     image: 'stimulatori-porasta-i-poboljsivaci-tla/wopro-terra.png',
-                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=26'
+                    link: 'katalozi/2021-katalog.pdf#page=26'
                 }
             ]
         }

@@ -19,7 +19,7 @@
                     title: 'Alba Grow',
                     description: 'Startno gnojivo nove generacije',
                     image: 'granulirana-gnojiva/alba-grow.png',
-                    link: 'katalozi/2020-prihrana.pdf#page=11'
+                    link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=11'
                 },
                 {
                     title: 'Fertium Fuerza',
