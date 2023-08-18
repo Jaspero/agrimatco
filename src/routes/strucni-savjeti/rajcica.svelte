@@ -8,7 +8,7 @@
     <div class="container">
         <nav><small><a rel="prefetch" href="strucni-savjeti">Stručni savjeti</a> > Rajčica</small></nav>
         <h1>Prihrana rajčice</h1>
-        <a class="link" href="katalozi/2023-sjeme-povrca.pdf#page=60">Pročitaj</a>
+        <a class="link" href="katalozi/2023-sjeme-povrca.pdf#page=66">Pročitaj</a>
 
         <p>Za prihranjivanje je najbolje koristiti NPK gnojiva u obliku kristalonske formulacije koja je pristupačna biljci. Prihranjivanje se obavlja 2-3 puta, i to u vrijeme cvatnje i zametanja prvih plodova te u vrijeme zriobe prvih plodova.</p>
         <p>Kod uzgoja u zaštićenom prostoru ima nekoliko mogućnosti prihrana, ali svaka se bazira na osnovu analize tla i preporuci stručnjaka. Najčešća prihrana je kroz sustav kap na kap.</p>
