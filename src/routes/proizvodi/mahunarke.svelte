@@ -24,13 +24,13 @@
                 {
                     title: 'Fiorino',
                     description: 'Dobavljač: SAIS',
-                    image: 'sjeme-povrca/mahunarke/mahune/fiorino.jpg',
+                    image: 'sjeme-povrca/mahunarke/mahune/fiorino-1.jpg',
                     link: 'katalozi/2023-sjeme-povrca.pdf#page=59'
                 },
                 {
                     title: 'Radovan',
                     description: 'Dobavljač: SEMO',
-                    image: 'sjeme-povrca/mahunarke/mahune/radovan.jpg',
+                    image: 'sjeme-povrca/mahunarke/mahune/radovan-1.jpg',
                     link: 'katalozi/2023-sjeme-povrca.pdf#page=59'
                 },
             ]
