@@ -104,7 +104,16 @@
                     description: 'Wopro Tana NPK 9 -0- 0 + Mg, S, Ca , Wopro Tana NPK 4 -1- 6 + Mg, S, Ca, Wopro Tana NPK 3 -4- 3 + Mg, S, Ca',
                     image: 'tekuca-gnojiva/wopro-tana.jpg',
                     link: 'katalozi/2021-eko-katalog.pdf#page=24'
-                }
+                },
+                {
+                    title: 'Wopro Terra',
+                    description: 'NPK 4-3-2+Mg, S,' +
+                        ' Ca; NPK 4-10-2+Mg, S, Ca;' +
+                        ' NPK 10-7-1+Mg, S, Ca;' +
+                        ' NPK 1-1-15+Mg, S, Ca;',
+                    image: 'stimulatori-porasta-i-poboljsivaci-tla/wopro-terra.png',
+                    link: 'katalozi/2021-eko-katalog.pdf#page=26'
+                },
             ]
         }
     ]

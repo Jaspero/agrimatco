@@ -63,15 +63,7 @@
                     image: 'stimulatori-porasta-i-poboljsivaci-tla/biolife.png',
                     link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=43'
                 },
-                {
-                    title: 'Wopro Terra',
-                    description: 'NPK 4-3-2+Mg, S,' +
-                        ' Ca; NPK 4-10-2+Mg, S, Ca;' +
-                        ' NPK 10-7-1+Mg, S, Ca;' +
-                        ' NPK 1-1-15+Mg, S, Ca;',
-                    image: 'stimulatori-porasta-i-poboljsivaci-tla/wopro-terra.png',
-                    link: 'katalozi/2021-eko-katalog.pdf#page=26'
-                },
+
             ]
         }
     ]
