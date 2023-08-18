@@ -12,7 +12,7 @@
                 {
                     title: 'Demetrina 25 EC',
                     description: 'Deltamethrin 25g/L',
-                    image: 'insekticidi/demetrina.jpg',
+                    image: 'insekticidi/demetrina-1.jpg',
                     link: 'katalozi/2023-gnojidba-prihrana-zastita.pdf#page=59'
                 }
             ]

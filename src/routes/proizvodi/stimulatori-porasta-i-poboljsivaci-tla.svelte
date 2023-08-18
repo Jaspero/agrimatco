@@ -71,7 +71,7 @@
                         ' NPK 1-1-15+Mg, S, Ca;',
                     image: 'stimulatori-porasta-i-poboljsivaci-tla/wopro-terra.png',
                     link: 'katalozi/2021-eko-katalog.pdf#page=26'
-                }
+                },
             ]
         }
     ]
