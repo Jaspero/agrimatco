@@ -129,7 +129,7 @@
                 {
                     title: 'Soneto',
                     description: 'Dobavljač: Vilmorin',
-                    image: 'sjeme-povrca/korjenasto-povrce/mrkva/soneto-1.jpg',
+                    image: 'sjeme-povrca/korjenasto-povrce/mrkva/soneto-f1.jpg',
                     link: 'katalozi/2023-sjeme-povrca.pdf#page=37'
                 }
             ]
