@@ -13,19 +13,19 @@
                     title: 'Folisec',
                     description: '/',
                     image: 'ekoloski-proizvodi/folisec.jpg',
-                    link: 'katalozi/2021-eko-katalog#page=17'
+                    link: 'katalozi/2021-eko-katalog.pdf#page=17'
                 },
                 {
                     title: 'Herfomic',
                     description: '/',
                     image: 'ekoloski-proizvodi/herfomyc.jpg',
-                    link: 'katalozi/2021-eko-katalog#page=18'
+                    link: 'katalozi/2021-eko-katalog.pdf#page=18'
                 },
                 {
                     title: 'Herfosec',
                     description: '/',
                     image: 'ekoloski-proizvodi/herfosec.jpg',
-                    link: 'katalozi/2021-eko-katalog#page=19'
+                    link: 'katalozi/2021-eko-katalog.pdf#page=19'
                 },
                 {
                     title: 'Ekološka gnojiva',
@@ -43,31 +43,31 @@
                     title: 'Nemater ',
                     description: '/',
                     image: 'ekoloski-proizvodi/nemater.webp',
-                    link: 'katalozi/2021-eko-katalog#page=20'
+                    link: 'katalozi/2021-eko-katalog.pdf#page=20'
                 },
                 {
                     title: 'Tercol',
                     description: '/',
                     image: 'ekoloski-proizvodi/tercol.webp',
-                    link: 'katalozi/2021-eko-katalog#page=21'
+                    link: 'katalozi/2021-eko-katalog.pdf#page=21'
                 },
                 {
                     title: 'Ascoleg',
                     description: '/',
                     image: 'ekoloski-proizvodi/ascoleg.png',
-                    link: 'katalozi/2021-eko-katalog#page=31'
+                    link: 'katalozi/2021-eko-katalog.pdf#page=31'
                 },
                 {
                     title: 'Borealg',
                     description: '/',
                     image: 'ekoloski-proizvodi/borelag.png',
-                    link: 'katalozi/2021-eko-katalog#page=32'
+                    link: 'katalozi/2021-eko-katalog.pdf#page=32'
                 },
                 {
                     title: 'TSL29',
                     description: '/',
                     image: 'ekoloski-proizvodi/TSL29.png',
-                    link: 'katalozi/2021-eko-katalog#page=33'
+                    link: 'katalozi/2021-eko-katalog.pdf#page=33'
                 }
             ]
         }
