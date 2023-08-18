@@ -8,6 +8,6 @@
     <div class="container">
         <nav><small><a rel="prefetch" href="strucni-savjeti">Stručni savjeti</a> > Soja</small></nav>
         <h1>Prihrana krastavca</h1>
-        <a class="link" href="katalozi/2023-gnojidba-prihrana-zastita.pdf#page=75">Pročitaj</a>
+        <a class="link" href="katalozi/2023-sjeme-povrca.pdf#page=75">Pročitaj</a>
     </div>
 </section>
