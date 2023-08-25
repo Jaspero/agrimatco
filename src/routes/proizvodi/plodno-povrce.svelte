@@ -540,7 +540,7 @@
                 {
                     title: 'Spriralus',
                     description: 'Dobavljač: SEMO',
-                    image: 'sjeme-povrca/plodno-povrce/paprika/spiralus-1.jpg',
+                    image: 'sjeme-povrca/plodno-povrce/paprika/spiralus-1.JPG',
                     link: 'katalozi/2023-sjeme-povrca.pdf#page=73'
                 },
                 {
