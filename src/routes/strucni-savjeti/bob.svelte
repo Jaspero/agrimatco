@@ -1,9 +1,9 @@
 <svelte:head>
     <title>Agrimatco | Stručni savjeti | Bob</title>
 </svelte:head>
-
-<img src="strucni-savjeti/bob/bob-1.jpeg" alt="">
-
+<div class="container">
+<img class="w-full" src="strucni-savjeti/bob/bob-1.jpeg" alt="">
+</div>
 <section class="section">
     <div class="container">
         <nav><small><a rel="prefetch" href="strucni-savjeti">Stručni savjeti</a> > Soja</small></nav>
