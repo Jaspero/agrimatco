@@ -2,7 +2,7 @@
     <title>Agrimatco | Stručni savjeti | Bob</title>
 </svelte:head>
 
-<img src="strucni-savjeti/bob/bob.png" alt="">
+<img src="strucni-savjeti/bob/bob-1.jpeg" alt="">
 
 <section class="section">
     <div class="container">
