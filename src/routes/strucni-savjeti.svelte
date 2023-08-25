@@ -60,9 +60,7 @@
                     <li><a href="strucni-savjeti/bobicasto-voce">Bobičasto voće (malina, jagoda, borovnica)</a></li>
                     <li><a href="strucni-savjeti/lijeska">Lijeska</a></li>
                     <li><a href="strucni-savjeti/vinova-loza">Vinova loza</a></li>
-                    <li><a href="strucni-savjeti/travnjak">Travnjak</a></li>
                     <li><a href="strucni-savjeti/maslina">Maslina</a></li>
-                    <li><a href="strucni-savjeti/duhan">Duhan</a></li>
                     <li><a href="/katalozi/2023-gnojidba-prihrana-zastita.pdf#page=58">Šparoga</a></li>
                 </ul>
             </figure>

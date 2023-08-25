@@ -91,7 +91,7 @@
 
         <hr>
         <h2>Preporuka za folijarnu prihranu borovnice</h2>
-        <a href="katalozi/2020-sjeme-povrca.pdf#page=55">Pročitaj</a>
+        <a href="katalozi/2023-gnojidba-prihrana-zastita.pdf#page=55">Pročitaj</a>
     </div>
     <div class="container-large">
 <!--        <Table>-->
