@@ -25,7 +25,7 @@
     <h1>Naši partneri</h1>
     <div class="partneri-slider">
         <img class="partneri-slider-image" src="home-partneri/logo-1.png" alt="">
-        <img class="partneri-slider-image" src="home-partneri/logo-2.png" alt="">
+<!--        <img class="partneri-slider-image" src="home-partneri/logo-2.png" alt="">-->
         <img class="partneri-slider-image" src="home-partneri/logo-3.png" alt="">
         <img class="partneri-slider-image" src="home-partneri/logo-4.png" alt="">
         <img class="partneri-slider-image" src="home-partneri/logo-5.png" alt="">
@@ -46,7 +46,7 @@
         <img class="partneri-slider-image" src="home-partneri/logo-20.jpg" alt="">
         <img class="partneri-slider-image" src="home-partneri/logo-21.png" alt="">
         <img class="partneri-slider-image" src="home-partneri/logo-22.jpg" alt="">
-        <img class="partneri-slider-image" src="home-partneri/logo-23.png" alt="">
+<!--        <img class="partneri-slider-image" src="home-partneri/logo-23.png" alt="">-->
         <img class="partneri-slider-image" src="home-partneri/logo-24.png" alt="">
         <img class="partneri-slider-image" src="home-partneri/logo-25.png" alt="">
         <img class="partneri-slider-image" src="home-partneri/logo-26.png" alt="">
