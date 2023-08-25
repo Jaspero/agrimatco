@@ -2,11 +2,13 @@
     <title>Agrimatco | Stručni savjeti | Krastavac</title>
 </svelte:head>
 
-<img src="strucni-savjeti/krastavac/krastavac.png" alt="">
 
 <section class="section">
     <div class="container">
-        <nav><small><a rel="prefetch" href="strucni-savjeti">Stručni savjeti</a> > Soja</small></nav>
+        <img src="strucni-savjeti/krastavac/krastavac-1.jpg" alt="">
+    </div>
+    <div class="container">
+        <nav><small><a rel="prefetch" href="strucni-savjeti">Stručni savjeti</a> > Krastavac</small></nav>
         <h1>Prihrana krastavca</h1>
         <a class="link" href="katalozi/2023-sjeme-povrca.pdf#page=75">Pročitaj</a>
     </div>
