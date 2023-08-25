@@ -73,8 +73,8 @@
           <li><a rel="prefetch" target="_blank" href="stl/stl-prometca-1.pdf"><u>Promet Ca</u></a></li>
           <li><a rel="prefetch" target="_blank" href="stl/stl-prometzn-1.pdf"><u>Promet Zn</u></a></li>
           <li><a rel="prefetch" target="_blank" href="stl/stl-rootex-1.pdf"><u>Rootex</u></a></li>
-          <li><a rel="prefetch" target="_blank" href="stl/stl-trazex.pdf"><u>Trazex</u></a></li>
-          <li><a rel="prefetch" target="_blank" href="stl/stl-tropicel.pdf"><u>Tropicel</u></a></li>
+          <li><a rel="prefetch" target="_blank" href="stl/stl-trazex-1.pdf"><u>Trazex</u></a></li>
+          <li><a rel="prefetch" target="_blank" href="stl/stl-tropicel-1.pdf"><u>Tropicel</u></a></li>
           <li><a rel="prefetch" target="_blank" href="stl/stl-vigorizer.pdf"><u>Vigorizer</u></a></li>
         </ul>
       </figure>
