@@ -15,7 +15,7 @@
         <img src="strucni-savjeti/paprika/i1.jpg" alt="">
 
         <h2>Prihrana paprike:</h2>
-        <a class="link" href="katalozi/2023-sjeme-povrca.pdf#page=75">Pročitaj</a>
+        <a class="prihrana-link" href="katalozi/2023-sjeme-povrca.pdf#page=75">Pročitaj</a>
 
 <!--        <figure>-->
 <!--            <figcaption><b>1. faza</b></figcaption>-->

@@ -8,7 +8,7 @@
     <div class="container">
         <nav><small><a rel="prefetch" href="strucni-savjeti">Stručni savjeti</a> > Soja</small></nav>
         <h1>Folijarna prihrana soje</h1>
-        <a href="katalozi/2023-gnojidba-prihrana-zastita.pdf#page=51">Pročitaj</a>
+        <a class="prihrana-link" href="katalozi/2023-gnojidba-prihrana-zastita.pdf#page=51">Pročitaj</a>
 
         <p>Soja je značajna leguminoza u ratarsko - industrijskim kulturama koja razvojem bakterija na korijenu obogaćuje tlo dušikom, fiksirajući ga iz zraka. U kvržicama korijena soje bakterije pretvaraju anorganski dušik iz zraka u amonijski oblik pristupačan biljci. Na aktivnost bakterija utječu fizikalna i kemijska svojstva tla: neutralna reakcija tla, prozračnost te dobre vodozračne osobine tla. U plodoredu prije soje treba izbjegavati suncokret, ozimu uljanu repicu i uzgoj soje u monokulturi.</p>
 

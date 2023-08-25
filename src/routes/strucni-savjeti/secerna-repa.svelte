@@ -8,7 +8,7 @@
     <div class="container">
         <nav><small><a rel="prefetch" href="strucni-savjeti">Stručni savjeti</a> > Šećerna repa</small></nav>
         <h1>Folijarna prihrana šećerne repe</h1>
-        <a class="link" href="katalozi/2023-gnojidba-prihrana-zastita.pdf#page=50">Pročitaj</a>
+        <a class="prihrana-link" href="katalozi/2023-gnojidba-prihrana-zastita.pdf#page=50">Pročitaj</a>
 
         <p>Šećerna repa je industrijska biljka koja se uzgaja za proizvodnju šećera, zbog visoke koncentracije saharoze u njezinom zadebljanom korijenu. Šećerna repa sadrži 75 % vode, 16 - 18 % šećera, 5 - 6 % celuloze i 2 - 3 % ostalih supstanci, uključujući i minerale.</p>
         <p>Za proizvodnju visokih prinosa dobre kvalitete korijena šećerne repe tlo, pored ostalog, treba imati dobre zalihe bora i magnezija, jer ih šećerna repa iznosi više nego druge kulture, i to bora  300-500 g/ha te magnezija 60-80 kg/ha.</p>

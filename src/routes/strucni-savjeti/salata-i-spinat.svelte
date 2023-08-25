@@ -12,7 +12,7 @@
     <div class="container">
         <nav><small><a rel="prefetch" href="strucni-savjeti">Stručni savjeti</a> > Salata i špinat</small></nav>
         <h1>Prihrana zelene salate i špinata</h1>
-        <a class="link" href="katalozi/2023-sjeme-povrca.pdf#page=23">Pročitaj</a>
+        <a class="prihrana-link" href="katalozi/2023-sjeme-povrca.pdf#page=23">Pročitaj</a>
 
         <p>Zelena salata je povrtna kutlura koja se u Hrvatskoj uzgaja gotovo tijekom cijele godine. Salata ima skromne potrebe za toplinom i svjetlošću, što je čini idealnom za uzgoj u staklenicima i plastenicima tijekom jeseni, zime i ranog proljeća.  Obično se sadi nakon kultura duge vegetacije kao što su krastavac, rajčica, paprika. Zbog kratkog uzgojnog ciklusa, osnovna gnojidba salate je jednostavniji tehnološki zahvat, te se provodi kao osnovna gnojidba prije sadnje te dvije prihrane tijekom rasta i razvoja glavica.</p>
         <p><img src="strucni-savjeti/salata-i-spinat/i3.jpg" alt=""></p>
