@@ -8,6 +8,9 @@
 
 <section class="section">
     <div class="container">
+        <img class="w-full mt-10" src="strucni-savjeti/batat/batat-1.jpg" alt="">
+    </div>
+    <div class="container">
         <nav><small><a rel="prefetch" href="strucni-savjeti">Stručni savjeti</a> > Batat</small></nav>
 
         <h1>Prihrana batata</h1>
