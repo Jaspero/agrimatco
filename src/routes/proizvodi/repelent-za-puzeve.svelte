@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Agrimatco | Proizvodi | Repelent za puževe</title>
+    <title>Agrimatco | Proizvodi | Delumbri Limax | Repelent za puževe</title>
 </svelte:head>
 
 <script>

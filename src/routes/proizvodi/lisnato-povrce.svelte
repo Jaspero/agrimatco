@@ -28,12 +28,6 @@
                     link: 'katalozi/2023-sjeme-povrca.pdf#page=15'
                 },
                 {
-                    title: 'Quefir',
-                    description: 'Dobavljač: Vilmorin',
-                    image: 'sjeme-povrca/lisnato-povrce/salata/quefir.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=16'
-                },
-                {
                     title: 'Alcaline',
                     description: 'Dobavljač: Vilmorin',
                     image: 'sjeme-povrca/lisnato-povrce/salata/alcaline.jpg',
