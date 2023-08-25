@@ -61,7 +61,7 @@
 
         <hr>
         <h2>Preporuka za folijarnu prihranu jagoda</h2>
-        <a href="katalozi/2023-gnojidba-prihrana-zastita.pdf#page=54">Pročitaj</a>
+        <a class="prihrana-link" href="katalozi/2023-gnojidba-prihrana-zastita.pdf#page=54">Pročitaj</a>
         <p><img src="strucni-savjeti/bobicasto-voce/i-jag.jpg" alt=""></p>
         <p>Gnojidba predstavlja važan tehnološki zahvat u proizvodnji jagode, koji značajno utječe na visinu i kvalitetu prinosa. Ovisno o količini fosfora i kalija u tlu, potrebno je prilagoditi i gnojidbu jagode.</p>
         <p>Kod gnojidbe dušikom, koji je vrlo pokretan element u tlu, a kako jagoda ima plitko korijenje, mora se posvetiti posebna pažnja. Osim potrebe biljaka za dušikom, potrebno je voditi računa o pH vrijednosti tla, mehaničkom sastavu tla i obliku primjenjenog dušika. Kod primjene dušika u obliku nitrata ukupnu dozu gnojidbe potrebno je podijeliti na veći broj tretmana, zbog vrlo lakog ispiranja iz tla, lakšeg mehaničkog sastava. Kod primjene dušičnih gnojiva, najmanje 50% od ukupne količine treba biti u nitratnom obliku.</p>
@@ -91,7 +91,7 @@
 
         <hr>
         <h2>Preporuka za folijarnu prihranu borovnice</h2>
-        <a href="katalozi/2023-gnojidba-prihrana-zastita.pdf#page=55">Pročitaj</a>
+        <a class="prihrana-link" href="katalozi/2023-gnojidba-prihrana-zastita.pdf#page=55">Pročitaj</a>
     </div>
     <div class="container-large">
 <!--        <Table>-->

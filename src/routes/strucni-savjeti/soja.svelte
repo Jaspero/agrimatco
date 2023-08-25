@@ -72,7 +72,7 @@
 <!--            </ul>-->
         </figure>
 
-        <a href="katalozi/2023-gnojidba-prihrana-zastita.pdf#page=51">Pročitaj</a>
+        <a class="prihrana-link" href="katalozi/2023-gnojidba-prihrana-zastita.pdf#page=51">Pročitaj</a>
 
         <p>Tokom cijele vegetacije, u posebno nepovoljnim uvjetima, nakon primjene herbicida i prilikom svake gnojidbe, obavezna je primjena Bioplexa 0,5 L/ha na 200-300L vode/ha. Koristiti ga nakon stresnih uvjeta (negativnog učinka herbicida, bolesti i štetnika, visoke vlage, tuče i suše) jer u sebi ima veliki utjecaj organskih ekstrakta, aminokiselina i fitohormona.</p>
 
