@@ -14,7 +14,7 @@
         <p><img src="strucni-savjeti/maslina/i2.jpg" alt=""></p>
 
         <h2>Folijarna dopunska gnojidba masline</h2>
-        <a class="link" href="katalozi/2023-gnojidba-prihrana-zastita.pdf#page=57">Pročitaj</a>
+        <a class="prihrana-link" href="katalozi/2023-gnojidba-prihrana-zastita.pdf#page=57">Pročitaj</a>
 
         <figure>
             <figcaption><b>1. faza – proljetna folijarna gnojidba pred cvatnju</b></figcaption>

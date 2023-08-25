@@ -9,6 +9,6 @@
     <div class="container">
         <nav><small><a rel="prefetch" href="strucni-savjeti">Stručni savjeti</a> > Češnjak</small></nav>
         <h1>Folijarna prihrana Češnjaka</h1>
-        <a class="link" href="katalozi/2023-gnojidba-prihrana-zastita.pdf#page=52">Pročitaj</a>
+        <a class="prihrana-link" href="katalozi/2023-gnojidba-prihrana-zastita.pdf#page=52">Pročitaj</a>
     </div>
 </section>
