@@ -307,7 +307,7 @@
                 {
                     title: 'Jangcy F1',
                     description: 'Dobavljač: Vilmorin',
-                    image: 'sjeme-povrca/plodno-povrce/rajcica/jangcy.jpg',
+                    image: 'sjeme-povrca/plodno-povrce/rajcica/jangcy.JPG',
                     link: 'katalozi/2023-sjeme-povrca.pdf#page=62'
                 },
                 {
@@ -337,13 +337,13 @@
                 {
                     title: 'Cappuccino F!',
                     description: 'Dobavljač: SAIS',
-                    image: 'sjeme-povrca/plodno-povrce/rajcica/cappucino.jpg',
+                    image: 'sjeme-povrca/plodno-povrce/rajcica/cappuccino.jpg',
                     link: 'katalozi/2023-sjeme-povrca.pdf#page=63'
                 },
                 {
                     title: 'Cornabel F1',
                     description: 'Dobavljač: Vilmorin',
-                    image: 'sjeme-povrca/plodno-povrce/rajcica/cornabel.jpg',
+                    image: 'sjeme-povrca/plodno-povrce/rajcica/cornabel.JPG',
                     link: 'katalozi/2023-sjeme-povrca.pdf#page=63'
                 },
                 {
