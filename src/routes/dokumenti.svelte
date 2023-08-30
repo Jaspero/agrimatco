@@ -39,7 +39,7 @@
       <figure class="col-12">
         <figcaption><b>Sigurnosno tehnički list (STL)</b></figcaption>
         <ul class="stl-list">
-          <li><a rel="prefetch" target="_blank" href="stl/stl-Agro-K-1.pdf"><u>Agro-K</u></a></li>
+          <li><a rel="prefetch" target="_blank" href="stl/stl-agro-k-1.pdf"><u>Agro-K</u></a></li>
           <li><a rel="prefetch" target="_blank" href="stl/stl-agrofol-390-1.pdf"><u>Agrofol 390</u></a></li>
           <li><a rel="prefetch" target="_blank" href="stl/stl-agrofol-550k-1.pdf"><u>Agrofol 550K</u></a></li>
           <li><a rel="prefetch" target="_blank" href="stl/stl-agrofol-650-1.pdf"><u>Agrofol 650</u></a></li>
