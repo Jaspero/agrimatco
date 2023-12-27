@@ -83,13 +83,6 @@
                     email: 'ivica.vrankulj@agrimatco-eu.com'
                 },
                 {
-                    name: 'Kristina Antolić, dipl. ing. agr.',
-                    title: 'Stručna savjetnica za gnojivo i sjeme povrća',
-                    area: 'Zagreb i kontinentalna Hrvatska',
-                    phone: '+385 (0)99 6023 068',
-                    email: 'kristina.antolic@agrimatco-eu.com'
-                },
-                {
                     name: 'Darko Rabudić, ing. agr.',
                     title: 'Stručni savjetnik za gnojiva i sredstva za zaštitu bilja',
                     area: 'Zapadna Hrvatska',
@@ -107,25 +100,42 @@
                     name: 'Boris Puđa, dipl. ing. agr.',
                     title: 'Stručni savjetnik za sjeme povrća, gnojiva, i sredstva za zaštitu bilja',
                     area: 'Zapadna Slavonija',
+                    phone: '+385 (0)99 161 6024',
+                    email: 'matej.kozic@agrimatco-eu.com '
+                },
+                {
+                    name: 'Matej Kozić, dipl. ing. agronomije',
+                    title: 'Stručni savjetnik za sjeme povrća, gnojiva i sredstva za zaštitu bilja, Slavonija i Baranja',
+                    area: 'Zapadna Slavonija',
                     phone: '+385 (0)99 3083 580',
                     email: 'boris.pudja@agrimatco-eu.com'
+                },
+                {
+                    name: 'Diana Marjanović, mag. ing. agronomije  ',
+                    title: 'Stručni savjetnik za sjeme povrća, gnojiva i sredstva za zaštitu bilja, Zapadna Hrvatska',
+                    area: 'Zapadna Slavonija',
+                    phone: '+385 (0)99 474 6906',
+                    email: 'diana.marjanovic@agrimatco-eu.com'
                 }
             ]
         }
     ]
 </script>
 
-<section class="section">
-    <div class="container">
+<section className="section">
+    <div className="container">
         <h1>Agrimatco tim</h1>
-        <p>Srce Agrimatco-vog uspjeha su ljudi. Oni kombiniraju svoj integritet, stručnost i predanost, kako bi kreirali uske veze sa kupcima i dobavljačima, i na taj način pridonose viziji osnivača, da susretnu potrebe poljoprivrednika te da on dobije najbolji proizvod i najbolju uslugu.</p>
+        <p>Srce Agrimatco-vog uspjeha su ljudi. Oni kombiniraju svoj integritet, stručnost i predanost, kako bi kreirali
+            uske veze sa kupcima i dobavljačima, i na taj način pridonose viziji osnivača, da susretnu potrebe
+            poljoprivrednika te da on dobije najbolji proizvod i najbolju uslugu.</p>
 
         {#each teams as team}
             <h2>{team.name}</h2>
-            <div class="grid">
+            <div className="grid">
                 {#each team.members as member}
-                    <div class="col-6 col-s-12">
-                        <MemberCard name={member.name} title={member.title} area={member.area} phone={member.phone} email={member.email} />
+                    <div className="col-6 col-s-12">
+                        <MemberCard name={member.name} title={member.title} area={member.area} phone={member.phone}
+                                    email={member.email}/>
                     </div>
                 {/each}
             </div>
@@ -134,6 +144,7 @@
         <hr>
 
         <h2>Područje rada</h2>
-        <p><img class="media-large" src="nas-tim/karta.jpg" alt="Područje rada pojedinih članova Agrimatco tima na karti Hrvatske."></p>
+        <p><img class="media-large" src="nas-tim/podrucje-karta.png"
+                alt="Područje rada pojedinih članova Agrimatco tima na karti Hrvatske."></p>
     </div>
 </section>
