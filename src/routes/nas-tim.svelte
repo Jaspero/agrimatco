@@ -143,6 +143,6 @@
 
         <hr>
         <h2>Područje rada</h2>
-        <img class="media-large" src="nas-tim/podrucje-karta.jpg" alt="Područje rada pojedinih članova Agrimatco tima na karti Hrvatske.">
+        <img class="media-large" src="nas-tim/podrucje-rada.jpg" alt="Područje rada pojedinih članova Agrimatco tima na karti Hrvatske.">
     </div>
 </section>
