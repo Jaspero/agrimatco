@@ -122,8 +122,8 @@
     ]
 </script>
 
-<section className="section">
-    <div className="container">
+<section class="section">
+    <div class="container">
         <h1>Agrimatco tim</h1>
         <p>Srce Agrimatco-vog uspjeha su ljudi. Oni kombiniraju svoj integritet, stručnost i predanost, kako bi kreirali
             uske veze sa kupcima i dobavljačima, i na taj način pridonose viziji osnivača, da susretnu potrebe
@@ -131,9 +131,9 @@
 
         {#each teams as team}
             <h2>{team.name}</h2>
-            <div className="grid">
+            <div class="grid">
                 {#each team.members as member}
-                    <div className="col-6 col-s-12">
+                    <div class="col-6 col-s-12">
                         <MemberCard name={member.name} title={member.title} area={member.area} phone={member.phone}
                                     email={member.email}/>
                     </div>
@@ -142,9 +142,7 @@
         {/each}
 
         <hr>
-
         <h2>Područje rada</h2>
-        <p><img class="media-large" src="nas-tim/podrucje-karta.png"
-                alt="Područje rada pojedinih članova Agrimatco tima na karti Hrvatske."></p>
+        <img class="media-large" src="nas-tim/podrucje-karta.png" alt="Područje rada pojedinih članova Agrimatco tima na karti Hrvatske.">
     </div>
 </section>
