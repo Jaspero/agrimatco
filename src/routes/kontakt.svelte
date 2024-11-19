@@ -40,7 +40,7 @@
 <section class="section">
     <div class="container">
         <h1>Kontakt</h1>
-        <p>Od 1998. godine do danas poslujemo na lokaciji A. Gottlieba 3 u Zagrebu, gdje se nalazi skladište sjemena povrća i administrativni ured. 2009. godine smo kupili skladište u Slavoniji na adresi Jelengradska 12, u Petrijevcima, kako bismo se što više približili našim kupcima. Ovdje  je danas sjedište tvrtke i centralno skladište sredstava za zaštitu bilja i gnojiva.</p>
+        <p>Tvrtka Agrimatco d.o.o. od 1998. godine  posluje na lokaciji A. Gottlieba 3 u Zagrebu, gdje se i danas nalazi skladište sjemena povrća i administrativni ured. Godine 2009. sjedište firme se prebacuje  u Slavoniju na adresu Jelengradska 12, u Petrijevcima, gdje se nalazi centralno skladište gnojiva, sredstava za zaštitu bilja i sustava za navodnjavanje.</p>
 
         <div class="grid">
             <div class="col-6 col-s-12">
