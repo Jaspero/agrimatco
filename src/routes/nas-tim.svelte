@@ -83,13 +83,6 @@
                     email: 'ivica.vrankulj@agrimatco-eu.com'
                 },
                 {
-                    name: 'Darko Rabudić, ing. agr.',
-                    title: 'Stručni savjetnik za gnojiva i sredstva za zaštitu bilja',
-                    area: 'Zapadna Hrvatska',
-                    phone: '+385 (0)99 464 2989',
-                    email: 'darko.rabudic@agrimatco-eu.com'
-                },
-                {
                     name: 'Matija Erhatić, poljoprivredni tehničar',
                     title: 'Stručni savjetnik za sjeme povrća',
                     area: 'Središnja i istočna Hrvatska',
@@ -101,14 +94,14 @@
                     title: 'Stručni savjetnik za sjeme povrća, gnojiva, i sredstva za zaštitu bilja',
                     area: 'Zapadna Slavonija',
                     phone: '+385 (0)99 161 6024',
-                    email: 'matej.kozic@agrimatco-eu.com '
+                    email: 'boris.pudja@agrimatco-eu.com'
                 },
                 {
                     name: 'Matej Kozić, dipl. ing. agronomije',
                     title: 'Stručni savjetnik za sjeme povrća, gnojiva i sredstva za zaštitu bilja, Slavonija i Baranja',
                     area: 'Zapadna Slavonija',
-                    phone: '+385 (0)99 3083 580',
-                    email: 'boris.pudja@agrimatco-eu.com'
+                    phone: '+385 (0)99 161 60 24',
+                    email: 'matej.kozic@agrimatco-eu.com'
                 },
                 {
                     name: 'Diana Marjanović, mag. ing. agronomije  ',
@@ -116,7 +109,14 @@
                     area: 'Zapadna Slavonija',
                     phone: '+385 (0)99 474 6906',
                     email: 'diana.marjanovic@agrimatco-eu.com'
-                }
+                },
+                {
+                    name: 'Marko Ohnjec, dipl. ing. agr.',
+                    title: 'Stručni savjetnik za gnojiva, sredstva za zaštitu bilja i sjeme povrća',
+                    area: 'Središnja Hrvatska i Istra',
+                    phone: '+385 (0)99 464 2989',
+                    email: 'marko.ohnjec@agrimatco-eu.com'
+                },
             ]
         }
     ]
