@@ -53,7 +53,6 @@
 
         <hr>
         <h4>Kupina</h4>
-        <p><img src="strucni-savjeti/bobicasto-voce/i-kup-fen.jpg" alt=""></p>
 
         <hr>
         <h3>Nedostatci</h3>
