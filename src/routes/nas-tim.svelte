@@ -111,6 +111,13 @@
                     email: 'diana.marjanovic@agrimatco-eu.com'
                 },
                 {
+                    name: 'Dario Gajski, ing. agr.',
+                    title: 'Stručni savjetnik za gnojiva, sredstva za zaštitu bilja i sjeme povrća',
+                    area: 'Sjeverozapadna Hrvatska',
+                    phone: '+385 (0)99 161 5983',
+                    email: 'dario.gajski@agrimatco-eu.com'
+                },
+                {
                     name: 'Marko Ohnjec, dipl. ing. agr.',
                     title: 'Stručni savjetnik za gnojiva, sredstva za zaštitu bilja i sjeme povrća',
                     area: 'Središnja Hrvatska i Istra',
