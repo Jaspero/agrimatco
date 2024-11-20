@@ -22,16 +22,11 @@
         <ul>
           <li><a rel="prefetch" target="_blank" href="letci/alba-milagro.pdf">Alba Milagro (gnojiva)</a></li>
           <li><a rel="prefetch" target="_blank" href="letci/mulch-folije.pdf">Mulch folije</a></li>
-          <li><a rel="prefetch" target="_blank" href="letci/lubenice.pdf">Lubenice</a></li>
-          <li><a rel="prefetch" target="_blank" href="letci/paprike.pdf">Paprike</a></li>
-          <li><a rel="prefetch" target="_blank" href="letci/salata.pdf">Salata</a></li>
-          <li><a rel="prefetch" target="_blank" href="letci/kupusnjace.pdf">Kupusnjače</a></li>
         </ul>
       </figure>
       <figure class="col-6 col-s-12">
         <figcaption><b>Katalozi</b></figcaption>
         <ul>
-          <li><a rel="prefetch" target="_blank" href="katalozi/2021-katalog.pdf">EKO Katalog - 2021</a></li>
           <li><a rel="prefetch" target="_blank" href="katalozi/2023-sjeme-povrca.pdf">Sjeme povrća - 2023</a></li>
           <li><a rel="prefetch" target="_blank" href="katalozi/2023-gnojidba-prihrana-zastita.pdf">Gnojidba, prihrana, zaštita - 2023</a></li>
           <li><a rel="prefetch" target="_blank" href="katalozi/sjeme-povrca-2024.pdf">Sjeme povrća - 2024</a></li>
