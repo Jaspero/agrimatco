@@ -93,6 +93,12 @@
             <Field label="Vaša poruka">
                 <textarea name="" id="" cols="60" rows="4" bind:value={message} required></textarea>
             </Field>
+
+            <label>
+                <input type="checkbox" required />
+                Podaci koji se unose neće biti korišteni niti u jednu svrhu osim da se vidi tko je poslao poruku.
+            </label>
+
             <Button type="submit" id="contact-page-send" bind:loading={loading} disabled={!name || !email || !message}>Pošalji</Button>
         </form>
 
