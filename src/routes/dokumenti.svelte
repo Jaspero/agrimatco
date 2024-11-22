@@ -27,11 +27,10 @@
       <figure class="col-6 col-s-12">
         <figcaption><b>Katalozi</b></figcaption>
         <ul>
-          <li><a rel="prefetch" target="_blank" href="katalozi/2023-sjeme-povrca.pdf">Sjeme povrća - 2023</a></li>
           <li><a rel="prefetch" target="_blank" href="katalozi/2023-gnojidba-prihrana-zastita.pdf">Gnojidba, prihrana, zaštita - 2023</a></li>
-          <li><a rel="prefetch" target="_blank" href="katalozi/sjeme-povrca-2024.pdf">Sjeme povrća - 2024</a></li>
           <li><a rel="prefetch" target="_blank" href="katalozi/prihrana-bilja-2024.pdf">Gnojidba, prihrana, zaštita - 2024</a></li>
           <li><a rel="prefetch" target="_blank" href="katalozi/zastita-bilja-2024.pdf">Zaštita bilja - 2024</a></li>
+          <li><a rel="prefetch" target="_blank" href="katalozi/sjeme-povrca-2025.pdf">Sjeme povrća - 2025</a></li>
         </ul>
       </figure>
       <figure class="col-12">
