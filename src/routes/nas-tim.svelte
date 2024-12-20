@@ -117,13 +117,6 @@
                     phone: '+385 (0)99 161 5983',
                     email: 'dario.gajski@agrimatco-eu.com'
                 },
-                {
-                    name: 'Marko Ohnjec, dipl. ing. agr.',
-                    title: 'Stručni savjetnik za gnojiva, sredstva za zaštitu bilja i sjeme povrća',
-                    area: 'Središnja Hrvatska i Istra',
-                    phone: '+385 (0)99 464 2989',
-                    email: 'marko.ohnjec@agrimatco-eu.com'
-                },
             ]
         }
     ]
