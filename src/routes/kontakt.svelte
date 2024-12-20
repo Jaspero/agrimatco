@@ -101,37 +101,5 @@
 
             <Button type="submit" id="contact-page-send" bind:loading={loading} disabled={!name || !email || !message}>Pošalji</Button>
         </form>
-
-        <hr>
-
-        <h2>Agrimatco d.o.o.</h2>
-        <table>
-            <tr>
-                <td>MBS:</td>
-                <td>080199076</td>
-            </tr>
-            <tr>
-                <td>OIB:</td>
-                <td>24373689835</td>
-            </tr>
-            <tr>
-                <td>VAT No.:</td>
-                <td>HR24373689835</td>
-            </tr>
-            <tr>
-                <td>Direktor:</td>
-                <td>Stjepan Kanižaj</td>
-            </tr>
-            <tr>
-                <td>IBAN:</td>
-                <td>HR80 2500 0091 1010 3592 0, Addiko Bank</td>
-            </tr>
-            <tr>
-                <td colspan="2">Upisan u sudski registar u Zagrebu pod br. Tt-98/135-2</td>
-            </tr>
-            <tr>
-                <td colspan="2">Temeljni kapital 14.994.200kn uplaćen u cijelosti.</td>
-            </tr>
-        </table>
     </div>
 </section>

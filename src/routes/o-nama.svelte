@@ -16,7 +16,7 @@
             prerasla u internacionalnu grupaciju.</p>
 
         <h2>Lokacija</h2>
-        <p>Agrimatco je prisutan u 50 zemalja svijeta, na Bliskom Istoku, u Africi, istočnoj Europi, centralnoj Aziji,
+        <p>Agrimatco je prisutan u 60 zemalja svijeta, na Bliskom Istoku, u Africi, istočnoj Europi, centralnoj Aziji,
             Kini i Vijetnamu.</p>
         <p><img class="media-large" src="o-nama/podrucje-rada-svijet.jpg" alt=""></p>
          <p>Agrimatco je sačuvao tradiciju izvrsnosti, jer je nastavio pružati profesionalne usluge i poljoprivredne
