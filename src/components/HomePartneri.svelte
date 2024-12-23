@@ -59,6 +59,6 @@
         <img class="partneri-slider-image" src="home-partneri/logo-33.png" alt="">
         <img class="partneri-slider-image" src="home-partneri/logo-34.webp" alt="">
         <img class="partneri-slider-image" src="home-partneri/logo-34.jpg" alt="">
-        <img class="partneri-slider-image" src="home-partneri/logo-35.webp" alt="">
+        <img class="partneri-slider-image" src="home-partneri/logosab.png" alt="">
     </div>
 </section>
