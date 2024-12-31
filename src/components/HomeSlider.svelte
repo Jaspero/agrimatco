@@ -24,7 +24,7 @@
             content: `Koriste se za povećanje biološke plodnosti tla, oporavak iscrpljenog tla, jačanje biljnih funkcija, zadržavanje vlage u tlu, razvoj korjena, reguliranje pH vrijednosti tla, popravljanje strukture tla i ostvarivanje što boljih rezultata u svim fazama razvoja biljke.`
         },
         {
-            image: `../home-slider/navodnjavanje.jpg`,
+            image: `../home-slider/amco-drip.jpg`,
             title: `Navodnjavanje`,
             content: `U vrijeme očuvanja resursa i vode, navodnjavanje kap po kap ima veliki značaj, a sama instalacija je jeftinija od instalacije tradicionalnih sustava i utrošak vode je mnogo manji.`
         },
