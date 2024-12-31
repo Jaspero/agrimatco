@@ -84,7 +84,7 @@
                 {
                     title: 'Minnie F1',
                     description: 'Dobavljač: United Genetics)',
-                    image: 'sjeme-povrca/plodno-povrce/lubenica/ketty.jpg',
+                    image: 'sjeme-povrca/plodno-povrce/lubenica/minnie.jpg',
                     link: 'katalozi/sjeme-povrca-2025.pdf#page=47'
                 }
             ]
@@ -130,7 +130,7 @@
                 {
                     title: 'Varenne F1',
                     description: 'Dobavljač: Mira Seeds',
-                    image: 'sjeme-povrca/plodno-povrce/dinja/jannet.jpg',
+                    image: 'sjeme-povrca/plodno-povrce/dinja/varenne.jpg',
                     link: 'katalozi/sjeme-povrca-2025.pdf#page=49'
                 },
             ]
@@ -239,160 +239,154 @@
                     link: 'katalozi/sjeme-povrca-2025.pdf#page=56'
                 },
                 {
-                    title: 'Amerigo F1',
-                    description: 'Dobavljač: Sakata',
-                    image: 'sjeme-povrca/plodno-povrce/rajcica/amerigo-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=60'
-                },
-                {
                     title: 'Rosalba F1',
                     description: 'Dobavljač: Esasem',
                     image: 'sjeme-povrca/plodno-povrce/rajcica/rosalba-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=61'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=57'
                 },
                 {
                     title: 'VP1 F1',
                     description: 'Dobavljač: Vilmorin',
                     image: 'sjeme-povrca/plodno-povrce/rajcica/vp1-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=61'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=57'
                 },
                 {
                     title: 'VP2 F1',
                     description: 'Dobavljač: Vilmorin',
                     image: 'sjeme-povrca/plodno-povrce/rajcica/vp2.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=61'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=57'
                 },
                 {
                     title: 'Hayet F1',
                     description: 'Dobavljač: Sakata',
                     image: 'sjeme-povrca/plodno-povrce/rajcica/hayet.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page= 60'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=56'
                 },
                 {
                     title: 'Pink Impression F1',
                     description: 'Dobavljač: Sakata',
                     image: 'sjeme-povrca/plodno-povrce/rajcica/pink-impression-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=61'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=57'
                 },
                 {
                     title: 'Fuji Pink F1',
                     description: 'Dobavljač: Sakata',
                     image: 'sjeme-povrca/plodno-povrce/rajcica/fuji-pink-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=62'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=58'
                 },
                 {
                     title: 'Ricciolo',
                     description: 'Dobavljač: United Genetics',
                     image: 'sjeme-povrca/plodno-povrce/rajcica/ricciolo.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=62'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=58'
                 },
                 {
                     title: 'Jangcy F1',
                     description: 'Dobavljač: Vilmorin',
                     image: 'sjeme-povrca/plodno-povrce/rajcica/jangcy.JPG',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=62'
-                },
-                {
-                    title: 'Tojiro F1',
-                    description: 'Dobavljač: United Genetics',
-                    image: 'sjeme-povrca/plodno-povrce/rajcica/tojiro.png',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=62'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=58'
                 },
                 {
                     title: 'Sauron',
                     description: 'Dobavljač: Esasem',
                     image: 'sjeme-povrca/plodno-povrce/rajcica/sauron-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=62'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=58'
                 },
                 {
                     title: 'San Remo F1',
                     description: 'Dobavljač: United Genetics',
                     image: 'sjeme-povrca/plodno-povrce/rajcica/san-remo-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=62'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=58'
+                },
+                {
+                    title: 'Dolcecuore F1',
+                    description: 'Dobavljač: United Genetics',
+                    image: 'sjeme-povrca/plodno-povrce/rajcica/dolcecuore.jpg',
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=58'
                 },
                 {
                     title: 'Belmonte F1',
                     description: 'Dobavljač: Esasem',
                     image: 'sjeme-povrca/plodno-povrce/rajcica/belmonte.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=63'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=58'
                 },
                 {
                     title: 'Cappuccino F!',
                     description: 'Dobavljač: SAIS',
                     image: 'sjeme-povrca/plodno-povrce/rajcica/cappuccino.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=63'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=59'
                 },
                 {
                     title: 'Cornabel F1',
                     description: 'Dobavljač: Vilmorin',
                     image: 'sjeme-povrca/plodno-povrce/rajcica/cornabel.JPG',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=63'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=59'
                 },
                 {
                     title: 'Prezioso F1',
                     description: 'Dobavljač: Esasem',
                     image: 'sjeme-povrca/plodno-povrce/rajcica/prezioso-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=64'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=60'
                 },
                 {
                     title: 'Star Gold F1',
                     description: 'Dobavljač: Esasem',
                     image: 'sjeme-povrca/plodno-povrce/rajcica/star-gold.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=64'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=60'
                 },
                 {
                     title: 'Porpora F1',
                     description: 'Dobavljač: Esasem',
                     image: 'sjeme-povrca/plodno-povrce/rajcica/porpora-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=64'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=60'
                 },
                 {
                     title: 'Lobello F1',
                     description: 'Dobavljač: Esasem',
                     image: 'sjeme-povrca/plodno-povrce/rajcica/lobello-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=64'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=60'
                 },
                 {
                     title: 'Collina F1',
                     description: 'Dobavljač: Esasem',
                     image: 'sjeme-povrca/plodno-povrce/rajcica/collina-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=64'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=60'
                 },
                 {
                     title: 'Napika F1',
                     description: 'Dobavljač: Esasem',
                     image: 'sjeme-povrca/plodno-povrce/rajcica/napika-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=64'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=60'
                 },
                 {
                     title: 'Big Rio F1',
                     description: 'Dobavljač: United Genetics',
                     image: 'sjeme-povrca/plodno-povrce/rajcica/big-rio.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=65'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=62'
                 },
                 {
                     title: 'Templar F1',
                     description: 'Dobavljač: Isi Sementi',
                     image: 'sjeme-povrca/plodno-povrce/rajcica/templar.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=65'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=62'
                 },
                 {
                     title: 'Rossano F1',
                     description: 'Dobavljač: Esasem',
                     image: 'sjeme-povrca/plodno-povrce/rajcica/rossano-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=65'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=61'
                 },
                 {
                     title: 'Troy F1 (Linda F1)',
                     description: 'Dobavljač: Sakata',
                     image: 'sjeme-povrca/plodno-povrce/rajcica/troy-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=65'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=61'
                 },
                 {
                     title: 'Kero F1',
                     description: 'Dobavljač: Esasem',
                     image: 'sjeme-povrca/plodno-povrce/rajcica/kero-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=65'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=62'
                 }
             ]
         },
@@ -403,127 +397,163 @@
                     title: 'Bernita F1',
                     description: 'Dobavljač: Duna-r',
                     image: 'sjeme-povrca/plodno-povrce/paprika/bernita-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=67'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=63'
                 },
                 {
                     title: 'Bibic F1',
                     description: 'Dobavljač: Duna-r',
                     image: 'sjeme-povrca/plodno-povrce/paprika/bibic-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=67'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=63'
                 },
                 {
                     title: 'Bagoly F1',
                     description: 'Dobavljač: Duna-r',
                     image: 'sjeme-povrca/plodno-povrce/paprika/bagoly-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=67'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=63'
                 },
                 {
                     title: 'Bobita F1',
                     description: 'Dobavljač: Duna-r',
                     image: 'sjeme-povrca/plodno-povrce/paprika/bobita-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=68'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=64'
                 },
                 {
                     title: 'Lisenka F1',
                     description: 'Dobavljač: Duna-r',
                     image: 'sjeme-povrca/plodno-povrce/paprika/lisenka-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=68'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=63'
                 },
                 {
                     title: 'Ester F1',
                     description: 'Dobavljač: Duna-r',
                     image: 'sjeme-povrca/plodno-povrce/paprika/ester-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=71'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=67'
+                },
+                {
+                    title: 'Steffi F1',
+                    description: 'Dobavljač: CAPSICO',
+                    image: 'sjeme-povrca/plodno-povrce/paprika/steffi.jpg',
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=67'
                 },
                 {
                     title: 'Szalva  F1',
                     description: 'Dobavljač: Duna-r',
                     image: 'sjeme-povrca/plodno-povrce/paprika/szalva.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=71'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=67'
+                },
+                {
+                    title: 'Jablina  F1',
+                    description: 'Dobavljač: SEMO',
+                    image: 'sjeme-povrca/plodno-povrce/paprika/jablina.jpg',
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=67'
                 },
                 {
                     title: 'Spartaco F1',
                     description: 'Dobavljač: Esasem',
                     image: 'sjeme-povrca/plodno-povrce/paprika/spartaco-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=68'
-                },
-                {
-                    title: 'Lake F1',
-                    description: 'Dobavljač: Sakata',
-                    image: 'sjeme-povrca/plodno-povrce/paprika/lake-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=69'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=67'
                 },
                 {
                     title: 'Salana F1',
                     description: 'Dobavljač: Sakata',
                     image: 'sjeme-povrca/plodno-povrce/paprika/salana-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=69'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=64'
+                },
+                {
+                    title: 'Goldano',
+                    description: 'Dobavljač: CAPSICO',
+                    image: 'sjeme-povrca/plodno-povrce/paprika/goldano.jpg',
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=65'
+                },
+                {
+                    title: 'Silverado',
+                    description: 'Dobavljač: CAPSICO',
+                    image: 'sjeme-povrca/plodno-povrce/paprika/silverado.jpg',
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=65'
+                },
+                {
+                    title: 'Vazul F1',
+                    description: 'Dobavljač: DUNA',
+                    image: 'sjeme-povrca/plodno-povrce/paprika/vazul.jpg',
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=65'
                 },
                 {
                     title: 'Bodrog F1',
-                    description: 'Dobavljač: DUNA',
+                    description: 'Dobavljač: CAPSICO',
                     image: 'sjeme-povrca/plodno-povrce/paprika/bodrog.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=70'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=66'
+                },
+                {
+                    title: 'Borka',
+                    description: 'Dobavljač: CAPSICO',
+                    image: 'sjeme-povrca/plodno-povrce/paprika/borka.jpg',
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=66'
                 },
                 {
                     title: 'Emese  F1',
                     description: 'Dobavljač: DUNA',
                     image: 'sjeme-povrca/plodno-povrce/paprika/emmese.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=70'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=66'
                 },
                 {
                     title: 'Sobri   F1',
                     description: 'Dobavljač: DUNA',
                     image: 'sjeme-povrca/plodno-povrce/paprika/sobri.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=70'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=66'
                 },
                 {
                     title: 'Rafaelus F1',
                     description: 'Dobavljač: Semo',
                     image: 'sjeme-povrca/plodno-povrce/paprika/rafaelus.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=72'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=68'
                 },
                 {
                     title: 'Kadet F1',
                     description: 'Dobavljač: Duna-r',
                     image: 'sjeme-povrca/plodno-povrce/paprika/kadet-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=72'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=68'
                 },
                 {
-                    title: 'Csango F1',
-                    description: 'Dobavljač: Duna-r',
-                    image: 'sjeme-povrca/plodno-povrce/paprika/csango-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=72'
+                    title: 'Eugenia F1',
+                    description: 'Dobavljač: CAPSICO',
+                    image: 'sjeme-povrca/plodno-povrce/paprika/eugenia.jpg',
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=69'
                 },
                 {
                     title: 'Archivarius F1 (D1611/961)',
                     description: 'Dobavljač: Duna-r',
                     image: 'sjeme-povrca/plodno-povrce/paprika/archivarius-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=72'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=68'
+                },
+                {
+                    title: 'Mathias F1',
+                    description: 'Dobavljač: CAPSICO',
+                    image: 'sjeme-povrca/plodno-povrce/paprika/mathias.jpg',
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=69'
                 },
                 {
                     title: 'Toldi  F1',
                     description: 'Dobavljač: Duna-r',
                     image: 'sjeme-povrca/plodno-povrce/paprika/toldi.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=73'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=69'
                 },
                 {
                     title: 'Ohnivec',
                     description: 'Dobavljač: SEMO',
                     image: 'sjeme-povrca/plodno-povrce/paprika/ohnivec-1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=73'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=70'
                 },
                 {
                     title: 'Spriralus',
                     description: 'Dobavljač: SEMO',
                     image: 'sjeme-povrca/plodno-povrce/paprika/spiralus-1.JPG',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=73'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=70'
                 },
                 {
                     title: 'Palivec',
                     description: 'Dobavljač: SEMO',
                     image: 'sjeme-povrca/plodno-povrce/paprika/palivec-1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=73'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=70'
                 }
             ]
         },
@@ -534,7 +564,7 @@
                     title: 'Rocal F1',
                     description: 'Dobavljač: ESASEM',
                     image: 'sjeme-povrca/plodno-povrce/paprika/rocal.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=71'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=70'
                 },
             ]
         },
@@ -545,31 +575,19 @@
                     title: 'Anya  F1',
                     description: 'Dobavljač: Semo',
                     image: 'sjeme-povrca/plodno-povrce/krastavac/anya.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=74'
-                },
-                {
-                    title: 'Triunfo F1',
-                    description: 'Dobavljač: Sakata',
-                    image: 'sjeme-povrca/plodno-povrce/krastavac/triunfo-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=74'
-                },
-                {
-                    title: 'Kung Fu F1',
-                    description: 'Dobavljač: Sakata',
-                    image: 'sjeme-povrca/plodno-povrce/krastavac/kung-fu-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=74'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=72'
                 },
                 {
                     title: 'Ronda F1',
                     description: 'Dobavljač: Sakata',
                     image: 'sjeme-povrca/plodno-povrce/krastavac/ronda-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=74'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=72'
                 },
                 {
                     title: 'Goghen F1',
                     description: 'Dobavljač: Esasem',
                     image: 'sjeme-povrca/plodno-povrce/krastavac/goghen-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=74'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=72'
                 }
             ]
         },
@@ -580,20 +598,14 @@
                     title: 'Clelia F1',
                     description: 'Dobavljač: Esasem',
                     image: 'sjeme-povrca/plodno-povrce/patlidan/clelia-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=76'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=73'
                 },
                 {
                     title: 'Mirval F1',
                     description: 'Dobavljač: Vilmorin',
                     image: 'sjeme-povrca/plodno-povrce/patlidan/mirval-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=76'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=73'
                 },
-                {
-                    title: 'Nadia F1',
-                    description: 'Dobavljač: Vilmorin',
-                    image: 'sjeme-povrca/plodno-povrce/patlidan/nadia-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=76'
-                }
             ]
         },
         {
@@ -603,37 +615,19 @@
                     title: 'Kiara F1',
                     description: 'Dobavljač: Vilmorin',
                     image: 'sjeme-povrca/plodno-povrce/kukuruz-secerac/kiara-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=77'
-                },
-                {
-                    title: 'Kuatuor F1',
-                    description: 'Dobavljač: Vilmorin',
-                    image: 'sjeme-povrca/plodno-povrce/kukuruz-secerac/kuatuor-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=78'
-                },
-                {
-                    title: 'Rustler F1',
-                    description: 'Dobavljač: Vilmorin',
-                    image: 'sjeme-povrca/plodno-povrce/kukuruz-secerac/rustler-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=77'
-                },
-                {
-                    title: 'HMX9388S (Klondike F1)',
-                    description: 'Dobavljač: Vilmorin',
-                    image: 'sjeme-povrca/plodno-povrce/kukuruz-secerac/klondike-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=78'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=74'
                 },
                 {
                     title: 'Kinze F1',
                     description: 'Dobavljač: Vilmorin',
                     image: 'sjeme-povrca/plodno-povrce/kukuruz-secerac/kinze-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=77'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=74'
                 },
                 {
                     title: 'Turbo F1',
                     description: 'Dobavljač: Vilmorin',
                     image: 'sjeme-povrca/plodno-povrce/kukuruz-secerac/turbo-f1.jpg',
-                    link: 'katalozi/2023-sjeme-povrca.pdf#page=78'
+                    link: 'katalozi/sjeme-povrca-2025.pdf#page=74'
                 }
             ]
         }
