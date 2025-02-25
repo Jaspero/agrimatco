@@ -17,4 +17,5 @@
     <div>Copyright © {year} Agrimatco d.o.o.</div>
     <div>Sva prava pridržana.</div>
     <div>Made by <a href="https://jaspero.co/" target="_blank" rel="noopener">Jaspero</a>.</div>
+    <div><a href="/politika-privatnosti" rel="noopener">Politika privatnosti</a>.</div>
 </footer>
