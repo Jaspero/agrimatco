@@ -63,7 +63,7 @@
     Otkrit ćemo vaše osobne podatke samo u mjeri u kojoj je to strogo potrebno za postizanje željene svrhe. Poduzeli smo sve potrebne korake kako bismo osigurali da vanjski pružatelji usluga koji imaju pristup vašim podacima također budu dostupni, implementirali fizičke, elektroničke i upravljačke sigurnosne mjere za zaštitu podataka.
 </p>
 
-<h3>3.2 Ponuda personaliziranih uvjeta plaćanja na odgodu</h2>
+<h3>3.2 Ponuda personaliziranih uvjeta plaćanja na odgodu</h3>
 <p>U određenim slučajevima kada se primjenjuju relevantni kriteriji, Vama kao našem klijentu možemo ponuditi uvjete odgode plaćanja. Kako bismo izvršili potrebnu dubinsku analizu prije nego što vam ponudimo ovu opciju, od vas zahtijevamo određene osobne podatke koji podliježu financijskoj analizi.</p>
 <p>Ovi će se podaci pohranjivati samo tijekom trajanja ugovora/potraživanja, kao i tijekom primjenjivosti zakonskih razdoblja čuvanja prema ugovoru i financijskim pravnim obvezama. Imajte na umu da se razdoblje čuvanja može promijeniti u slučajevima zahtjeva za naplatu potraživanja, istrage prijevare, sporova ili drugih pravnih postupaka.</p>
 
@@ -105,7 +105,7 @@
 </p>
 
 
-<h3>3.3 Komercijalne i marketinške komunikacije</h2>
+<h3>3.3 Komercijalne i marketinške komunikacije</h3>
 <p>Možemo vam poslati ažurirane informacije o događajima, ponudama ili rasprodajama ako ste pristali na marketinške komunikacije ili ako ste već kupac i informacije bi vas mogle zanimati. Osobni podaci za marketinške komunikacije čuvat će se za cijelo vrijeme trajanja privole ili ugovornog odnosa te dodatno razdoblje nakon toga u skladu sa zakonskim odredbama.</p>
 
 
@@ -139,7 +139,7 @@
 </p>
 
 
-<h3>3.4 Pružanje dobara ili usluga vama</h2>
+<h3>3.4 Pružanje dobara ili usluga vama</h3>
 <p>Kada sklopimo ugovor ili vam pružimo proizvode ili usluge, zahtijevat ćemo određene osobne podatke kako bismo uspješno izvršili isporuku/transakcije kao i naplatu. Zadržat ćemo vaše osobne podatke u vezi s ovom uslugom u skladu sa zakonskim razdobljima čuvanja primjenjivim za ispunjavanje naših zakonskih obveza.</p>
 
 <div class="section">
