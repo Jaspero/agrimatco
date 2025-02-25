@@ -29,7 +29,7 @@
 
 <h2>3.Kako obrađujemo vaše osobne podatke?</h2>
 <p>Vaše osobne podatke koristimo samo u dolje navedene svrhe:</p>
-<h3>3.1 Odgovaranje na vaše zahtjeve i pitanja</h2>
+<h3>3.1 Odgovaranje na vaše zahtjeve i pitanja</h3>
 <p>Vaše osobne podatke možemo prikupiti kako bismo obradili zahtjeve i pitanja postavljena putem sredstava ili obrazaca za kontakt, e-pošte ili na neki drugi način. Registrirat ćemo vaše upite i kontaktirati vas s relevantnim odgovorima ili zatražiti dodatna pojašnjenja na vaše upite. Imajte na umu da u određenim slučajevima možemo tražiti dodatne informacije kako bismo ispravno identificirali vašu situaciju.</p>
 <p>Pohranit ćemo relevantne osobne podatke prikupljene o vama u tu svrhu za vrijeme trajanja komunikacije kao i za razdoblje od 3 godine nakon toga kako bismo mogli pružiti dokaz za odgovor na vaše zahtjeve za vrijeme koje se primjenjuje na opći rok zastare potraživanja.</p>
 
