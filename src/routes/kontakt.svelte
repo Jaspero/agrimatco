@@ -37,6 +37,13 @@
     }
 </script>
 
+<style>
+form label {
+    display: block;
+    margin-bottom: 10px; 
+}
+</style>
+
 <section class="section">
     <div class="container">
         <h1>Kontakt</h1>
