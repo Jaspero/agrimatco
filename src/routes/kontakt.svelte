@@ -96,6 +96,8 @@
 
             <label>
                 <input type="checkbox" required />
+                Potvrđujem da sam pročitao i razumio sadržaj
+                <a href="https://agrimatco.hr/politika-privatnosti" target="_blank">Pravila privatnosti</a>. 
                 Podaci koji se unose neće biti korišteni niti u jednu svrhu osim da se vidi tko je poslao poruku.
             </label>
 
