@@ -46,8 +46,8 @@
 
 <div class="section">
     <h3>Pravna osnova za obradu osobnih podataka</h3>
-    <p><strong>Umjetnost. 6(1)(f) Uredbe 679/2018 (GDPR)</strong> – Legitimni interes Agrimatca da odgovori na vaš zahtjev/pitanje.</p>
-    <p><strong>Umjetnost. 6(1)(b) Uredbe 679/2018 (GDPR)</strong> – Namjera sklapanja ugovora s nositeljem podataka kada upiti uključuju interes za sklapanje ugovora s Agrimatcom.</p>
+    <p><strong>Članak 6(1)(f) Uredbe 679/2018 (GDPR)</strong> – Legitimni interes Agrimatca da odgovori na vaš zahtjev/pitanje.</p>
+    <p><strong>Članak 6(1)(b) Uredbe 679/2018 (GDPR)</strong> – Namjera sklapanja ugovora s nositeljem podataka kada upiti uključuju interes za sklapanje ugovora s Agrimatcom.</p>
 </div>
 
 <div class="section">
@@ -86,8 +86,8 @@
 
 <div class="section">
     <h3>Pravna osnova za obradu osobnih podataka</h3>
-    <p><strong>Umjetnost. 6. stavak 1. točka (b) Uredbe 679/2018 (GDPR) – Namjera sklapanja ugovora s tvrtkom Agrimatco.</p>
-    <p><strong>Umjetnost. 6. stavak 1. točka (f) Uredbe 679/2018 (GDPR) – Legitimni interes Agrimatca za obavljanje dubinske analize i procjenu financijskog rizika pružanja mogućnosti uvjeta odgode plaćanja.</p>
+    <p><strong>Članak 6. stavak 1. točka (b) Uredbe 679/2018 (GDPR) – Namjera sklapanja ugovora s tvrtkom Agrimatco.</p>
+    <p><strong>Članak 6. stavak 1. točka (f) Uredbe 679/2018 (GDPR) – Legitimni interes Agrimatca za obavljanje dubinske analize i procjenu financijskog rizika pružanja mogućnosti uvjeta odgode plaćanja.</p>
 </div>
 
 <div class="section">
@@ -121,8 +121,8 @@
 
 <div class="section">
     <h3>Pravna osnova za obradu osobnih podataka</h3>
-    <p><strong>Umjetnost. 6. stavak 1. točka (a) Uredbe 679/2018 (GDPR) – Privola nositelja podataka za marketinške komunikacije.</p>
-    <p><strong>Umjetnost. 6(1)(f) Uredbe 679/2018 (GDPR) – Legitimni interes Agrimatca za obavljanje komercijalnih komunikacija s klijentima za proizvode koji su relevantni za prethodnu uslugu i/ili pružene proizvode.</p>
+    <p><strong>Članak 6. stavak 1. točka (a) Uredbe 679/2018 (GDPR) – Privola nositelja podataka za marketinške komunikacije.</p>
+    <p><strong>Članak 6(1)(f) Uredbe 679/2018 (GDPR) – Legitimni interes Agrimatca za obavljanje komercijalnih komunikacija s klijentima za proizvode koji su relevantni za prethodnu uslugu i/ili pružene proizvode.</p>
 </div>
 
 <div class="section">
@@ -157,7 +157,7 @@
 
 <div class="section">
     <h3>Pravna osnova za obradu osobnih podataka</h3>
-    <p><strong>Umjetnost. 6. stavak 1. točka (b) Uredbe 679/2018 (GDPR) – Izvršenje ugovora za sve obrade osobnih podataka potrebnih za pružanje ugovorenih usluga.</p>
+    <p><strong>Članak 6. stavak 1. točka (b) Uredbe 679/2018 (GDPR) – Izvršenje ugovora za sve obrade osobnih podataka potrebnih za pružanje ugovorenih usluga.</p>
 </div>
 
 <div class="section">
