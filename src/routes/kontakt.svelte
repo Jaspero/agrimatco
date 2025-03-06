@@ -10,6 +10,8 @@
     let email = '';
     let message = '';
     let loading = false;
+    let checkbox1 = false;
+    let checkbox2 = false;
 
     async function handleSubmit() {
         loading = true;
@@ -102,17 +104,17 @@ form label {
             </Field>
 
             <label>
-                <input type="checkbox" required />
+                <input type="checkbox" bind:checked={checkbox1} required />
                 Potvrđujem da sam pročitao i razumio sadržaj
                 <a href="https://agrimatco.hr/politika-privatnosti" target="_blank">Pravila privatnosti</a>. 
             </label>
 
             <label>
-                <input type="checkbox" required />
+                <input type="checkbox" bind:checked={checkbox2} required />
                 Podaci koji se unose neće biti korišteni niti u jednu svrhu osim da se vidi tko je poslao poruku.
             </label>
 
-            <Button type="submit" id="contact-page-send" bind:loading={loading} disabled={!name || !email || !message}>Pošalji</Button>
+            <Button type="submit" id="contact-page-send" bind:loading={loading} disabled={!name || !email || !message || !checkbox1 || !checkbox2}>Pošalji</Button>
         </form>
     </div>
 </section>
