@@ -102,7 +102,7 @@
           <li><a rel="prefetch" target="_blank" href="stl/stl-multi-n.pdf"><u>Multi N</u></a></li>
           <li><a rel="prefetch" target="_blank" href="stl/nemater-2024.pdf"><u>Nemater</u></a></li>
           <li><a rel="prefetch" target="_blank" href="stl/nexur-s-2024.PDF"><u>Nexur S</u></a></li>
-          <li><a rel="prefetch" target="_blank" href="stl/stl-nico-4-sc.pdf"><u>Nico 4 SC</u></a></li>
+          <li><a rel="prefetch" target="_blank" href="stl/stl-NICO-4-SC-novi.pdf"><u>Nico 4 SC</u></a></li>
           <li><a rel="prefetch" target="_blank" href="stl/novalon-10-10-40-2024.pdf"><u>Novalon 10-10-40+TE</u></a></li>
           <li><a rel="prefetch" target="_blank" href="stl/novalon-12-48-6-2024.pdf"><u>Novalon 12-48-06+TE</u></a></li>
           <li><a rel="prefetch" target="_blank" href="stl/novalon-15-5-35-2024.pdf"><u>Novalon 15-05-35</u></a></li>
