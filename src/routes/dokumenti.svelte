@@ -130,7 +130,7 @@
           <li><a rel="prefetch" target="_blank" href="stl/stl-souverain-do.pdf"><u>Souverain DO</u></a></li>
           <li><a rel="prefetch" target="_blank" href="stl/stl-staygreen.pdf"><u>Staygreen</u></a></li>
           <li><a rel="prefetch" target="_blank" href="stl/sticker-2024.pdf"><u>Sticker</u></a></li>
-          <li><a rel="prefetch" target="_blank" href="stl/stl-tebu-super-250-EW.pdf"><u>Tebu super 250 EW</u></a></li>
+          <li><a rel="prefetch" target="_blank" href="stl/stl-TEBU-SUPER-250-EW-novi.pdf"><u>Tebu super 250 EW</u></a></li>
           <li><a rel="prefetch" target="_blank" href="stl/stl-tercol-2024.pdf"><u>Tercol</u></a></li>
           <li><a rel="prefetch" target="_blank" href="stl/stl-trazex-1.pdf"><u>Trazex</u></a></li>
           <li><a rel="prefetch" target="_blank" href="stl/stl-tropicel-1.pdf"><u>Tropicel</u></a></li>
