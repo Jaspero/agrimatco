@@ -93,7 +93,7 @@
                     name: 'Boris Puđa, dipl. ing. agr.',
                     title: 'Stručni savjetnik za sjeme povrća, gnojiva, i sredstva za zaštitu bilja',
                     area: 'Zapadna Slavonija',
-                    phone: '+385 (0)99 161 6024',
+                    phone: '+385 (0)99 308 3580',
                     email: 'boris.pudja@agrimatco-eu.com'
                 },
                 {
