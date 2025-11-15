@@ -29,6 +29,13 @@
                     email: 'ana.cukalevski@agrimatco-eu.com',
                 },
                 {
+                    name: 'Dejana Subašić Trušček, dipl. oec.',
+                    title: 'Referentica u računovodstvu',
+                    area: '',
+                    phone: '+385 (0)99 341 9980',
+                    email: 'dejana.subasic@agrimatco-eu.com',
+                },
+                {
                     name: 'Ivana Ivanković, dipl. oec',
                     title: 'Uvoz i logistika',
                     area: '',
