@@ -28,8 +28,7 @@
       <figure class="col-6 col-s-12">
         <figcaption><b>Katalozi</b></figcaption>
         <ul>
-          <li><a rel="prefetch" target="_blank" href="katalozi/2023-gnojidba-prihrana-zastita.pdf">Gnojidba, prihrana, zaštita - 2023</a></li>
-          <li><a rel="prefetch" target="_blank" href="katalozi/prihrana-bilja-2024.pdf">Gnojidba, prihrana, zaštita - 2024</a></li>
+          <li><a rel="prefetch" target="_blank" href="katalozi/Gnojidba,prihrana,zaštita-2025.pdf">Gnojidba, prihrana, zaštita - 2025</a></li>
           <li><a rel="prefetch" target="_blank" href="katalozi/katalog-zastita-bilja-2025.pdf">Zaštita bilja - 2025</a></li>
           <li><a rel="prefetch" target="_blank" href="katalozi/sjeme-povrca-2026.pdf">Sjeme povrća - 2026</a></li>
         </ul>
@@ -104,7 +103,7 @@
           <li><a rel="prefetch" target="_blank" href="stl/stl-multi-n.pdf"><u>Multi N</u></a></li>
           <li><a rel="prefetch" target="_blank" href="stl/nemater-2024.pdf"><u>Nemater</u></a></li>
           <li><a rel="prefetch" target="_blank" href="stl/nexur-s-2024.PDF"><u>Nexur S</u></a></li>
-          <li><a rel="prefetch" target="_blank" href="stl/stl-nico-4-sc.pdf"><u>Nico 4 SC</u></a></li>
+          <li><a rel="prefetch" target="_blank" href="stl/stl-NICO-4-SC-novi.pdf"><u>Nico 4 SC</u></a></li>
           <li><a rel="prefetch" target="_blank" href="stl/novalon-10-10-40-2024.pdf"><u>Novalon 10-10-40+TE</u></a></li>
           <li><a rel="prefetch" target="_blank" href="stl/novalon-12-48-6-2024.pdf"><u>Novalon 12-48-06+TE</u></a></li>
           <li><a rel="prefetch" target="_blank" href="stl/novalon-15-5-35-2024.pdf"><u>Novalon 15-05-35</u></a></li>
@@ -132,7 +131,7 @@
           <li><a rel="prefetch" target="_blank" href="stl/stl-souverain-do.pdf"><u>Souverain DO</u></a></li>
           <li><a rel="prefetch" target="_blank" href="stl/stl-staygreen.pdf"><u>Staygreen</u></a></li>
           <li><a rel="prefetch" target="_blank" href="stl/sticker-2024.pdf"><u>Sticker</u></a></li>
-          <li><a rel="prefetch" target="_blank" href="stl/stl-tebu-super-250-EW.pdf"><u>Tebu super 250 EW</u></a></li>
+          <li><a rel="prefetch" target="_blank" href="stl/stl-TEBU-SUPER-250-EW-novi.pdf"><u>Tebu super 250 EW</u></a></li>
           <li><a rel="prefetch" target="_blank" href="stl/stl-tercol-2024.pdf"><u>Tercol</u></a></li>
           <li><a rel="prefetch" target="_blank" href="stl/stl-trazex-1.pdf"><u>Trazex</u></a></li>
           <li><a rel="prefetch" target="_blank" href="stl/stl-tropicel-1.pdf"><u>Tropicel</u></a></li>
