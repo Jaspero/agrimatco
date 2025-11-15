@@ -32,7 +32,7 @@ jobs:
           name: Building
           command: npm run build
       - save_cache:
-          key: v1-dist-{{ .Environment.CIRCLE_BRANCH }}-{{ .Environment.CIRCLE_SHA1 }}
+          key: v1-dist-{{ .Branch }}-{{ .Revision }}
           paths:
             - package.json
             - package-lock.json
@@ -46,14 +46,24 @@ jobs:
       - image: flauc/firebase
     working_directory: ~/project
     steps:
+      - checkout
       - restore_cache:
-          key: v1-dist-{{ .Environment.CIRCLE_BRANCH }}-{{ .Environment.CIRCLE_SHA1 }}
+          keys:
+            - v1-dist-{{ .Branch }}-{{ .Revision }}
+            - v1-dependencies-{{ checksum "package-lock.json" }}-{{ checksum "functions/package-lock.json" }}
+      - run:
+          name: Install dependencies if cache miss
+          command: |
+            if [ ! -d "node_modules" ]; then
+              yes | npm ci || true
+              yes | npm --prefix functions i || true
+            fi
       - run:
           name: Deploy Master to Firebase
           command: npm run deploy  -- -m $CIRCLE_SHA1 --token $FIREBASE_CI_TOKEN --project agrimatco-fb254
 workflows:
   version: 2
-  -deploy:
+  deploy:
     jobs:
       - build
       - deploy:
