@@ -59,8 +59,11 @@ jobs:
               yes | npm --prefix functions i || true
             fi
       - run:
+          name: Set Firebase Environment
+          command: npm run target-setup -- --token $FIREBASE_CI_TOKEN --project agrimatco-fb254
+      - run:
           name: Deploy Master to Firebase
-          command: npm run deploy  -- -m $CIRCLE_SHA1 --token $FIREBASE_CI_TOKEN --project agrimatco-fb254
+          command: firebase deploy --only hosting,functions:ssr --message "$CIRCLE_SHA1" --token $FIREBASE_CI_TOKEN --project agrimatco-fb254
 workflows:
   version: 2
   deploy:
