@@ -19,7 +19,7 @@ jobs:
           command: yes | npm ci || true
       - run:
           name: Install Function dependencies
-          command: yes | npm --prefix functions ci || true
+          command: yes | npm --prefix functions i || true
       - save_cache:
           key: v1-dependencies-{{ checksum "package-lock.json" }}-{{ checksum "functions/package-lock.json" }}
           paths:
