@@ -1,7 +1,10 @@
 <script>
-    export let segment;
+    import { page } from '$app/stores';
     export let menuFalse;
     export let menu;
+    
+    $: pathname = $page.url.pathname;
+    $: segment = pathname.split('/').filter(Boolean)[0];
 </script>
 
 <style>
@@ -56,13 +59,13 @@
 
 <nav class="navigation" class:active={menu}>
     <div class="navigation-container">
-        <a class="navigation-item" rel="prefetch" on:click={menuFalse} class:active={segment === undefined} href=".">Početna</a>
-        <a class="navigation-item" rel="prefetch" on:click={menuFalse} class:active={segment === 'proizvodi'} href="proizvodi">Proizvodi</a>
-        <a class="navigation-item" rel="prefetch" on:click={menuFalse} class:active={segment === 'strucni-savjeti'} href="strucni-savjeti">Stručni savjeti</a>
-        <a class="navigation-item" rel="prefetch" on:click={menuFalse} class:active={segment === 'o-nama'} href="o-nama">O nama</a>
-        <a class="navigation-item" rel="prefetch" on:click={menuFalse} class:active={segment === 'nas-tim'} href="nas-tim">Naš tim</a>
-        <a class="navigation-item" rel="prefetch" on:click={menuFalse} class:active={segment === 'dokumenti'} href="dokumenti">Dokumenti</a>
-        <a class="navigation-item" rel="prefetch" on:click={menuFalse} class:active={segment === 'kontakt'} href="kontakt">Kontakt</a>
-        <a class="navigation-item" rel="prefetch" on:click={menuFalse} class:active={segment === 'trazi'} href="trazi">Traži</a>
+        <a class="navigation-item" data-sveltekit-preload-data="hover" on:click={menuFalse} class:active={pathname === '/'} href="/">Početna</a>
+        <a class="navigation-item" data-sveltekit-preload-data="hover" on:click={menuFalse} class:active={segment === 'proizvodi'} href="/proizvodi">Proizvodi</a>
+        <a class="navigation-item" data-sveltekit-preload-data="hover" on:click={menuFalse} class:active={segment === 'strucni-savjeti'} href="/strucni-savjeti">Stručni savjeti</a>
+        <a class="navigation-item" data-sveltekit-preload-data="hover" on:click={menuFalse} class:active={segment === 'o-nama'} href="/o-nama">O nama</a>
+        <a class="navigation-item" data-sveltekit-preload-data="hover" on:click={menuFalse} class:active={segment === 'nas-tim'} href="/nas-tim">Naš tim</a>
+        <a class="navigation-item" data-sveltekit-preload-data="hover" on:click={menuFalse} class:active={segment === 'dokumenti'} href="/dokumenti">Dokumenti</a>
+        <a class="navigation-item" data-sveltekit-preload-data="hover" on:click={menuFalse} class:active={segment === 'kontakt'} href="/kontakt">Kontakt</a>
+        <a class="navigation-item" data-sveltekit-preload-data="hover" on:click={menuFalse} class:active={segment === 'trazi'} href="/trazi">Traži</a>
     </div>
 </nav>

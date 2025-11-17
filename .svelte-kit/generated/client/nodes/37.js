@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/proizvodi/specijalna-npk-gnojiva-u-pasti/+page.svelte";

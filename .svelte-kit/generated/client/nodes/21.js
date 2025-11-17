@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/proizvodi/ljepljive-ploce-i-role/ljepljiva-ploca-crna-25cm-x-40cm/+page.svelte";

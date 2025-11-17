@@ -2,6 +2,7 @@
   "name": "agrimatco",
   "description": "Agrimatco website",
   "license": "MIT",
+  "type": "module",
   "author": {
     "email": "info@jaspero.co",
     "name": "Jaspero Ltd"
@@ -9,45 +10,30 @@
   "version": "0.0.1",
   "scripts": {
     "target-setup": "firebase target:apply hosting website agrimatco-fb254",
-    "dev": "sapper dev",
-    "build": "npm run build:search && sapper build --legacy && cp -r ./__sapper__/ ./functions/__sapper__",
-    "prebuild": "rm -rf functions/__sapper__/build",
-    "export": "sapper export --legacy",
+    "dev": "vite dev",
+    "build": "npm run build:search && vite build && xcopy /E /I /Y build functions\\build",
+    "prebuild": "if exist functions\\build rmdir /S /Q functions\\build",
+    "preview": "vite preview",
     "start": "npm run build && firebase serve",
     "deploy": "firebase deploy --only hosting,functions:ssr",
     "cy:run": "cypress run",
     "cy:open": "cypress open",
     "test": "run-p --race dev cy:run",
-    "build:search": "node build-search-indexes.js && cp search.json static/search.json"
+    "build:search": "node build-search-indexes.js && (if exist static\\search.json (del static\\search.json) && copy search.json static\\search.json)"
   },
   "dependencies": {
-    "@glidejs/glide": "3.4.1",
-    "@sendgrid/mail": "6.5.2",
-    "body-parser": "1.19.0",
-    "compression": "1.7.4",
-    "firebase": "7.8.2",
-    "firebase-admin": "8.9.2",
-    "lunr": "2.3.8",
-    "polka": "0.5.2",
-    "sirv": "0.4.2"
+    "@glidejs/glide": "^3.7.0",
+    "@sendgrid/mail": "^8.1.0",
+    "@sveltejs/adapter-node": "^5.0.0",
+    "@sveltejs/kit": "^2.0.0",
+    "firebase": "^11.0.0",
+    "firebase-admin": "^13.0.0",
+    "lunr": "^2.3.9"
   },
   "devDependencies": {
-    "@babel/core": "7.0.0",
-    "@babel/plugin-proposal-object-rest-spread": "7.7.4",
-    "@babel/plugin-syntax-dynamic-import": "7.0.0",
-    "@babel/plugin-transform-runtime": "7.0.0",
-    "@babel/preset-env": "7.0.0",
-    "@babel/runtime": "7.0.0",
-    "npm-run-all": "4.1.5",
-    "rollup": "1.0.0",
-    "rollup-plugin-babel": "4.0.2",
-    "rollup-plugin-commonjs": "9.1.6",
-    "rollup-plugin-node-resolve": "4.0.0",
-    "rollup-plugin-replace": "2.0.0",
-    "rollup-plugin-svelte": "5.1.0",
-    "rollup-plugin-terser": "5.2.0",
-    "sapper": "0.27.9",
-    "siema": "1.5.1",
-    "svelte": "3.18.2"
+    "@sveltejs/vite-plugin-svelte": "^3.0.0",
+    "npm-run-all": "^4.1.5",
+    "svelte": "^5.0.0",
+    "vite": "^5.0.0"
   }
 }

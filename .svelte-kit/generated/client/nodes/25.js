@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/proizvodi/ljepljive-ploce-i-role/ljepljiva-ploca-zuta-25cm-x-40cm/+page.svelte";

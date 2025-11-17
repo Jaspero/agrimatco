@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/strucni-savjeti/presadnice-u-kontejnerima/+page.svelte";

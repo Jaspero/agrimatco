@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/strucni-savjeti/makro-i-mikro-elementi-u-obliku-koji-je-dostupan-biljkama/+page.svelte";

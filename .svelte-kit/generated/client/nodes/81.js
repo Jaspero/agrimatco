@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/strucni-savjeti/znacaj-folijarne-prihrane/+page.svelte";

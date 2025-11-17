@@ -1,7 +1,4 @@
 const functions = require('firebase-functions');
-const express = require('express');
-const { sapper } = require('./__sapper__/build/server/server');
+const { handler } = require('./build/handler.js');
 
-const app = express().use(sapper.middleware());
-
-exports.ssr = functions.https.onRequest(app);
+exports.ssr = functions.https.onRequest(handler);
