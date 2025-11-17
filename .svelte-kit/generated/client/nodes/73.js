@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/strucni-savjeti/simptomi-nedostatka-makro-i-mikro-elemenata-na-biljkama/+page.svelte";

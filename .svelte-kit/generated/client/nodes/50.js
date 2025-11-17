@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/strucni-savjeti/kemijski-sastav-gnojiva/+page.svelte";

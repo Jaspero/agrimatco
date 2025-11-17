@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/proizvodi/ljepljive-ploce-i-role/ljepljiva-ploca-plava-10cm-x-25cm/+page.svelte";

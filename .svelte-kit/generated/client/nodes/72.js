@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/strucni-savjeti/simptomi-deficita-elemenata-biljne-ishrane-na-liscu/+page.svelte";

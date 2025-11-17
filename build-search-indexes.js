@@ -1,5 +1,5 @@
-const lunr = require('lunr');
-const {readFileSync, writeFileSync} = require('fs');
+import lunr from 'lunr';
+import {readFileSync, writeFileSync} from 'fs';
 
 const documents = JSON.parse(readFileSync('search.json').toString());
 

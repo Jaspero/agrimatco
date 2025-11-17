@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/strucni-savjeti/osnovna-podjela-biljnih-hranjiva/+page.svelte";
