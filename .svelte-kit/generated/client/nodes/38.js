@@ -1,1 +1,0 @@
-export { default as component } from "../../../../src/routes/proizvodi/stimulatori-porasta-i-poboljsivaci-tla/+page.svelte";

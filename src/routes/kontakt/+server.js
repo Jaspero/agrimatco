@@ -1,6 +1,6 @@
 import * as sgMail from '@sendgrid/mail';
 import { json } from '@sveltejs/kit';
-import {ENV_CONFIG} from '../../../env-config.js';
+import { ENV_CONFIG } from '../../../env-config.js';
 
 export async function POST({ request }) {
   try {
@@ -16,7 +16,7 @@ export async function POST({ request }) {
         <p>Ime: ${body.name}</p>
         <p>Email: ${body.email}</p>
         <p>Poruka: ${body.message}</p>
-      `,
+      `
     });
     return json({ success: true });
   } catch (err) {
