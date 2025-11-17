@@ -1,1 +1,0 @@
-export { default as component } from "../../../../src/routes/proizvodi/ljepljive-ploce-i-role/ljepljiva-rola-crna-30cm-x-100m/+page.svelte";
