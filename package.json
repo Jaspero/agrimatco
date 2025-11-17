@@ -18,17 +18,15 @@
   },
   "dependencies": {
     "@glidejs/glide": "3.7.1",
-    "@sendgrid/mail": "8.1.6",
     "@sveltejs/adapter-node": "5.4.0",
     "@sveltejs/kit": "2.48.5",
-    "firebase": "12.6.0",
-    "firebase-admin": "13.6.0",
-    "lunr": "2.3.9"
+    "lunr": "2.3.9",
+    "resend": "^6.4.2"
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "6.2.1",
-    "prettier": "^3.6.2",
-    "prettier-plugin-svelte": "^3.4.0",
+    "prettier": "3.6.2",
+    "prettier-plugin-svelte": "3.4.0",
     "svelte": "5.43.8",
     "vite": "7.2.2"
   }
