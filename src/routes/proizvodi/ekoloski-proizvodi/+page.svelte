@@ -3,7 +3,7 @@
 </svelte:head>
 
 <script>
-    import ProductCard from '../../components/ProductCard.svelte';
+    import ProductCard from '../../../components/ProductCard.svelte';
 
     let groups = [
         {
