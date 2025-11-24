@@ -6,7 +6,7 @@
     .savjeti {
         text-align: center;
         padding: var(--space-large) var(--space-medium);
-        background-image: url('../home-savjeti/savjeti.png');
+        background-image: url('../../home-savjeti/savjeti.png');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
