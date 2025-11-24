@@ -1,0 +1,31 @@
+# Dependencies
+node_modules
+
+# Build outputs
+build
+.svelte-kit
+dist
+
+# Cache
+.vite
+
+# Package files
+package-lock.json
+
+# Search index
+search.json
+
+# Static assets (images, fonts, etc.)
+static/fonts
+static/home-partneri
+static/home-proizvodi
+static/home-savjeti
+static/home-slider
+static/katalozi
+static/kontakt
+static/letci
+static/nas-tim
+static/o-nama
+static/proizvodi
+static/stl
+static/strucni-savjeti
