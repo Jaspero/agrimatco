@@ -1,0 +1,1796 @@
+[
+  {
+    "id": "pocetna",
+    "label": "Početna",
+    "keywords": "pocetna home",
+    "link": "."
+  },
+  {
+    "id": "proizvodi",
+    "label": "Proizvodi",
+    "keywords": "proizvodi gnojiva sredstva za zastitu bilja sjeme povrca ostalo",
+    "link": "/proizvodi"
+  },
+  {
+    "id": "vodotopiva-npk-gnojiva",
+    "label": "Vodotopiva NPK gnojiva",
+    "keywords": "vodotopiva npk gnojiva",
+    "link": "/proizvodi/vodotopiva-npk-gnojiva"
+  },
+  {
+    "id": "solupotasse",
+    "label": "SoluPotasse",
+    "keywords": "solupotasse",
+    "link": "/katalozi/2020-prihrana.pdf#page=11"
+  },
+  {
+    "id": "amco-potato",
+    "label": "Amco Potato",
+    "keywords": "amco potato",
+    "link": "/katalozi/2020-prihrana.pdf#page=15"
+  },
+  {
+    "id": "novalon",
+    "label": "Novalon",
+    "keywords": "novalon",
+    "link": "/katalozi/2020-prihrana.pdf#page=16"
+  },
+  {
+    "id": "yaraliva-calcinit",
+    "label": "YaraLiva Calcinit",
+    "keywords": "yaraliva calcinit",
+    "link": "/katalozi/2020-prihrana.pdf#page=20"
+  },
+  {
+    "id": "amcolon",
+    "label": "Amcolon",
+    "keywords": "amcolon",
+    "link": "/proizvodi/amcolon"
+  },
+  {
+    "id": "specijalna-npk-gnojiva-u-pasti",
+    "label": "Specijalna NPK gnojiva u pasti",
+    "keywords": "specijalna npk gnojiva u pasti",
+    "link": "/proizvodi/specijalna-npk-gnojiva-u-pasti"
+  },
+  {
+    "id": "amcopaste",
+    "label": "Amcopaste",
+    "keywords": "amcopaste",
+    "link": "katalozi/2020-prihrana.pdf#page=13"
+  },
+  {
+    "id": "suha-topiva-gnojiva",
+    "label": "Suha topiva gnojiva",
+    "keywords": "suha topiva gnojiva",
+    "link": "/proizvodi/suha-topiva-gnojiva"
+  },
+  {
+    "id": "agro-k",
+    "label": "Agro-K",
+    "keywords": "agro-k",
+    "link": "/katalozi/2020-prihrana.pdf#page=18"
+  },
+  {
+    "id": "rootex",
+    "label": "Rootex",
+    "keywords": "rootex",
+    "link": "/katalozi/2020-prihrana.pdf#page=22"
+  },
+  {
+    "id": "oligomix",
+    "label": "Oligomix",
+    "keywords": "oligomix",
+    "link": "/katalozi/2020-prihrana.pdf#page=29"
+  },
+  {
+    "id": "trazex",
+    "label": "Trazex",
+    "keywords": "trazex",
+    "link": "/katalozi/2020-prihrana.pdf#page=29"
+  },
+  {
+    "id": "tropicel",
+    "label": "Tropicel",
+    "keywords": "tropicel",
+    "link": "/katalozi/2020-prihrana.pdf#page=30"
+  },
+  {
+    "id": "kelatex-b",
+    "label": "Kelatex B",
+    "keywords": "kelatex b",
+    "link": "/katalozi/2020-prihrana.pdf#page=31"
+  },
+  {
+    "id": "kelatex-zn",
+    "label": "Kelatex Zn",
+    "keywords": "kelatex zn",
+    "link": "/katalozi/2020-prihrana.pdf#page=32"
+  },
+  {
+    "id": "kelatex-fe",
+    "label": "Kelatex Fe",
+    "keywords": "kelatex fe",
+    "link": "/katalozi/2020-prihrana.pdf#page=33"
+  },
+  {
+    "id": "panon-starter-perfect-pro",
+    "label": "Panon Starter Perfect Pro",
+    "keywords": "panon starter perfect pro",
+    "link": "/katalozi/2020-prihrana.pdf#page=41"
+  },
+  {
+    "id": "granulirana-gnojiva",
+    "label": "Granulirana gnojiva",
+    "keywords": "granulirana gnojiva",
+    "link": "/proizvodi/granulirana-gnojiva"
+  },
+  {
+    "id": "granupotasse",
+    "label": "GranuPotasse",
+    "keywords": "granupotasse",
+    "link": "/katalozi/2020-prihrana.pdf#page=10"
+  },
+  {
+    "id": "alba-grow",
+    "label": "Alba Grow",
+    "keywords": "alba grow",
+    "link": "/katalozi/2020-prihrana.pdf#page=11"
+  },
+  {
+    "id": "tekuca-gnojiva",
+    "label": "Tekuća gnojiva",
+    "keywords": "tekuca gnojiva",
+    "link": "/proizvodi/tekuca-gnojiva"
+  },
+  {
+    "id": "multi-n",
+    "label": "Multi N",
+    "keywords": "multi n",
+    "link": "/katalozi/2020-prihrana.pdf#page=14"
+  },
+  {
+    "id": "promet-ca",
+    "label": "Promet Ca",
+    "keywords": "promet ca",
+    "link": "/katalozi/2020-prihrana.pdf#page=27"
+  },
+  {
+    "id": "promet-zn",
+    "label": "Promet Zn",
+    "keywords": "promet zn",
+    "link": "/katalozi/2020-prihrana.pdf#page=27"
+  },
+  {
+    "id": "yaravita1",
+    "label": "YaraVita 1. grupa",
+    "keywords": "yaravita 1. grupa",
+    "link": "/katalozi/2020-prihrana.pdf#page=34"
+  },
+  {
+    "id": "yaravita2",
+    "label": "YaraVita 2. grupa",
+    "keywords": "yaravita 2. grupa",
+    "link": "/katalozi/2020-prihrana.pdf#page=35"
+  },
+  {
+    "id": "agrofol-650",
+    "label": "Agrofol 650",
+    "keywords": "agrofol 650",
+    "link": "/katalozi/2020-prihrana.pdf#page=36"
+  },
+  {
+    "id": "agrofol-390",
+    "label": "Agrofol 390",
+    "keywords": "agrofol 390",
+    "link": "/katalozi/2020-prihrana.pdf#page=37"
+  },
+  {
+    "id": "agrofol-550K",
+    "label": "Agrofol 550K",
+    "keywords": "agrofol 550k",
+    "link": "/katalozi/2020-prihrana.pdf#page=38"
+  },
+  {
+    "id": "kalex-zn",
+    "label": "Kalex Zn",
+    "keywords": "kalex zn",
+    "link": "/katalozi/2023-gnojidba-prihrana-zastita.pdf#page=38"
+  },
+  {
+    "id": "kalex-cu",
+    "label": "Kalex Cu",
+    "keywords": "kalex cu",
+    "link": "/katalozi/2020-prihrana.pdf#page=39"
+  },
+  {
+    "id": "kalex",
+    "label": "Kalex",
+    "keywords": "kalex",
+    "link": "/katalozi/2020-prihrana.pdf#page=39"
+  },
+  {
+    "id": "calcibor",
+    "label": "Calcibor",
+    "keywords": "calcibor",
+    "link": "/katalozi/2020-prihrana.pdf#page=40"
+  },
+  {
+    "id": "boramide",
+    "label": "Boramide",
+    "keywords": "boramide",
+    "link": "/katalozi/2020-prihrana.pdf#page=40"
+  },
+  {
+    "id": "ph-master",
+    "label": "pH master",
+    "keywords": "ph master",
+    "link": "/katalozi/2020-prihrana.pdf#page=61"
+  },
+  {
+    "id": "stimulatori-porasta-i-poboljsivaci-tla",
+    "label": "Stimulatori porasta i poboljšivači tla",
+    "keywords": "stimulatori porasta i poboljsivaci tla",
+    "link": "/proizvodi/stimulatori-porasta-i-poboljsivaci-tla"
+  },
+  {
+    "id": "bioplex",
+    "label": "Bioplex",
+    "keywords": "bioplex",
+    "link": "/katalozi/2020-prihrana.pdf#page=21"
+  },
+  {
+    "id": "calcium-mainstay",
+    "label": "Calcium Mainstay",
+    "keywords": "calcium mainstay",
+    "link": "/katalozi/2020-prihrana.pdf#page=23"
+  },
+  {
+    "id": "vigorizer",
+    "label": "Vigorizer",
+    "keywords": "vigorizer",
+    "link": "/katalozi/2020-prihrana.pdf#page=24"
+  },
+  {
+    "id": "kelatex-ca-b",
+    "label": "Kelatex Ca+B",
+    "keywords": "kelatex ca b ca+b",
+    "link": "/katalozi/2020-prihrana.pdf#page=25"
+  },
+  {
+    "id": "aminoton",
+    "label": "Aminoton",
+    "keywords": "aminoton",
+    "link": "/katalozi/2020-prihrana.pdf#page=26"
+  },
+  {
+    "id": "bioriviter",
+    "label": "Bioriviter",
+    "keywords": "bioriviter",
+    "link": "/katalozi/2020-prihrana.pdf#page=26"
+  },
+  {
+    "id": "staygreen",
+    "label": "Staygreen",
+    "keywords": "staygreen",
+    "link": "/katalozi/2020-prihrana.pdf#page=28"
+  },
+  {
+    "id": "trifender-pro",
+    "label": "Trifender Pro",
+    "keywords": "trifender pro",
+    "link": "/katalozi/2020-prihrana.pdf#page=41"
+  },
+  {
+    "id": "ekotron",
+    "label": "Ekotron",
+    "keywords": "ekotron",
+    "link": "/katalozi/2020-prihrana.pdf#page=42"
+  },
+  {
+    "id": "h-85",
+    "label": "H-85",
+    "keywords": "h 85 h85",
+    "link": "/katalozi/2020-prihrana.pdf#page=43"
+  },
+  {
+    "id": "bioprotektor",
+    "label": "Bioprotektor",
+    "keywords": "bioprotektor",
+    "link": "/proizvodi/bioprotektor"
+  },
+  {
+    "id": "barrier",
+    "label": "Barrier",
+    "keywords": "barrier",
+    "link": "/katalozi/2020-prihrana.pdf#page=19"
+  },
+  {
+    "id": "cvjetno-povrce",
+    "label": "Cvjetno povrće",
+    "keywords": "cvjetno povrce brokula cvjetaca",
+    "link": "proizvodi/cvjetno-povrce"
+  },
+  {
+    "id": "green-magic-f1",
+    "label": "Green Magic F1",
+    "keywords": "green magic",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=30"
+  },
+  {
+    "id": "eos-f1",
+    "label": "Eos F1",
+    "keywords": "eos",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=30"
+  },
+  {
+    "id": "naxos-f1",
+    "label": "Naxos F1",
+    "keywords": "naxos",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=30"
+  },
+  {
+    "id": "parthenon-f1",
+    "label": "Parthenon F1",
+    "keywords": "parthenon",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=31"
+  },
+  {
+    "id": "triton-f1",
+    "label": "Triton F1",
+    "keywords": "triton",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=31"
+  },
+  {
+    "id": "thassos-f1",
+    "label": "Thassos F1",
+    "keywords": "thassos",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=31"
+  },
+  {
+    "id": "marathon-f1",
+    "label": "Marathon F1",
+    "keywords": "marathon",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=31"
+  },
+  {
+    "id": "alston-f1",
+    "label": "Alston F1",
+    "keywords": "alston",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=32"
+  },
+  {
+    "id": "cashmere-f1",
+    "label": "Cashmere F1",
+    "keywords": "cashmere",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=32"
+  },
+  {
+    "id": "white-step-f1",
+    "label": "White step F1",
+    "keywords": "white step",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=32"
+  },
+  {
+    "id": "concept-f1",
+    "label": "Concept F1",
+    "keywords": "concept",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=32"
+  },
+  {
+    "id": "merton-f1",
+    "label": "Merton F1",
+    "keywords": "merton",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=33"
+  },
+  {
+    "id": "kastor-f1",
+    "label": "Kastor F1",
+    "keywords": "kastor",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=33"
+  },
+  {
+    "id": "whiton-f1",
+    "label": "Whiton F1",
+    "keywords": "whiton",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=33"
+  },
+  {
+    "id": "incline-f1",
+    "label": "Incline F1",
+    "keywords": "incline",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=34"
+  },
+  {
+    "id": "trofeo-f1",
+    "label": "Trofeo F1",
+    "keywords": "trofeo",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=34"
+  },
+  {
+    "id": "amandine-f1",
+    "label": "Amandine F1",
+    "keywords": "amandine",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=34"
+  },
+  {
+    "id": "korjenasto-povrce",
+    "label": "Korjenasto povrće",
+    "keywords": "korjenasto povrce rotkvica korabica crna rotkva mrkva persin celer pastrnjak cikla",
+    "link": "proizvodi/korjenasto-povrce"
+  },
+  {
+    "id": "crunchy-king-f1",
+    "label": "Crunchy King F1",
+    "keywords": "crunchy king",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=35"
+  },
+  {
+    "id": "crunchy-royale-f1",
+    "label": "Crunchy Royale F1",
+    "keywords": "crunchy royale",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=35"
+  },
+  {
+    "id": "cheriette-f1",
+    "label": "Cheriette F1",
+    "keywords": "cheriette",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=35"
+  },
+  {
+    "id": "tinto-f1",
+    "label": "Tinto F1",
+    "keywords": "tinto",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=35"
+  },
+  {
+    "id": "quick-star-f1",
+    "label": "Quick Star F1",
+    "keywords": "quick star",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=35"
+  },
+  {
+    "id": "panter",
+    "label": "Panter",
+    "keywords": "panter",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=35"
+  },
+  {
+    "id": "presto-f1",
+    "label": "Presto F1",
+    "keywords": "presto",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=38"
+  },
+  {
+    "id": "subito-f1",
+    "label": "Subito F1",
+    "keywords": "subito",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=38"
+  },
+  {
+    "id": "exelco-f1",
+    "label": "Exelco F1",
+    "keywords": "exelco",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=38"
+  },
+  {
+    "id": "musico-f1",
+    "label": "Musico F1",
+    "keywords": "musico",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=38"
+  },
+  {
+    "id": "octavo-f1",
+    "label": "Octavo F1",
+    "keywords": "octavo",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=39"
+  },
+  {
+    "id": "soprano-f1",
+    "label": "Soprano F1",
+    "keywords": "soprano",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=39"
+  },
+  {
+    "id": "bolero-f1",
+    "label": "Bolero F1",
+    "keywords": "bolero",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=39"
+  },
+  {
+    "id": "maestro-f1",
+    "label": "Maestro F1",
+    "keywords": "maestro",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=39"
+  },
+  {
+    "id": "gold-nugget-f1",
+    "label": "Gold Nugget F1",
+    "keywords": "gold nugget",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=41"
+  },
+  {
+    "id": "taborska-zluta",
+    "label": "Taborska zluta",
+    "keywords": "taborska zluta",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=41"
+  },
+  {
+    "id": "atika",
+    "label": "Atika",
+    "keywords": "atika",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=40"
+  },
+  {
+    "id": "orbis",
+    "label": "Orbis",
+    "keywords": "orbis",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=40"
+  },
+  {
+    "id": "jadran",
+    "label": "Jadran",
+    "keywords": "jadran",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=40"
+  },
+  {
+    "id": "efez",
+    "label": "Efez",
+    "keywords": "efez",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=40"
+  },
+  {
+    "id": "neon",
+    "label": "Neon",
+    "keywords": "neon",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=41"
+  },
+  {
+    "id": "bielas",
+    "label": "Bielas",
+    "keywords": "bielas",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=41"
+  },
+  {
+    "id": "kestrel-f1",
+    "label": "Kestrel F1",
+    "keywords": "kestrel",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=45"
+  },
+  {
+    "id": "cardeal-f1",
+    "label": "Cardeal F1",
+    "keywords": "cardeal",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=45"
+  },
+  {
+    "id": "rodina-f1",
+    "label": "Rodina F1",
+    "keywords": "rodina",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=45"
+  },
+  {
+    "id": "lisnato-povrce",
+    "label": "Lisnato povrće",
+    "keywords": "lisnato povrce salata radic spinat bijeli crveni kineski kupus kelj",
+    "link": "proizvodi/lisnato-povrce"
+  },
+  {
+    "id": "fripone",
+    "label": "Fripone",
+    "keywords": "fripone",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=15"
+  },
+  {
+    "id": "arletti",
+    "label": "Arletti",
+    "keywords": "arletti",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=15"
+  },
+  {
+    "id": "quefir",
+    "label": "Quefir",
+    "keywords": "quefir",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=15"
+  },
+  {
+    "id": "alcaline",
+    "label": "Alcaline",
+    "keywords": "alcaline",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=15"
+  },
+  {
+    "id": "mignone",
+    "label": "Mignone",
+    "keywords": "mignone",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=16"
+  },
+  {
+    "id": "skeltone",
+    "label": "Skeltone",
+    "keywords": "skeltone",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=16"
+  },
+  {
+    "id": "epsilone",
+    "label": "Epsilone",
+    "keywords": "epsilone",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=16"
+  },
+  {
+    "id": "abbice",
+    "label": "Abbice",
+    "keywords": "abbice",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=17"
+  },
+  {
+    "id": "garone",
+    "label": "Garone",
+    "keywords": "garone",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=17"
+  },
+  {
+    "id": "maradone",
+    "label": "Maradone",
+    "keywords": "maradone",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=17"
+  },
+  {
+    "id": "minestrone",
+    "label": "Minestrone",
+    "keywords": "minestrone",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=17"
+  },
+  {
+    "id": "quelio",
+    "label": "Quelio",
+    "keywords": "quelio",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=18"
+  },
+  {
+    "id": "flambine",
+    "label": "Flambine",
+    "keywords": "flambine",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=18"
+  },
+  {
+    "id": "bacchus",
+    "label": "Bacchus",
+    "keywords": "bacchus",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=18"
+  },
+  {
+    "id": "amalizia",
+    "label": "Amalizia",
+    "keywords": "amalizia",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=18"
+  },
+  {
+    "id": "dragone",
+    "label": "Dragone",
+    "keywords": "dragone",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=19"
+  },
+  {
+    "id": "exquise",
+    "label": "Exquise",
+    "keywords": "exquise",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=19"
+  },
+  {
+    "id": "lirice",
+    "label": "Lirice",
+    "keywords": "lirice",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=19"
+  },
+  {
+    "id": "zeralda",
+    "label": "Zeralda",
+    "keywords": "zeralda",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=19"
+  },
+  {
+    "id": "tonale",
+    "label": "Tonale",
+    "keywords": "tonale",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=20"
+  },
+  {
+    "id": "jukebox",
+    "label": "Jukebox",
+    "keywords": "jukebox",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=20"
+  },
+  {
+    "id": "bancabella",
+    "label": "Bancabella",
+    "keywords": "bancabella",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=20"
+  },
+  {
+    "id": "menthole",
+    "label": "Menthole",
+    "keywords": "menthole",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=20"
+  },
+  {
+    "id": "pursuit",
+    "label": "Pursuit",
+    "keywords": "pursuit",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=21"
+  },
+  {
+    "id": "glassica",
+    "label": "Glassica",
+    "keywords": "glassica",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=21"
+  },
+  {
+    "id": "kokyta-endivija",
+    "label": "Kokyta - Endivija",
+    "keywords": "kokyta endivija",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=21"
+  },
+  {
+    "id": "raris-endivija",
+    "label": "Raris - Endivija",
+    "keywords": "raris endivija",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=21"
+  },
+  {
+    "id": "palla-rossa-5-preda",
+    "label": "Palla Rossa 5 - Preda",
+    "keywords": "palla rossa 5 preda",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=22"
+  },
+  {
+    "id": "palla-rossa-6-meda",
+    "label": "Palla Rossa 6 - Meda",
+    "keywords": "palla rossa 6 meda",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=22"
+  },
+  {
+    "id": "rossa-di-verona-precoce-toga",
+    "label": "Rossa di Verona Precoce - Toga",
+    "keywords": "rossa di verona precoce toga",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=22"
+  },
+  {
+    "id": "rossa-di-treviso-precoce-trevor",
+    "label": "Rossa di Treviso Precoce - Trevor",
+    "keywords": "rossa di treviso precoce trevor",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=22"
+  },
+  {
+    "id": "apollo-f1",
+    "label": "Apollo F1",
+    "keywords": "apollo",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=23"
+  },
+  {
+    "id": "clipper-f1",
+    "label": "Clipper F1",
+    "keywords": "clipper",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=23"
+  },
+  {
+    "id": "elisa-f1",
+    "label": "Elisa F1",
+    "keywords": "elisa",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=26"
+  },
+  {
+    "id": "delight-ball-f1",
+    "label": "Delight Ball F1",
+    "keywords": "delight ball",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=26"
+  },
+  {
+    "id": "nozomi-f1",
+    "label": "Nozomi F1",
+    "keywords": "nozomi",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=26"
+  },
+  {
+    "id": "supreme-vantage-f1",
+    "label": "Supreme Vantage F1",
+    "keywords": "supreme vantage",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=27"
+  },
+  {
+    "id": "hyppo-f1",
+    "label": "Hyppo F1",
+    "keywords": "hyppo",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=27"
+  },
+  {
+    "id": "monroo-f1",
+    "label": "Monroo F1",
+    "keywords": "monroo",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=27"
+  },
+  {
+    "id": "coronet-f1",
+    "label": "Coronet F1",
+    "keywords": "coronet",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=28"
+  },
+  {
+    "id": "saturn-f1",
+    "label": "Saturn F1",
+    "keywords": "saturn",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=28"
+  },
+  {
+    "id": "marloo-f1",
+    "label": "Marloo F1",
+    "keywords": "marloo",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=28"
+  },
+  {
+    "id": "red-jewel-f1",
+    "label": "Red Jewel F1",
+    "keywords": "red jewel",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=28"
+  },
+  {
+    "id": "kiseki-f1",
+    "label": "Kiseki F1",
+    "keywords": "kiseki",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=29"
+  },
+  {
+    "id": "estoril-f1",
+    "label": "Estoril F1",
+    "keywords": "estoril",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=29"
+  },
+  {
+    "id": "savostar-f1",
+    "label": "Savostar F1",
+    "keywords": "savostar",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=29"
+  },
+  {
+    "id": "lukovicasto-povrce",
+    "label": "Lukovičasto povrće",
+    "keywords": "lukovicasto povrce luk mladi poriluk",
+    "link": "proizvodi/lukovicasto-povrce"
+  },
+  {
+    "id": "lorenzos-f1",
+    "label": "Lorenzos F1",
+    "keywords": "lorenzos",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=42"
+  },
+  {
+    "id": "khroma-f1",
+    "label": "Khroma F1",
+    "keywords": "khroma",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=42"
+  },
+  {
+    "id": "aurora-f1",
+    "label": "Aurora F1",
+    "keywords": "aurora",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=42"
+  },
+  {
+    "id": "supernova-f1",
+    "label": "Supernova F1",
+    "keywords": "supernova",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=42"
+  },
+  {
+    "id": "derek-f1",
+    "label": "Derek F1",
+    "keywords": "derek",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=43"
+  },
+  {
+    "id": "focus-f1",
+    "label": "Focus F1",
+    "keywords": "focus",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=43"
+  },
+  {
+    "id": "extra-early-gold-f1",
+    "label": "Extra Early Gold F1",
+    "keywords": "extra early gold",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=43"
+  },
+  {
+    "id": "totem",
+    "label": "Totem",
+    "keywords": "totem",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=43"
+  },
+  {
+    "id": "yoda-f1",
+    "label": "Yoda F1",
+    "keywords": "yoda",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=43"
+  },
+  {
+    "id": "lancaster-f1",
+    "label": "Lancaster F1",
+    "keywords": "lancaster",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=44"
+  },
+  {
+    "id": "warwick-f1",
+    "label": "Warwick F1",
+    "keywords": "warwick",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=44"
+  },
+  {
+    "id": "mahunarke",
+    "label": "Mahunarke",
+    "keywords": "mahunarke mahune",
+    "link": "proizvodi/mahunarke-povrce"
+  },
+  {
+    "id": "primel",
+    "label": "Primel",
+    "keywords": "primel",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=56"
+  },
+  {
+    "id": "sundance",
+    "label": "Sundance",
+    "keywords": "sundance",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=56"
+  },
+  {
+    "id": "plodno-povrce",
+    "label": "Plodno povrće",
+    "keywords": "plodno povrce lubenica podloga za cijepljenje dinja tikva tikvica rajcica paprika krastavac patlidan kukuruz secerac",
+    "link": "proizvodi/plodno-povrce"
+  },
+  {
+    "id": "topmara-f1",
+    "label": "TopMara F1",
+    "keywords": "topmara",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=46"
+  },
+  {
+    "id": "early-samantha-f1",
+    "label": "Early Samantha F1",
+    "keywords": "early samantha",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=46"
+  },
+  {
+    "id": "early-crimara-f1",
+    "label": "Early Crimara F1",
+    "keywords": "early crimara",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=46"
+  },
+  {
+    "id": "karnakata-f1",
+    "label": "Karnakata F1",
+    "keywords": "karnakata",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=47"
+  },
+  {
+    "id": "samantha-f1",
+    "label": "Samantha F1",
+    "keywords": "samantha",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=47"
+  },
+  {
+    "id": "marbella-f1",
+    "label": "Marbella F1",
+    "keywords": "marbella",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=47"
+  },
+  {
+    "id": "prismatica-f1",
+    "label": "Prismatica F1",
+    "keywords": "prismatica",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=48"
+  },
+  {
+    "id": "crimstar-f1",
+    "label": "Crimstar F1",
+    "keywords": "crimstar",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=48"
+  },
+  {
+    "id": "odyssey-f1",
+    "label": "Odyssey F1",
+    "keywords": "odyssey",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=48"
+  },
+  {
+    "id": "lusia-f1",
+    "label": "Lusia F1",
+    "keywords": "lusia",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=49"
+  },
+  {
+    "id": "romeria-f1",
+    "label": "Romeria F1",
+    "keywords": "romeria",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=49"
+  },
+  {
+    "id": "obla-f1",
+    "label": "Obla F1",
+    "keywords": "obla",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=49"
+  },
+  {
+    "id": "routpower",
+    "label": "Routpower",
+    "keywords": "routpower",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=50"
+  },
+  {
+    "id": "terriero-f1",
+    "label": "Terriero F1",
+    "keywords": "terriero",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=50"
+  },
+  {
+    "id": "chianti-f1",
+    "label": "Chianti F1",
+    "keywords": "chianti",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=50"
+  },
+  {
+    "id": "jannet-f1",
+    "label": "Jannet F1",
+    "keywords": "jannet",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=51"
+  },
+  {
+    "id": "portento-f1",
+    "label": "Portento F1",
+    "keywords": "portento",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=51"
+  },
+  {
+    "id": "el-rey-f1",
+    "label": "El Rey F1",
+    "keywords": "el rey",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=51"
+  },
+  {
+    "id": "ariel-f1",
+    "label": "Ariel F1",
+    "keywords": "ariel",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=54"
+  },
+  {
+    "id": "pluto",
+    "label": "Pluto",
+    "keywords": "pluto",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=54"
+  },
+  {
+    "id": "veenas-f1",
+    "label": "Veenas F1",
+    "keywords": "veenas",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=54"
+  },
+  {
+    "id": "yellowboys-f1",
+    "label": "Yellowboys F1",
+    "keywords": "yellowboys",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=54"
+  },
+  {
+    "id": "yellowgirls-f1",
+    "label": "Yellowgirls F1",
+    "keywords": "yellowgirls",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=55"
+  },
+  {
+    "id": "hokkaido-orange",
+    "label": "Hokkaido Orange",
+    "keywords": "hokkaido orange",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=55"
+  },
+  {
+    "id": "delica-f1",
+    "label": "Delica F1",
+    "keywords": "delica",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=55"
+  },
+  {
+    "id": "crown-prince-f1",
+    "label": "Crown Prince F1",
+    "keywords": "crown prince",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=55"
+  },
+  {
+    "id": "pontino-f1",
+    "label": "Pontino F1",
+    "keywords": "pontino",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=56"
+  },
+  {
+    "id": "tendor-f1",
+    "label": "Tendor F1",
+    "keywords": "tendor",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=56"
+  },
+  {
+    "id": "black-star-f1",
+    "label": "Black Star F1",
+    "keywords": "black star",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=56"
+  },
+  {
+    "id": "signora-f1",
+    "label": "Signora F1",
+    "keywords": "signora",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=57"
+  },
+  {
+    "id": "yety-f1",
+    "label": "Yety F1",
+    "keywords": "yety",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=57"
+  },
+  {
+    "id": "amerigo-f1",
+    "label": "Amerigo F1",
+    "keywords": "amerigo",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=57"
+  },
+  {
+    "id": "cherokee-f1",
+    "label": "Cherokee F1",
+    "keywords": "cherokee",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=57"
+  },
+  {
+    "id": "rosalba-f1",
+    "label": "Rosalba F1",
+    "keywords": "rosalba",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=58"
+  },
+  {
+    "id": "vp1-f1",
+    "label": "VP1 F1",
+    "keywords": "vp1",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=58"
+  },
+  {
+    "id": "pink-impression-f1",
+    "label": "Pink Impression F1",
+    "keywords": "pink impression",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=58"
+  },
+  {
+    "id": "fuji-pink-f1",
+    "label": "Fuji Pink F1",
+    "keywords": "fuji pink",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=58"
+  },
+  {
+    "id": "ricciolo",
+    "label": "Ricciolo",
+    "keywords": "ricciolo",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=59"
+  },
+  {
+    "id": "amauri",
+    "label": "Amauri",
+    "keywords": "amauri",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=59"
+  },
+  {
+    "id": "san-remo-f1",
+    "label": "San Remo F1",
+    "keywords": "san remo",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=59"
+  },
+  {
+    "id": "prezioso-f1",
+    "label": "Prezioso F1",
+    "keywords": "prezioso",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=60"
+  },
+  {
+    "id": "porpora-f1",
+    "label": "Porpora F1",
+    "keywords": "porpora",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=60"
+  },
+  {
+    "id": "lobello-f1",
+    "label": "Lobello F1",
+    "keywords": "lobello",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=60"
+  },
+  {
+    "id": "collina-f1",
+    "label": "Collina F1",
+    "keywords": "collina",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=60"
+  },
+  {
+    "id": "napika-f1",
+    "label": "Napika F1",
+    "keywords": "napika",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=61"
+  },
+  {
+    "id": "rossano-f1",
+    "label": "Rossano F1",
+    "keywords": "rossano",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=61"
+  },
+  {
+    "id": "troy-f1",
+    "label": "Troy F1 (Linda F1)",
+    "keywords": "troy (linda)",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=61"
+  },
+  {
+    "id": "kero-f1",
+    "label": "Kero F1",
+    "keywords": "kero",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=61"
+  },
+  {
+    "id": "bernita-f1",
+    "label": "Bernita F1",
+    "keywords": "bernita",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=64"
+  },
+  {
+    "id": "bibic-f1",
+    "label": "Bibic F1",
+    "keywords": "bibic",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=64"
+  },
+  {
+    "id": "bagoly-f1",
+    "label": "Bagoly F1",
+    "keywords": "bagoly",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=64"
+  },
+  {
+    "id": "bobita-f1",
+    "label": "Bobita F1",
+    "keywords": "bobita",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=65"
+  },
+  {
+    "id": "lisenka-f1",
+    "label": "Lisenka F1",
+    "keywords": "lisenka",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=65"
+  },
+  {
+    "id": "ester-f1",
+    "label": "Ester F1",
+    "keywords": "ester",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=65"
+  },
+  {
+    "id": "spartaco-f1",
+    "label": "Spartaco F1",
+    "keywords": "spartaco",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=66"
+  },
+  {
+    "id": "lake-f1",
+    "label": "Lake F1",
+    "keywords": "lake",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=66"
+  },
+  {
+    "id": "salana-f1",
+    "label": "Salana F1",
+    "keywords": "salana",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=66"
+  },
+  {
+    "id": "rafaela-f1",
+    "label": "Rafaela F1",
+    "keywords": "rafaela",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=67"
+  },
+  {
+    "id": "kadet-f1",
+    "label": "Kadet F1",
+    "keywords": "kadet",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=67"
+  },
+  {
+    "id": "csango-f1",
+    "label": "Csango F1",
+    "keywords": "csango",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=67"
+  },
+  {
+    "id": "archivarius-f1",
+    "label": "Archivarius F1 (D1611/961)",
+    "keywords": "archivarius (d1611/961)",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=67"
+  },
+  {
+    "id": "triunfo-f1",
+    "label": "Triunfo F1",
+    "keywords": "triunfo",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=70"
+  },
+  {
+    "id": "kung-fu-f1",
+    "label": "Kung Fu F1",
+    "keywords": "kung fu",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=70"
+  },
+  {
+    "id": "ronda-f1",
+    "label": "Ronda F1",
+    "keywords": "ronda",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=70"
+  },
+  {
+    "id": "goghen-f1",
+    "label": "Goghen F1",
+    "keywords": "goghen",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=70"
+  },
+  {
+    "id": "clelia-f1",
+    "label": "Clelia F1",
+    "keywords": "clelia",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=71"
+  },
+  {
+    "id": "mirval-f1",
+    "label": "Mirval F1",
+    "keywords": "mirval",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=71"
+  },
+  {
+    "id": "nadia-f1",
+    "label": "Nadia F1",
+    "keywords": "nadia",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=71"
+  },
+  {
+    "id": "kiara-f1",
+    "label": "Kiara F1",
+    "keywords": "kiara",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=72"
+  },
+  {
+    "id": "kuatuor-f1",
+    "label": "Kuatuor F1",
+    "keywords": "kuatuor",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=72"
+  },
+  {
+    "id": "rustler-f1",
+    "label": "Rustler F1",
+    "keywords": "rustler",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=72"
+  },
+  {
+    "id": "klondike-f1",
+    "label": "Klondike F1",
+    "keywords": "klondike",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=73"
+  },
+  {
+    "id": "kinze-f1",
+    "label": "Kinze F1",
+    "keywords": "kinze",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=73"
+  },
+  {
+    "id": "turbo-f1",
+    "label": "Turbo F1",
+    "keywords": "turbo",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=73"
+  },
+  {
+    "id": "herbicidi",
+    "label": "Herbicidi",
+    "keywords": "herbicidi",
+    "link": "/proizvodi/herbicidi"
+  },
+  {
+    "id": "nico-4-sc",
+    "label": "NICO 4 SC",
+    "keywords": "nico 4 sc",
+    "link": "/katalozi/2020-prihrana.pdf#page=58"
+  },
+  {
+    "id": "cash",
+    "label": "Cash",
+    "keywords": "cash",
+    "link": "/katalozi/2020-prihrana.pdf#page=58"
+  },
+  {
+    "id": "gallup-super-480",
+    "label": "Gallup Super 480",
+    "keywords": "gallup super 480",
+    "link": "/katalozi/2020-prihrana.pdf#page=59"
+  },
+  {
+    "id": "fungicidi",
+    "label": "Fungicidi",
+    "keywords": "fungicidi",
+    "link": "/proizvodi/fungicidi"
+  },
+  {
+    "id": "azocip-sc",
+    "label": "Azocip SC",
+    "keywords": "azocip sc",
+    "link": "/katalozi/2020-prihrana.pdf#page=4"
+  },
+  {
+    "id": "manfil-80-wp",
+    "label": "Manfil 80 WP",
+    "keywords": "manfil 80 wp",
+    "link": "/katalozi/2020-prihrana.pdf#page=4"
+  },
+  {
+    "id": "okvasivaci",
+    "label": "Okvašivači",
+    "keywords": "okvasivaci",
+    "link": "/proizvodi/okvasivaci"
+  },
+  {
+    "id": "inex",
+    "label": "Inex",
+    "keywords": "inex",
+    "link": "/katalozi/2020-prihrana.pdf#page=44"
+  },
+  {
+    "id": "sticker",
+    "label": "Sticker",
+    "keywords": "sticker",
+    "link": "/katalozi/2020-prihrana.pdf#page=45"
+  },
+  {
+    "id": "insekticidi",
+    "label": "Insekticidi",
+    "keywords": "insekticidi",
+    "link": "/proizvodi/insekticidi"
+  },
+  {
+    "id": "fasthrin-10-ec",
+    "label": "FASTHRIN 10 EC",
+    "keywords": "fasthrin 10 ec",
+    "link": "/katalozi/2020-prihrana.pdf#page=59"
+  },
+  {
+    "id": "repelent-za-puzeve",
+    "label": "Repelent za puževe",
+    "keywords": "repelent za puzeve",
+    "link": "/proizvodi/repelent-za-puzeve"
+  },
+  {
+    "id": "delumbri-limax",
+    "label": "Delumbri Limax",
+    "keywords": "delumbri limax",
+    "link": "/katalozi/2020-prihrana.pdf#page=62"
+  },
+  {
+    "id": "mulch-folije",
+    "label": "Mulch folije",
+    "keywords": "mulch folije",
+    "link": "/katalozi/2020-prihrana.pdf#page=63"
+  },
+  {
+    "id": "navodnjavanje",
+    "label": "Navodnjavanje",
+    "keywords": "navodnjavanje",
+    "link": "/proizvodi/navodnjavanje"
+  },
+  {
+    "id": "pestan",
+    "label": "Peštan",
+    "keywords": "pestan",
+    "link": "/katalozi/2020-prihrana.pdf#page=64"
+  },
+  {
+    "id": "amco-drip.",
+    "label": "AMCO-drip",
+    "keywords": "amco drip",
+    "link": "/katalozi/2020-prihrana.pdf#page=64"
+  },
+  {
+    "id": "akona",
+    "label": "Akona",
+    "keywords": "akona",
+    "link": "/katalozi/2020-prihrana.pdf#page=65"
+  },
+  {
+    "id": "sumika",
+    "label": "Sumika",
+    "keywords": "sumika",
+    "link": "/katalozi/2020-prihrana.pdf#page=66"
+  },
+  {
+    "id": "bioloska-zastita",
+    "label": "Biološka zaštita - korisni kukci",
+    "keywords": "bioloska zastita korisni kukci",
+    "link": "/proizvodi/bioloska-zastita"
+  },
+  {
+    "id": "bioloska-zastita-rajcica",
+    "label": "Rajčica i korisni kukci",
+    "keywords": "rajčica korisni kukci",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=8"
+  },
+  {
+    "id": "bioloska-zastita-paprika",
+    "label": "Paprika i korisni kukci",
+    "keywords": "paprika korisni kukci",
+    "link": "/katalozi/2020-sjeme-povrca.pdf#page=9"
+  },
+  {
+    "id": "ekoloski-proizvodi",
+    "label": "Ekološki proizvodi,",
+    "keywords": "ekoloski proizvodi",
+    "link": "/proizvodi/ekoloski-proizvodi"
+  },
+  {
+    "id": "folisec",
+    "label": "Folisec",
+    "keywords": "folisec",
+    "link": "/katalozi/2020-prihrana.pdf#page=62"
+  },
+  {
+    "id": "herfomyc",
+    "label": "Herfomyc",
+    "keywords": "herfomyc",
+    "link": "/katalozi/2020-prihrana.pdf#page=62"
+  },
+  {
+    "id": "herfosec",
+    "label": "Herfosec",
+    "keywords": "herfosec",
+    "link": "/katalozi/2020-prihrana.pdf#page=62"
+  },
+  {
+    "id": "ekoloska-gnojiva",
+    "label": "Ekološka gnojiva",
+    "keywords": "ekološka gnojiva",
+    "link": "/katalozi/2020-prihrana.pdf#page=8"
+  },
+  {
+    "id": "strucni-savjeti",
+    "label": "Stručni savjeti",
+    "keywords": "strucni savjeti folijarna prihrana",
+    "link": "/strucni-savjeti"
+  },
+  {
+    "id": "strucni-savjeti-osnovna-podjela-biljnih-hranjiva",
+    "label":"Osnovna podjela biljnih hranjiva",
+    "keywords":"osnovna podjela biljnih hranjiva",
+    "link": "/strucni-savjeti/osnovna-podjela-biljnih-hranjiva"
+  },
+  {
+    "id": "strucni-savjeti-simptomi-nedostatka-makro-i-mikro-elemenata-na-biljkama",
+    "label": "Simptomi nedostatka makro i mikro elemenata na biljkama",
+    "keywords": "simptomi nedostatka makro i mikro elemenata na biljkama",
+    "link": "/strucni-savjeti/simptomi-nedostatka-makro-i-mikro-elemenata-na-biljkama"
+  },
+  {
+    "id": "strucni-savjeti-potrebe-biljaka-za-mikroelementima",
+    "label": "Potrebe biljaka za mikroelementima",
+    "keywords": "potrebe biljaka za mikroelementima",
+    "link": "/strucni-savjeti/potrebe-biljaka-za-mikroelementima"
+  },
+  {
+    "id": "strucni-savjeti-antagonizmi-izmedu-makro-i-mikro-elemenata",
+    "label": "Antagonizmi između makro i mikro elemenata",
+    "keywords": "antagonizmi izmedu makro i mikro elemenata",
+    "link": "/strucni-savjeti/antagonizmi-izmedu-makro-i-mikro-elemenata"
+  },
+  {
+    "id": "strucni-savjeti-makro-i-mikro-elementi-u-obliku-koji-je-dostupan-biljkama",
+    "label": "Makro i mikro elementi u obliku koji je dostupan biljkama",
+    "keywords": "makro i mikro elementi u obliku koji je dostupan biljkama",
+    "link": "/strucni-savjeti/makro-i-mikro-elementi-u-obliku-koji-je-dostupan-biljkama"
+  },
+  {
+    "id": "strucni-savjeti-orijentacione-granicne-ec-vrijednosti",
+    "label": "Orijentacione granične EC vrijednosti",
+    "keywords": "orijentacione granicne ec vrijednosti",
+    "link": "/strucni-savjeti/orijentacione-granicne-ec-vrijednosti"
+  },
+  {
+    "id": "strucni-savjeti-simptomi-deficita-elemenata-biljne-ishrane-na-liscu",
+    "label": "Simptomi deficita elemenata biljne ishrane na lišću",
+    "keywords": "simptomi deficita elemenata biljne ishrane na liscu",
+    "link": "/strucni-savjeti/simptomi-deficita-elemenata-biljne-ishrane-na-liscu"
+  },
+  {
+    "id": "strucni-savjeti-znacaj-folijarne-prihrane",
+    "label": "Značaj folijarne prihrane",
+    "keywords": "znacaj folijarne prihrane",
+    "link": "/strucni-savjeti/znacaj-folijarne-prihrane"
+  },
+  {
+    "id": "strucni-savjeti-kemijski-sastav-gnojiva",
+    "label": "Kemijski sastav gnojiva",
+    "keywords": "kemijski sastav gnojiva",
+    "link": "/strucni-savjeti/kemijski-sastav-gnojiva"
+  },
+  {
+    "id": "strucni-savjeti-strne-zitarice",
+    "label": "Prihrana - Strne žitarice",
+    "keywords": "strne zitarice",
+    "link": "/strucni-savjeti/strne-zitarice"
+  },
+  {
+    "id": "strucni-savjeti-kukuruz",
+    "label": "Prihrana - Kukuruz",
+    "keywords": "kukuruz",
+    "link": "/strucni-savjeti/kukuruz"
+  },
+  {
+    "id": "strucni-savjeti-secerna-repa",
+    "label": "Prihrana - Šećerna repa",
+    "keywords": "secerna repa",
+    "link": "/strucni-savjeti/secerna-repa"
+  },
+  {
+    "id": "strucni-savjeti-uljana-repica",
+    "label": "Prihrana - Uljana repica",
+    "keywords": "uljana repica",
+    "link": "/strucni-savjeti/uljana-repica"
+  },
+  {
+    "id": "strucni-savjeti-suncokret",
+    "label": "Prihrana - Suncokret",
+    "keywords": "suncokret",
+    "link": "/strucni-savjeti/suncokret"
+  },
+  {
+    "id": "strucni-savjeti-soja",
+    "label": "Prihrana - Soja",
+    "keywords": "soja",
+    "link": "/strucni-savjeti/soja"
+  },
+  {
+    "id": "strucni-savjeti-lucerna",
+    "label": "Prihrana - Lucerna",
+    "keywords": "lucerna",
+    "link": "/strucni-savjeti/lucerna"
+  },
+  {
+    "id": "strucni-savjeti-presadnice-u-kontejnerima",
+    "label": "Prihrana - Presadnice u kontejnerima",
+    "keywords": "presadnice u kontejnerima",
+    "link": "/strucni-savjeti/presadnice-u-kontejnerima"
+  },
+  {
+    "id": "strucni-savjeti-kupusnjace",
+    "label": "Prihrana - Kupusnjače",
+    "keywords": "kupusnjace",
+    "link": "/strucni-savjeti/kupusnjace"
+  },
+  {
+    "id": "strucni-savjeti-korjenasto-povrce",
+    "label": "Prihrana - Korjenasto povrće",
+    "keywords": "korjenasto povrce",
+    "link": "/strucni-savjeti/korjenasto-povrce"
+  },
+  {
+    "id": "strucni-savjeti-luk",
+    "label": "Prihrana - Luk",
+    "keywords": "luk",
+    "link": "/strucni-savjeti/luk"
+  },
+  {
+    "id": "strucni-savjeti-lubenice-i-dinje",
+    "label": "Prihrana - Lubenice i dinje",
+    "keywords": "lubenice i dinje",
+    "link": "/strucni-savjeti/lubenice-i-dinje"
+  },
+  {
+    "id": "strucni-savjeti-salata-i-spinat",
+    "label": "Prihrana - Salata i špinat",
+    "keywords": "salata i spinat",
+    "link": "/strucni-savjeti/salata-i-spinat"
+  },
+  {
+    "id": "strucni-savjeti-rajcica",
+    "label": "Prihrana - Rajčica",
+    "keywords": "rajcica",
+    "link": "/strucni-savjeti/rajcica"
+  },
+  {
+    "id": "strucni-savjeti-paprika",
+    "label": "Prihrana - Paprika",
+    "keywords": "paprika",
+    "link": "/strucni-savjeti/paprika"
+  },
+  {
+    "id": "strucni-savjeti-batat",
+    "label": "Prihrana - Batat",
+    "keywords": "batat",
+    "link": "/strucni-savjeti/batat"
+  },
+  {
+    "id": "strucni-savjeti-jezgricavo-voce",
+    "label": "Prihrana - Jezgričavo voće",
+    "keywords": "jezgricavo voce",
+    "link": "/strucni-savjeti/jezgricavo-voce"
+  },
+  {
+    "id": "strucni-savjeti-kosticavo-voce",
+    "label": "Prihrana - Koštičavo voće",
+    "keywords": "kosticavo voce",
+    "link": "/strucni-savjeti/kosticavo-voce"
+  },
+  {
+    "id": "strucni-savjeti-bobicasto-voce",
+    "label": "Prihrana - Bobičasto voće",
+    "keywords": "bobicasto voce",
+    "link": "/strucni-savjeti/bobicasto-voce"
+  },
+  {
+    "id": "strucni-savjeti-lijeska",
+    "label": "Prihrana - Lijeska",
+    "keywords": "lijeska",
+    "link": "/strucni-savjeti/lijeska"
+  },
+  {
+    "id": "strucni-savjeti-vinova-loza",
+    "label": "Prihrana - Vinova loza",
+    "keywords": "vinova loza",
+    "link": "/strucni-savjeti/vinova-loza"
+  },
+  {
+    "id": "strucni-savjeti-travnjak",
+    "label": "Prihrana - Travnjak",
+    "keywords": "travnjak",
+    "link": "/strucni-savjeti/travnjak"
+  },
+  {
+    "id": "strucni-savjeti-maslina",
+    "label": "Prihrana - Maslina",
+    "keywords": "maslina",
+    "link": "/strucni-savjeti/maslina"
+  },
+  {
+    "id": "strucni-savjeti-duhan",
+    "label": "Prihrana - Duhan",
+    "keywords": "duhan",
+    "link": "/strucni-savjeti/duhan"
+  },
+  {
+    "id": "strucni-savjeti-sparoga",
+    "label": "Prihrana - Šparoga",
+    "keywords": "sparoga",
+    "link": "/katalozi/2020-prihrana.pdf#page=56"
+  },
+  {
+    "id": "o-nama",
+    "label": "O nama",
+    "keywords": "o nama povijest lokacija aktivnosti testne stanice",
+    "link": "/o-nama"
+  },
+  {
+    "id": "nas-tim",
+    "label": "Naš tim",
+    "keywords": "direktor komercijalni sektor strucni savjetnici podrucje rada",
+    "link": "/nas-tim"
+  },
+  {
+    "id": "dokumenti",
+    "label": "Dokumenti",
+    "keywords": "dokument dokumenti letak letci katalog katalozi sigurnosno tehnički list stl",
+    "link": "/dokumenti"
+  },
+  {
+    "id": "kontakt",
+    "label": "Kontakt",
+    "keywords": "kontakt adresa sjediste petrijevci zagreb",
+    "link": "/kontakt"
+  }
+]

@@ -1,7 +1,7 @@
 # Agrimatco.hr
 
 This is the full source code for the agrimatco.hr.
-The app is built in [Sapper](https://github.com/sveltejs/sapper) and the database and hosting is on [Firebase](https://firebase.google.com/).
+The app is built in [SvelteKit](https://svelte.dev/) and the database and hosting is on [Firebase](https://firebase.google.com/).
 
 ## Why is this open source
 
