@@ -1,10 +1,10 @@
+<script>
+	import Table from '../../../components/Table.svelte';
+</script>
+
 <svelte:head>
     <title>Agrimatco | Stručni savjeti | Kemijski sastav gnojiva</title>
 </svelte:head>
-
-<script>
-    import Table from '../../../components/Table.svelte';
-</script>
 
 <style>
     .container-large {
