@@ -2,3 +2,4 @@ node_modules
 .svelte-kit
 firebase-debug.log
 .env
+build

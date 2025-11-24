@@ -1,10 +1,10 @@
+<script>
+	import Table from '../../../components/Table.svelte';
+</script>
+
 <svelte:head>
     <title>Agrimatco | Stručni savjeti | Makro i mikro elementi  u obliku koji  je dostupan biljkama</title>
 </svelte:head>
-
-<script>
-    import Table from '../../../components/Table.svelte';
-</script>
 
 <section class="section">
     <div class="container">

@@ -1,10 +1,10 @@
+<script>
+	import Table from '../../../components/Table.svelte';
+</script>
+
 <svelte:head>
     <title>Agrimatco | Stručni savjeti | Orijentacione granične EC vrijednosti</title>
 </svelte:head>
-
-<script>
-    import Table from '../../../components/Table.svelte';
-</script>
 
 <section class="section">
     <div class="container">

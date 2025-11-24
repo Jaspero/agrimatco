@@ -9,8 +9,7 @@ export async function POST({ request }) {
 	try {
 		const body = await request.json();
 		await resend.emails.send({
-			// to: 'ivana.ivankovic@agrimatco-eu.com',
-			to: 'info@jaspero.co',
+			to: 'ivana.ivankovic@agrimatco-eu.com',
 			from: 'info@jaspero.co',
 			subject: 'Novi kontakt',
 			reply_to: body.email,

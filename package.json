@@ -12,7 +12,7 @@
     "dev": "vite dev",
     "build": "npm run build:search && vite build",
     "preview": "vite preview",
-    "build:search": "node build-search-indexes.js && (if exist static\\search.json (del static\\search.json) && copy search.json static\\search.json)",
+    "build:search": "node build-search-indexes.js && cp search.json static/search.json",
     "format": "prettier --write .",
     "format:check": "prettier --check ."
   },

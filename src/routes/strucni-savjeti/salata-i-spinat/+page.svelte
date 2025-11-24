@@ -1,10 +1,10 @@
+<script>
+	import Table from '../../../components/Table.svelte';
+</script>
+
 <svelte:head>
     <title>Agrimatco | Stručni savjeti | Salata i špinat</title>
 </svelte:head>
-
-<script>
-    import Table from '../../../components/Table.svelte';
-</script>
 
 <img src="strucni-savjeti/salata-i-spinat/i.jpg" alt="">
 
