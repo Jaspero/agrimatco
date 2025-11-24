@@ -1,1 +1,0 @@
-export { default as component } from "../../../../src/routes/strucni-savjeti/orijentacione-granicne-ec-vrijednosti/+page.svelte";

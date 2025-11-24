@@ -1,1 +1,0 @@
-export { default as component } from "../../../../src/routes/strucni-savjeti/uljana-repica/+page.svelte";
