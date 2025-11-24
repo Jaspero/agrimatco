@@ -24,7 +24,7 @@
         </figure>
 
         <h2>Prihrana presadnica u kontejnerima</h2>
-        <a class="prihrana-link" href="/katalozi/2023-sjeme-povrca.pdf#page=33">Pročitaj</a>
+        <a class="prihrana-link" href="/proizvodi/katalozi/2023-sjeme-povrca.pdf#page=33">Pročitaj</a>
 <!--        <p>Za prvu prihranu presadnica koristi se ROOTEX, stimulator rasta i razvoja korijena, 10-15 dana nakon nicanja biljke i to zaljevanjem u količini 30-50 gr/10L vode.</p>-->
 <!--        <p>Druga prihrana se vrši 10 dana nakon prve prihrane uz korištenje gnojiva Novalon 12-48-6+TE  zaljevanjem u količini 30-50 gr/10L vode.</p>-->
 <!--        <p>Rootex i Novalon 12-48-6+TE su neophodni za razvoj korijenovog sustava.</p>-->

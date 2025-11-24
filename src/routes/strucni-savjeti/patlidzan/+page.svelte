@@ -10,6 +10,6 @@
     <div class="container">
         <nav><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Patlidžan</small></nav>
         <h1>Prihrana patlidžana</h1>
-        <a class="prihrana-link" href="/katalozi/2023-sjeme-povrca.pdf#page=79">Pročitaj</a>
+        <a class="prihrana-link" href="/proizvodi/katalozi/2023-sjeme-povrca.pdf#page=79">Pročitaj</a>
     </div>
 </section>

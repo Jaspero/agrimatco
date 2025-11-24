@@ -8,7 +8,7 @@
     <div class="container">
         <nav><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Soja</small></nav>
         <h1>Folijarna prihrana soje</h1>
-        <a class="prihrana-link" href="/katalozi/2023-gnojidba-prihrana-zastita.pdf#page=51">Pročitaj</a>
+        <a class="prihrana-link" href="/proizvodi/katalozi/2023-gnojidba-prihrana-zastita.pdf#page=51">Pročitaj</a>
 
         <p>Soja je značajna leguminoza u ratarsko - industrijskim kulturama koja razvojem bakterija na korijenu obogaćuje tlo dušikom, fiksirajući ga iz zraka. U kvržicama korijena soje bakterije pretvaraju anorganski dušik iz zraka u amonijski oblik pristupačan biljci. Na aktivnost bakterija utječu fizikalna i kemijska svojstva tla: neutralna reakcija tla, prozračnost te dobre vodozračne osobine tla. U plodoredu prije soje treba izbjegavati suncokret, ozimu uljanu repicu i uzgoj soje u monokulturi.</p>
 
@@ -72,7 +72,7 @@
 <!--            </ul>-->
         </figure>
 
-        <a class="prihrana-link" href="/katalozi/2023-gnojidba-prihrana-zastita.pdf#page=51">Pročitaj</a>
+        <a class="prihrana-link" href="/proizvodi/katalozi/2023-gnojidba-prihrana-zastita.pdf#page=51">Pročitaj</a>
 
         <p>Tokom cijele vegetacije, u posebno nepovoljnim uvjetima, nakon primjene herbicida i prilikom svake gnojidbe, obavezna je primjena Bioplexa 0,5 L/ha na 200-300L vode/ha. Koristiti ga nakon stresnih uvjeta (negativnog učinka herbicida, bolesti i štetnika, visoke vlage, tuče i suše) jer u sebi ima veliki utjecaj organskih ekstrakta, aminokiselina i fitohormona.</p>
 

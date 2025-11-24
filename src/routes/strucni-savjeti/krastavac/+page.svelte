@@ -10,6 +10,6 @@
     <div class="container">
         <nav><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Krastavac</small></nav>
         <h1>Prihrana krastavca</h1>
-        <a class="prihrana-link" href="/katalozi/2023-sjeme-povrca.pdf#page=75">Pročitaj</a>
+        <a class="prihrana-link" href="/proizvodi/katalozi/2023-sjeme-povrca.pdf#page=75">Pročitaj</a>
     </div>
 </section>

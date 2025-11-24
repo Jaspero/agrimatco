@@ -17,8 +17,8 @@
                     <li><a href="/strucni-savjeti/orijentacione-granicne-ec-vrijednosti">Orijentacione granične EC vrijednosti</a></li>
                     <li><a href="/strucni-savjeti/simptomi-deficita-elemenata-biljne-ishrane-na-liscu">Simptomi deficita elemenata biljne ishrane na lišću</a></li>
                     <li><a href="/strucni-savjeti/znacaj-folijarne-prihrane">Značaj folijarne prihrane</a></li>
-                    <li><a href="/katalozi/2023-sjeme-povrca.pdf#page=8">Kemijski sastav gnojiva</a></li>
-                    <li><a href="/katalozi/2023-sjeme-povrca.pdf#page=81">Otpornost - rezistentnost na bolesti i štetnike</a></li>
+                    <li><a href="/proizvodi/katalozi/2023-sjeme-povrca.pdf#page=8">Kemijski sastav gnojiva</a></li>
+                    <li><a href="/proizvodi/katalozi/2023-sjeme-povrca.pdf#page=81">Otpornost - rezistentnost na bolesti i štetnike</a></li>
                 </ul>
             </figure>
             <figure class="col-6 col-s-12">
@@ -61,7 +61,7 @@
                     <li><a href="/strucni-savjeti/lijeska">Lijeska</a></li>
                     <li><a href="/strucni-savjeti/vinova-loza">Vinova loza</a></li>
                     <li><a href="/strucni-savjeti/maslina">Maslina</a></li>
-                    <li><a href="/katalozi/2023-gnojidba-prihrana-zastita.pdf#page=58">Šparoga</a></li>
+                    <li><a href="/proizvodi/katalozi/2023-gnojidba-prihrana-zastita.pdf#page=58">Šparoga</a></li>
                 </ul>
             </figure>
         </div>

@@ -8,7 +8,7 @@
     <div class="container">
         <nav><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Suncokret</small></nav>
         <h1>Folijarna prihrana suncokreta</h1>
-        <a class="prihrana-link" href="/katalozi/2023-gnojidba-prihrana-zastita.pdf#page=51">Pročitaj</a>
+        <a class="prihrana-link" href="/proizvodi/katalozi/2023-gnojidba-prihrana-zastita.pdf#page=51">Pročitaj</a>
 
         <p>Suncokret je jedna od najvažnijih kultura za proizvodnju ulja. Najbolji predusjev za uzgoj suncokreta su strna žita, zatim kukuruz i šećerna repa. Suncokret formira velike količine organske tvari te ima veće potrebe za hranjivima, osobito dušikom, zatim fosforom i kalijem.</p>
         <p><img src="strucni-savjeti/suncokret/i1.jpeg" alt=""></p>

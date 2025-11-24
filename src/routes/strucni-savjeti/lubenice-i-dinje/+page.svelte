@@ -16,7 +16,7 @@
         <p>Primjenom mineralnih vodotopivih gnojiva biljci osiguravamo stalnu opskrbu pristupačnim biljnim hranjivima, što se u velikoj mjeri odražava na povećanje prinosa.</p>
 
         <h2>Prihrana lubenica i dinja</h2>
-        <a class="prihrana-link" href="/katalozi/2023-sjeme-povrca.pdf#page=54">Pročitaj</a>
+        <a class="prihrana-link" href="/proizvodi/katalozi/2023-sjeme-povrca.pdf#page=54">Pročitaj</a>
         <p><img src="strucni-savjeti/lubenice-i-dinje/i3.jpg" alt=""></p>
 
 <!--        <figure>-->
