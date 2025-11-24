@@ -41,7 +41,7 @@
 
 <header class="header">
     <div class="header-container">
-        <a href="." rel="prefetch"><img class="header-logo" src="agrimatco.svg" alt="Agrimatco" width="120"></a>
+        <a href="/"><img class="header-logo" src="/agrimatco.svg" alt="Agrimatco" width="120"></a>
         <button class="header-menu" on:click={menuToggle}>MENU</button>
     </div>
 </header>

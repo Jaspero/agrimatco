@@ -37,7 +37,7 @@
 </style>
 
 <a class="product-card" href={link} target={target} rel="prefetch">
-    <img class="product-card-image" src="proizvodi/{image}" alt="">
+    <img class="product-card-image" src="/proizvodi/{image}" alt="">
     <div class="product-card-title">{title}</div>
     <div class="product-card-description">{description}</div>
 </a>

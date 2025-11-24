@@ -12,7 +12,7 @@
 </style>
 
 <footer class="footer">
-    <p><a href="." rel="prefetch"><img src="agrimatco.svg" alt="Agrimatco" width="120"></a></p>
+    <p><a href="." rel="prefetch"><img src="/agrimatco.svg" alt="Agrimatco" width="120"></a></p>
     <div>Pratite našu <a href="https://web.facebook.com/Agrimatco-Croatia-356855041012103" target="_blank" rel="noopener">Facebook</a> stranicu.</div>
     <div>Copyright © {year} Agrimatco d.o.o.</div>
     <div>Sva prava pridržana.</div>

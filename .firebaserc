@@ -1,11 +1,5 @@
 {
-  "targets": {
-    "agrimatco-fb254": {
-      "hosting": {
-        "website": [
-          "agrimatco-fb254"
-        ]
-      }
-    }
+  "projects": {
+    "default": "agrimatco-fb254"
   }
 }
