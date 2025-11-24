@@ -13,8 +13,8 @@
         <p><img src="strucni-savjeti/korjenasto-povrce/i1.jpg" alt=""></p>
 
         <h2>Prihrana korjenastog povrća</h2>
-        <a class="prihrana-link" href="/katalozi/2023-sjeme-povrca.pdf#page=39">Pročitaj</a>
-        <a class="prihrana-link" href="/katalozi/2023-sjeme-povrca.pdf#page=47">Pročitaj</a>
+        <a class="prihrana-link" href="/proizvodi/katalozi/2023-sjeme-povrca.pdf#page=39">Pročitaj</a>
+        <a class="prihrana-link" href="/proizvodi/katalozi/2023-sjeme-povrca.pdf#page=47">Pročitaj</a>
 <!--        <p>U fenofazi kada kreće razvoj rozete tj. kada je razvijen  4. list (od 15-20 dana) prihrana se vrši primjenom vodotopivog  gnojiva Novalon 20-20-20+TE i vodotopivog gnojiva Kelatex B, gnojiva sa visokom koncentracijom Bora(B). Kelatex B  je važan u biljci pri transportu asimilata, za formiranje korijena, sintezu i kretanje šećera, čvrstoću i kvalitet ploda. Kelatex B  se primjenjuje u količini 100-400 g/ha.  Novalon 20-20-20+TE veoma je važan za vegetativan porast i primjenjuje se u količini 3-5 kg/ha.</p>-->
         <p><img src="strucni-savjeti/korjenasto-povrce/i3.jpg" alt=""></p>
 <!--        <p>Tokom intenzivnog porasta primjeniti Trazex, za idealan omjer mikroelemenata u količini 0,5 kg/ha ili Agrofol 390, NPK tekuće gnojivo namijenjeno za folijarnu prihranu, u količini 3-5L/ha. Trazex i Agrofol 390 pospješuju otpornost biljaka na bolesti i napade štetnika. Tokom intenzivnog porsta, do vađenja korijena, koristiti vodotopivo gnojivo Novalon 6-12-36+3MgO+Te u količini 3-5 kg/ha koje će takođe utjecati i na kvalitetu plodova. Svakih 10-14 dana naizmjenično, folijarno ili kroz sustav kap na kap koristiti Calcinit (3-5 kg/ha) i Calcium Mainstay (3L/ha) što će pospješiti čvrstoću plodova.</p>-->

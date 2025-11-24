@@ -3,12 +3,12 @@
 </svelte:head>
 
 <script>
-    import Table from '../../components/Table.svelte';
+    import Table from '../../../components/Table.svelte';
 </script>
 
 <section class="section">
     <div class="container">
-        <nav><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Osnovna podjela biljnih hranjiva</small></nav>
+        <nav><small><a  href="/strucni-savjeti">Stručni savjeti</a> Osnovna podjela biljnih hranjiva</small></nav>
         <h1>Osnovna podjela biljnih hranjiva</h1>
 
         <figure>

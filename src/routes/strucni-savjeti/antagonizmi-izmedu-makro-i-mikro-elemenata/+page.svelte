@@ -3,7 +3,7 @@
 </svelte:head>
 
 <script>
-    import Table from '../../components/Table.svelte';
+    import Table from '../../../components/Table.svelte';
 </script>
 
 <section class="section">

@@ -42,8 +42,8 @@
             <figure class="col-6 col-s-12">
                 <figcaption><b>Ostalo</b></figcaption>
                 <ul>
-                    <li><a  href="/katalozi/sjeme-povrca-2025.pdf#page=13" target="_blank">Mulch folije</a></li>
-                    <li><a  href="/katalozi/sjeme-povrca-2025.pdf#page=10">Navodnjavanje</a></li>
+                    <li><a href="/proizvodi/katalozi/sjeme-povrca-2025.pdf#page=13" target="_blank">Mulch folije</a></li>
+                    <li><a  href="/proizvodi/katalozi/sjeme-povrca-2025.pdf#page=10">Navodnjavanje</a></li>
                     <li><a  href="/proizvodi/ekoloski-proizvodi">Ekološki proizvodi</a></li>
                 </ul>
             </figure>

@@ -17,7 +17,7 @@
 
         <h2>Folijarna prihrana jezgričavog voća</h2>
 
-        <a class="prihrana-link" href="/katalozi/2023-gnojidba-prihrana-zastita.pdf#page=53">Pročitaj</a>
+        <a class="prihrana-link" href="/proizvodi/katalozi/2023-gnojidba-prihrana-zastita.pdf#page=53">Pročitaj</a>
 
 <!--        <figure>-->
 <!--            <figcaption><b>1. faza – pojava pupoljka</b></figcaption>-->

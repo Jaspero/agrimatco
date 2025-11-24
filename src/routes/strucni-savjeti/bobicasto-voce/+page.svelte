@@ -3,7 +3,7 @@
 </svelte:head>
 
 <script>
-    import Table from '../../components/Table.svelte';
+    import Table from '../../../components/Table.svelte';
 </script>
 
 <style>
@@ -33,7 +33,7 @@
         <p>Malina, za razliku od drugih bobičastih voćaka, uzima najveće količine hranjivih elemenata iz tla. Za njezino dobro uspevanje neophodne su velike količine organske tvari, jer svake godine razvija veliki broj novih izdanaka, a na starima donosi obilje roda, koji se poslije sazrijevanja suše, pa je svake godine za obnovu grma i visoke prinose neophodna velika količina organske tvari. Malina od svih elemenata najviše troši kalij, zatim dušik i fosfor. Zasade maline u rodu treba redovito svake godine gnojiti i to dosta velikim količinama organskih i mineralnih gnojiva. Gnojidba zasada u rodu može biti: Osnovna gnojidba, prihranjivanje i gnojidba folijarnim gnojivima. Folijarnom gnojidbom se može brzo djelovati u prehrani važnijim makro, a posebno mikroelementima. Tretiranje se izvodi obično u dva ili tri navrata istovremeno kada se vrši tretiranje protiv uzročnika bolesti i štetnika. Treba poštovati koncentraciju primjene iu prskalici prvo rastvoriti folijarno gnojivo, a zatim potrebne pesticide. Prihranjivanje se može obaviti i fertigacijom, posebno kada je potrebno pojačati prehranu i u vrijeme nalijevanja ploda i pred berbu. Za to mora postojati instaliran sustav za navodnjavanje i moraju se koristiti specijalna vodotopiva gnojiva određene formulacije.</p>
         <p>Suvremeni zasadi kupine su visokointezivni i vrlo rodni, i zato ih treba redovito i obilno gnojiti. Time se izravno utječe na rentbilnost proizvodnje, duži eksploatacijski period i osigurava visok prinos i dobru kvalitetu plodova. Količina i vrsta gnojiva ovisi o plodnosti tla, klimatskih uvjeta i meliorativne gnojidbe. Za gnojenje kupine koriste se organska i mineralna gnojiva, a po potrebi i folijarna. Po vrsti gnojidba može biti osnovna i dopunska (prihranjivanje). Osnovna gnojidba obavlja se u kasnu jesen i izvodi se stajskim i kompleksnim mineralnim gnojivima. Kupina je voćka koja za svoj razvoj i plodonošenje zahtjeva veliku količinu kalija, nešto manje dušika, a zadovoljava se manjom količinom fosfora. Najveće potrebe za kalijem kupina pokazuje u vremenskom intervalu od početka vegetacije pa do kraja sazrijevanja plodova, a za dušikom u prvoj polovici vegetacije kada je intezivan porast izdanaka i rodnih grančica. Vrste mineralnih gnojiva biraju se u velikoj mjeri ovisno o osobinama zemljišta, a posebno od njegove ph vrijednosti. Uporaba folijarnih gnojiva kod kupine je vrlo prikladna i korisna kako bi se u kratkom vremenskom razdoblju otklonili uočeni nedostaci. Folijarno gnojivo se najčešće primjenjuje zajedno sa sredstvima za zaštitu.</p>
         <h5>Preporuka za folijarnu prihranu malina i kupina</h5>
-        <a class="prihrana-link" href="/katalozi/2023-gnojidba-prihrana-zastita.pdf#page=54">Pročitaj</a>
+        <a class="prihrana-link" href="/proizvodi/katalozi/2023-gnojidba-prihrana-zastita.pdf#page=54">Pročitaj</a>
 <!--        <p>Od početka vegetacije do cvjetanja prihrana se može vršiti kroz sustav kap na kap ili folijarno.</p>-->
 <!--        <p>Prihrana kroz sustav kap na kap se vrši vodotopivim gnojivom Novalon 20-20-20+TE u količini 1-2gr/1L vode + Trazex, gnojivo sa visokom koncentracijom mikroelemenata, u količini 0,025 gr/1L vode.</p>-->
 <!--        <p>Folijarna prihrana obuhvaća primjenu Bioplexa - biostimulatora (0,5L/ha) i Tropicela koji je gnojivo za bolju cvatnju i oplodnju (1kg/ha).</p>-->
@@ -60,7 +60,7 @@
 
         <hr>
         <h2>Preporuka za folijarnu prihranu jagoda</h2>
-        <a class="prihrana-link" href="/katalozi/2023-gnojidba-prihrana-zastita.pdf#page=54">Pročitaj</a>
+        <a class="prihrana-link" href="/proizvodi/katalozi/2023-gnojidba-prihrana-zastita.pdf#page=54">Pročitaj</a>
         <p><img src="strucni-savjeti/bobicasto-voce/i-jag.jpg" alt=""></p>
         <p>Gnojidba predstavlja važan tehnološki zahvat u proizvodnji jagode, koji značajno utječe na visinu i kvalitetu prinosa. Ovisno o količini fosfora i kalija u tlu, potrebno je prilagoditi i gnojidbu jagode.</p>
         <p>Kod gnojidbe dušikom, koji je vrlo pokretan element u tlu, a kako jagoda ima plitko korijenje, mora se posvetiti posebna pažnja. Osim potrebe biljaka za dušikom, potrebno je voditi računa o pH vrijednosti tla, mehaničkom sastavu tla i obliku primjenjenog dušika. Kod primjene dušika u obliku nitrata ukupnu dozu gnojidbe potrebno je podijeliti na veći broj tretmana, zbog vrlo lakog ispiranja iz tla, lakšeg mehaničkog sastava. Kod primjene dušičnih gnojiva, najmanje 50% od ukupne količine treba biti u nitratnom obliku.</p>
@@ -90,7 +90,7 @@
 
         <hr>
         <h2>Preporuka za folijarnu prihranu borovnice</h2>
-        <a class="prihrana-link" href="/katalozi/2023-gnojidba-prihrana-zastita.pdf#page=55">Pročitaj</a>
+        <a class="prihrana-link" href="/proizvodi/katalozi/2023-gnojidba-prihrana-zastita.pdf#page=55">Pročitaj</a>
     </div>
     <div class="container-large">
 <!--        <Table>-->
