@@ -3,18 +3,20 @@
 </script>
 
 <style>
-    .savjeti {
-        text-align: center;
-        padding: var(--space-large) var(--space-medium);
-        background-image: url('../../home-savjeti/savjeti.png');
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-position: center;
-        border-bottom: 1px solid var(--border);
-        color: white;
-    }
-    .savjeti-image {}
-    .savjeti-descirption {}
+  .savjeti {
+    text-align: center;
+    padding: var(--space-large) var(--space-medium);
+    background-image: url('../../home-savjeti/savjeti.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-bottom: 1px solid var(--border);
+    color: white;
+  }
+  .savjeti-image {
+  }
+  .savjeti-descirption {
+  }
 </style>
 
 <section class="savjeti">
