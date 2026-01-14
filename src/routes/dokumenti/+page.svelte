@@ -29,7 +29,7 @@
         <figcaption><b>Katalozi</b></figcaption>
         <ul>
           <li><a  target="_blank" href="/proizvodi/katalozi/Gnojidba,prihrana,zaštita-2025.pdf">Gnojidba, prihrana, zaštita - 2025</a></li>
-          <li><a  target="_blank" href="/proizvodi/katalozi/katalog-zastita-bilja-2025.pdf">Zaštita bilja - 2025</a></li>
+          <li><a  target="_blank" href="/proizvodi/katalozi/zastita-bilja-2026.pdf">Zaštita bilja - 2026</a></li>
           <li><a  target="_blank" href="/proizvodi/katalozi/sjeme-povrca-2026.pdf">Sjeme povrća - 2026</a></li>
         </ul>
       </figure>
