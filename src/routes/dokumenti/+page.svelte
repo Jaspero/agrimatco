@@ -28,7 +28,7 @@
       <figure class="col-6 col-s-12">
         <figcaption><b>Katalozi</b></figcaption>
         <ul>
-          <li><a  target="_blank" href="/proizvodi/katalozi/prihrana-gnojidba-2026">Gnojidba, prihrana, zaštita - 2026</a></li>
+          <li><a  target="_blank" href="/proizvodi/katalozi/prihrana-gnojidba-2026.pdf">Gnojidba, prihrana, zaštita - 2026</a></li>
           <li><a  target="_blank" href="/proizvodi/katalozi/zastita-bilja-2026.pdf">Zaštita bilja - 2026</a></li>
           <li><a  target="_blank" href="/proizvodi/katalozi/sjeme-povrca-2026.pdf">Sjeme povrća - 2026</a></li>
         </ul>
