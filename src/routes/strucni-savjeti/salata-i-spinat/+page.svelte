@@ -6,21 +6,21 @@
     <title>Agrimatco | Stručni savjeti | Salata i špinat</title>
 </svelte:head>
 
-<img src="strucni-savjeti/salata-i-spinat/i.jpg" alt="">
+<img src="/strucni-savjeti/salata-i-spinat/i.jpg" alt="" width="1920" height="500">
 
 <section class="section">
     <div class="container">
-        <nav><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Salata i špinat</small></nav>
+        <nav aria-label="Putanja"><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Salata i špinat</small></nav>
         <h1>Prihrana zelene salate i špinata</h1>
         <a class="prihrana-link" href="/proizvodi/katalozi/2023-sjeme-povrca.pdf#page=23">Pročitaj</a>
 
         <p>Zelena salata je povrtna kutlura koja se u Hrvatskoj uzgaja gotovo tijekom cijele godine. Salata ima skromne potrebe za toplinom i svjetlošću, što je čini idealnom za uzgoj u staklenicima i plastenicima tijekom jeseni, zime i ranog proljeća.  Obično se sadi nakon kultura duge vegetacije kao što su krastavac, rajčica, paprika. Zbog kratkog uzgojnog ciklusa, osnovna gnojidba salate je jednostavniji tehnološki zahvat, te se provodi kao osnovna gnojidba prije sadnje te dvije prihrane tijekom rasta i razvoja glavica.</p>
-        <p><img src="strucni-savjeti/salata-i-spinat/i3.jpg" alt=""></p>
+        <p><img src="/strucni-savjeti/salata-i-spinat/i3.jpg" alt="" width="720" height="405" loading="lazy" decoding="async"></p>
         <p>Za uspješno gajenje špinata neophodna su veoma plodna, srednje teška zemljišta, lako propustljiva i dobre strukture. Špinat ne podnosi kisela zemljišta, već ona bogata kalcijumom. Najpogodnije zemljište je sa pH 6,5-7.</p>
-        <p><img src="strucni-savjeti/salata-i-spinat/i4.jpg" alt=""></p>
+        <p><img src="/strucni-savjeti/salata-i-spinat/i4.jpg" alt="Salata. Iznošenje hraniva u toku vegetacije: N 73 kg/ha, P 29 kg/ha, K 126 kg/ha. 10 tona prinosa iz zemljišta iznese: N 30 kg, P 15 kg, K 75 kg." width="641" height="550" loading="lazy" decoding="async"></p>
         <p>Prije presadjivanja presadnica u tlo unijeti organski regulator tla H-85. H-85 se primjenjuje u dozi do 10 kg/ha direktno na tlo. Također se može napraviti otopina u omjeru 2-4g /1L vode. Presadnice se umoče u otopinu kraće vrijeme prijepresađivanja. H-85 poboljšava zdravlje i vigor mladih biljčica.</p>
 
-        <p><img src="strucni-savjeti/salata-i-spinat/i2.jpeg" alt=""></p>
+        <p><img src="/strucni-savjeti/salata-i-spinat/i2.jpeg" alt="" width="770" height="400" loading="lazy" decoding="async"></p>
 
 <!--        <figure>-->
 <!--            <figcaption><b>1. faza</b></figcaption>-->
@@ -58,7 +58,7 @@
 
         <p>U svim fenofazama preporuča se BIOPLEX kroz sustav kap na kap 0,5-1L/ha. Biostimulator koji sadrži fitohormone i L-aminokiseline za jačanje biljnih funkcija u nepovoljnim uvjetima (hladnoća, zastoj u rastu ...).</p>
 
-        <p><img src="strucni-savjeti/salata-i-spinat/i1.jpg" alt=""></p>
+        <p><img src="/strucni-savjeti/salata-i-spinat/i1.jpg" alt="" width="720" height="1280" loading="lazy" decoding="async"></p>
 
         <p>Optimalna količina hranjivih elemenata u listu salate u plasteničkom uzgoju (Kay i Hill, 1998):</p>
 
@@ -86,10 +86,10 @@
         <hr>
 
         <h4>Fenofaze</h4>
-        <p><img src="strucni-savjeti/salata-i-spinat/i-fen.png" alt=""></p>
+        <p><img src="/strucni-savjeti/salata-i-spinat/i-fen.png" alt="Crtež razvojnih faza (fenofaza) salate: od presadnice do formirane glavice." width="580" height="205" loading="lazy" decoding="async"></p>
 
         <hr>
         <h4>Nedostatci</h4>
-        <p><img src="strucni-savjeti/salata-i-spinat/i-ned.png" alt=""></p>
+        <p><img src="/strucni-savjeti/salata-i-spinat/i-ned.png" alt="Fotografije simptoma nedostatka hranjiva na salati: nedostatak fosfora, kalcija i kalija." width="580" height="553" loading="lazy" decoding="async"></p>
     </div>
 </section>

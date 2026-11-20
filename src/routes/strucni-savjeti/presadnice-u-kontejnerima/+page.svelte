@@ -2,16 +2,16 @@
     <title>Agrimatco | Stručni savjeti | Presadnice u kontejnerima</title>
 </svelte:head>
 
-<img src="strucni-savjeti/presadnice-u-kontejnerima/i.jpg" alt="">
+<img src="/strucni-savjeti/presadnice-u-kontejnerima/i.jpg" alt="" width="1920" height="500">
 
 <section class="section">
     <div class="container">
-        <nav><small><a  href="/strucni-savjeti">Stručni savjeti</a>Presadnice u kontejnerima</small></nav>
+        <nav aria-label="Putanja"><small><a  href="/strucni-savjeti">Stručni savjeti</a>Presadnice u kontejnerima</small></nav>
         <h1>Presadnice u kontejnerima</h1>
 
         <p>Vrlo važan tehnološki postupak u povrtlarskoj proizvodnji je proizvodnja presadnica.</p>
         <p>Proizvodnja  povrća  iz  presadnica  je  sigurnija,  zbog  kraćih  rokova plodonošenja i berbe. Presadnice za ranu proizvodnju se uzgajaju u zaštićenim grijanim prostorima (plastenici, staklenici, klijališta).</p>
-        <p><img src="strucni-savjeti/presadnice-u-kontejnerima/i1.jpg" alt=""></p>
+        <p><img src="/strucni-savjeti/presadnice-u-kontejnerima/i1.jpg" alt="" width="600" height="338" loading="lazy" decoding="async"></p>
         <figure>
             <figcaption>U proizvodnji presadnica važno je sljedeće:</figcaption>
             <ul>
@@ -38,7 +38,7 @@
         <p><b>Preporuke Agrimatco za uzgoj hibrida povrća su orjentacionog karaktera te nisu obavezne. Prikupljene su kroz niz godina od vodećih povrtlara te Agrimatco ne snosi odgovornost kod različitih rezultata uzgoja pošto su sve prikazane vrste povrća uzgajane u idealnim uvjetima. Preko 80 godina uspješnog poslovanja Agrimatco je sigurnost proizvođača na dobar odabir!</b></p>
 
         <hr>
-        <p><img src="strucni-savjeti/presadnice-u-kontejnerima/i2.jpg" alt=""></p>
-        <p><img src="strucni-savjeti/presadnice-u-kontejnerima/i3.jpg" alt=""></p>
+        <p><img src="/strucni-savjeti/presadnice-u-kontejnerima/i2.jpg" alt="" width="600" height="1067" loading="lazy" decoding="async"></p>
+        <p><img src="/strucni-savjeti/presadnice-u-kontejnerima/i3.jpg" alt="" width="600" height="1067" loading="lazy" decoding="async"></p>
     </div>
 </section>

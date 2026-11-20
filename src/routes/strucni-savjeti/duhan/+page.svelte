@@ -2,15 +2,15 @@
   <title>Agrimatco | Stručni savjeti | Duhan</title>
 </svelte:head>
 
-<img src="strucni-savjeti/duhan/i.jpg" alt="" />
+<img src="/strucni-savjeti/duhan/i.jpg" alt="" width="1920" height="500" />
 
 <section class="section">
   <div class="container">
-    <nav><small><a href="/strucni-savjeti">Stručni savjeti</a> > Duhan</small></nav>
+    <nav aria-label="Putanja"><small><a href="/strucni-savjeti">Stručni savjeti</a> > Duhan</small></nav>
     <h1>Prihrana duhana</h1>
 
     <!--        <p>Najsigurniju, najtočniju i najracionalniju gnojidbu odredit ćemo ako obavimo analizu tla. Za izgradnju 100 kg suhe tvari duhanu treba osigurati: 3-3,5 kg N, 1,5-2,5 kg P2O5, 6-7 kg K2O. Za Virginia tip gnojidbom bi trebalo dodati 30-40 kg/ha N (NO3), 20-30 kg/ha P2O5 i 140-160 kg/ha K2O. Za Burley tip gnojidbom bi trebalo dodati 60-80 kg/ha N, 80-100 kg/ha P2O5 i 160-200 kg/ha K2O.</p>-->
-    <!--        <p><img src="strucni-savjeti/duhan/i1.jpg" alt=""></p>-->
+    <!--        <p><img src="/strucni-savjeti/duhan/i1.jpg" alt="" width="720" height="540" loading="lazy" decoding="async"></p>-->
 
     <!--        <h2>Preporučeni proizvodi:</h2>-->
     <!--        <figure>-->
@@ -23,7 +23,7 @@
     <!--        </figure>-->
 
     <!--        <p>Prilikom stresnih uslova suše, tuće...obavezno primjeniti Bioplex u dozi 0,4-0,6 l/ha.</p>-->
-    <!--        <p><img src="strucni-savjeti/duhan/i2.jpg" alt=""></p>-->
+    <!--        <p><img src="/strucni-savjeti/duhan/i2.jpg" alt="" width="720" height="540" loading="lazy" decoding="async"></p>-->
     <!--        <p>Duhan zahtjeva upotrebu gnojiva bez klora-Cl, što znači da osnovnu gnojidbu obavljamo proizvodima na bazi kalij sulfata. Bitno je naglasiti ulogu sumpora kod gnojidbe duhana. Sumpor ima pozitivno djelovanje na kvalitativna svojstva kod duhana. On oslobađa blokirani fosfor i mikroelemente u tlu koje biljka lakše usvaja. Također, sumpor je bitan jer pomaže izgradnji suhe tvari što pridonosi boljoj kvaliteti i boji lista duhana a može imati i sporedno fungicidno djelovanje i tako smanjiti zarazne bolesti duhana.</p>-->
 
     <!--        <hr>-->
@@ -31,10 +31,10 @@
 
     <!--        <hr>-->
     <!--        <h2>Fenofaze</h2>-->
-    <!--        <p><img src="strucni-savjeti/duhan/i-fen.jpg" alt=""></p>-->
+    <!--        <p><img src="/strucni-savjeti/duhan/i-fen.jpg" alt="Crtež razvojnih faza (fenofaza) duhana: od presadnice do cvatnje." width="580" height="506" loading="lazy" decoding="async"></p>-->
 
     <!--        <hr>-->
     <!--        <h2>Nedostatci</h2>-->
-    <!--        <p><img src="strucni-savjeti/duhan/i-ned.jpg" alt=""></p>-->
+    <!--        <p><img src="/strucni-savjeti/duhan/i-ned.jpg" alt="Fotografije simptoma nedostatka hranjiva na duhanu: nedostatak bora, kalija, dušika, kalcija, magnezija i sumpora." width="580" height="810" loading="lazy" decoding="async"></p>-->
   </div>
 </section>

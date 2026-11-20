@@ -2,17 +2,17 @@
     <title>Agrimatco | Stručni savjeti | Paprika</title>
 </svelte:head>
 
-<img src="strucni-savjeti/paprika/i.jpg" alt="">
+<img src="/strucni-savjeti/paprika/i.jpg" alt="" width="1920" height="500">
 
 <section class="section">
     <div class="container">
-        <nav><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Paprika</small></nav>
+        <nav aria-label="Putanja"><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Paprika</small></nav>
 
         <h1>Prihrana paprike</h1>
         <p>Jedan od razloga za folijarnu prihranu povrća je stoga što period intenzivnog rasta i razvoja odnosno plodonošenja pada u vrijeme sušnijeg perioda godine kada je smanjeno usvajanje hranjiva iz tla, stoga je preporučljiva lisna prihrana kojima se ublažava nedostatak mikroelemenata za koje većina povrća ima dosta visoke zahtjeve (Ca, Mg,  Zn).</p>
         <p>Pri uzgoju paprike često se javlja problem uzrokovan nedostatkom kalcija, stoga se kalciju pridaje maksimalna važnost pri uzgoju paprike. Uslijed nedostatka kalcija stanice na vrhu ploda počinju odumirati zbog nemogućnosti dotoka kalcija u plod što se očituje kao suha trulež vrha ploda, na to odumrlo tkivo kasnije se nasele saprofiti, i ti simptomi nedostatka Ca ne smiju se zamijeniti sa opržotinama od sunca koje su bijele.</p>
         <p>Prije presadjivanja presadnica u tlo unijeti organski regulator tla H-85. H-85 se primjenjuje u dozi do 10 kg/ha direktno na tlo. Također se može napraviti otopina u omjeru 2-4g /1L vode. Presadnice se umoče u otopinu kraće vrijeme prijepresađivanja. H-85 poboljšava zdravlje i vigor mladih biljčica.</p>
-        <img src="strucni-savjeti/paprika/i1.jpg" alt="">
+        <img src="/strucni-savjeti/paprika/i1.jpg" alt="" width="640" height="250" loading="lazy" decoding="async">
 
         <h2>Prihrana paprike:</h2>
         <a class="prihrana-link" href="/proizvodi/katalozi/2023-sjeme-povrca.pdf#page=75">Pročitaj</a>
@@ -83,10 +83,10 @@
 
         <hr>
         <h4>Fenofaze</h4>
-        <img src="strucni-savjeti/paprika/i-fen.png" alt="">
+        <img src="/strucni-savjeti/paprika/i-fen.png" alt="Crtež razvojnih faza (fenofaza) paprike: od presadnice do biljke s plodovima." width="580" height="261" loading="lazy" decoding="async">
 
         <hr>
         <h4>Nedostatci</h4>
-        <img src="strucni-savjeti/paprika/i-ned.jpg" alt="">
+        <img src="/strucni-savjeti/paprika/i-ned.jpg" alt="Fotografije simptoma nedostatka hranjiva na paprici: nedostatak bora, dušika, magnezija, kalcija i željeza." width="580" height="810" loading="lazy" decoding="async">
     </div>
 </section>

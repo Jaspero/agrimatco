@@ -20,7 +20,7 @@
   }
   .table :global(th) {
     color: white;
-    background: linear-gradient(#005427, #00a94f);
+    background: linear-gradient(#005427, #008847);
   }
   .table :global(td) {
     background: #eee;

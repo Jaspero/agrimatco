@@ -8,7 +8,7 @@
 
 <section class="section">
     <div class="container">
-        <nav><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Potrebe biljaka za mikroelementima</small></nav>
+        <nav aria-label="Putanja"><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Potrebe biljaka za mikroelementima</small></nav>
         <h1>Potrebe biljaka za mikroelementima</h1>
         <Table>
             <tr>

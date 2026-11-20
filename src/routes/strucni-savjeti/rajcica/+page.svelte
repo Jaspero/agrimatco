@@ -2,11 +2,11 @@
     <title>Agrimatco | Stručni savjeti | Rajčica</title>
 </svelte:head>
 
-<img src="strucni-savjeti/rajcica/i.jpg" alt="">
+<img src="/strucni-savjeti/rajcica/i.jpg" alt="" width="1920" height="500">
 
 <section class="section">
     <div class="container">
-        <nav><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Rajčica</small></nav>
+        <nav aria-label="Putanja"><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Rajčica</small></nav>
         <h1>Prihrana rajčice</h1>
         <a class="prihrana-link" href="/proizvodi/katalozi/2023-sjeme-povrca.pdf#page=66">Pročitaj</a>
 
@@ -14,7 +14,7 @@
         <p>Kod uzgoja u zaštićenom prostoru ima nekoliko mogućnosti prihrana, ali svaka se bazira na osnovu analize tla i preporuci stručnjaka. Najčešća prihrana je kroz sustav kap na kap.</p>
         <p>Tlo za uzgoj rajčice mora biti rahlo, dobre strukture, plodno, neutralno ili slabo kisele reakcije pH 6,0-6,5. Treba izbjegavati tla koja sadržavaju puno gline jer u tim uvjetima ne može se dobro razvijati korijenov sistem. Isto tako je važno da tlo na kojem se uzgaja rajčica ne smije imati visoki nivo podzemnih voda.</p>
 <!--        <p>Prije presadjivanja presadnica u tlo unijeti organski regulator tla H-85. H-85 se primjenjuje u dozi do 10 kg/ha direktno na tlo. Također se može napraviti otopina u omjeru 2-4g /1L vode. Presadnice se umoče u otopinu kraće vrijeme prijepresađivanja. H-85 poboljšava zdravlje i vigor mladih biljčica.</p>-->
-        <p><img src="strucni-savjeti/rajcica/i1.jpg" alt=""></p>
+        <p><img src="/strucni-savjeti/rajcica/i1.jpg" alt="Rajčica. Dnevno iznošenje hraniva: kalij (K) 9,4 kg/ha, dušik (N) 4,8 kg/ha, fosfor (P) 1,5 kg/ha. Iznošenje hraniva u toku vegetacije: dušik (N) 362 kg/ha, fosfor (P) 34,76 kg/ha, kalij (K) 607,49 kg/ha, natrij (Na) 8,406 kg/ha, magnezij (Mg) 88,54 kg/ha, kalcij (Ca) 340,73 kg/ha, mangan (Mn) 1,053 kg/ha." width="798" height="616" loading="lazy" decoding="async"></p>
 
 <!--        <figure>-->
 <!--            <figcaption><b>1. faza</b></figcaption>-->
@@ -92,10 +92,10 @@
         <hr>
 
         <h2>Fenofaze</h2>
-        <p><img src="strucni-savjeti/rajcica/i-fen.png" alt=""></p>
+        <p><img src="/strucni-savjeti/rajcica/i-fen.png" alt="Crtež razvojnih faza (fenofaza) rajčice: od presadnice do biljke sa zrelim plodovima." width="580" height="238" loading="lazy" decoding="async"></p>
 
         <hr>
         <h2>Nedostatci</h2>
-        <p><img src="strucni-savjeti/rajcica/i-ned.png" alt=""></p>
+        <p><img src="/strucni-savjeti/rajcica/i-ned.png" alt="Fotografije simptoma nedostatka hranjiva na rajčici: nedostatak fosfora, kalcija, kalija i magnezija." width="580" height="1089" loading="lazy" decoding="async"></p>
     </div>
 </section>

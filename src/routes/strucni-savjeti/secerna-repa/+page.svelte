@@ -2,11 +2,11 @@
     <title>Agrimatco | Stručni savjeti | Šećerna repa</title>
 </svelte:head>
 
-<img src="strucni-savjeti/secerna-repa/i.jpg" alt="">
+<img src="/strucni-savjeti/secerna-repa/i.jpg" alt="" width="1920" height="500">
 
 <section class="section">
     <div class="container">
-        <nav><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Šećerna repa</small></nav>
+        <nav aria-label="Putanja"><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Šećerna repa</small></nav>
         <h1>Folijarna prihrana šećerne repe</h1>
         <a class="prihrana-link" href="/proizvodi/katalozi/2023-gnojidba-prihrana-zastita.pdf#page=50">Pročitaj</a>
 
@@ -69,10 +69,10 @@
 
         <hr>
         <h2>Fenofaze</h2>
-        <p><img src="strucni-savjeti/secerna-repa/i-fen.jpg" alt=""></p>
+        <p><img src="/strucni-savjeti/secerna-repa/i-fen.jpg" alt="Crtež razvojnih faza (fenofaza) šećerne repe: od klijanja sjemena do razvijenog korijena." width="580" height="295" loading="lazy" decoding="async"></p>
 
         <hr>
         <h2>Nedostatci</h2>
-        <p><img src="strucni-savjeti/secerna-repa/i-ned.png" alt=""></p>
+        <p><img src="/strucni-savjeti/secerna-repa/i-ned.png" alt="Fotografije simptoma nedostatka hranjiva na šećernoj repi: nedostatak bora, mangana, magnezija i molibdena." width="580" height="552" loading="lazy" decoding="async"></p>
     </div>
 </section>

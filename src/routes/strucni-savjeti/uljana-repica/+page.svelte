@@ -2,17 +2,17 @@
     <title>Agrimatco | Stručni savjeti | Uljana repica</title>
 </svelte:head>
 
-<img src="strucni-savjeti/uljana-repica/i.jpg" alt="">
+<img src="/strucni-savjeti/uljana-repica/i.jpg" alt="" width="1920" height="500">
 
 <section class="section">
     <div class="container">
-        <nav><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Uljana repica</small></nav>
+        <nav aria-label="Putanja"><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Uljana repica</small></nav>
         <h1>Folijarna prihrana uljane repice</h1>
         <a class="prihrana-link" href="/proizvodi/katalozi/2023-gnojidba-prihrana-zastita.pdf#page=50">Pročitaj</a>
 
         <p>Uljana repica je jedna od značajnih uljarica čije su potrebe za hranjivima najveće u razdoblju od početnog proljetnog porasta do početka cvatnje i biljka do te faze razvoja treba biti opskrbljena optimalnim količinama hranjiva kako bi se bolje granala te formirala veći broj mahuna.</p>
         <p>Optimalna gnojidba uljane repice osnovni je preduvjet za postizanje visokih i stabilnih prinosa. Ukupne količine dušika primijenjene u jesen ne bi trebale biti veće od 50 do 60 kg/ha. Veći dio dušika KAN (27%N) primjenjuje se u dvije prihrane, neposredo prije kretanja vegetacije u proljeće i prihrana nakon 20-25 dana.</p>
-        <p><img src="strucni-savjeti/uljana-repica/i1.jpg" alt=""></p>
+        <p><img src="/strucni-savjeti/uljana-repica/i1.jpg" alt="" width="720" height="205" loading="lazy" decoding="async"></p>
 
 
 <!--        <figure>-->
@@ -61,9 +61,9 @@
 
         <hr>
         <h2>Fenofaze</h2>
-        <p><img src="strucni-savjeti/uljana-repica/i-fen.png" alt=""></p>
+        <p><img src="/strucni-savjeti/uljana-repica/i-fen.png" alt="Crtež razvojnih faza (fenofaza) uljane repice: od nicanja preko cvatnje do zriobe." width="580" height="290" loading="lazy" decoding="async"></p>
 
         <h2>Nedostatci</h2>
-        <p><img src="strucni-savjeti/uljana-repica/i-ned.png" alt=""></p>
+        <p><img src="/strucni-savjeti/uljana-repica/i-ned.png" alt="Fotografije simptoma nedostatka hranjiva na uljanoj repici: nedostatak fosfora i sumpora (biljke sa sumpornim gnojivom i bez njega)." width="580" height="816" loading="lazy" decoding="async"></p>
     </div>
 </section>

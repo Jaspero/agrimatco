@@ -4,7 +4,7 @@
 
 <section class="section">
   <div class="container">
-    <nav>
+    <nav aria-label="Putanja">
       <small
         ><a href="/proizvodi">Proizvodi</a> >
         <a href="/proizvodi/ljepljive-ploce-i-role">Ljepljive ploče i role</a> > Ljepljiva rola za insekte
@@ -47,6 +47,6 @@
     <p>Sredstvo ne spada u grupu otrova, te za njega nema karence.</p>
     <p>Zemlja porijekla: Turska</p>
     <hr />
-    <img src="proizvodi/ljepljive-ploce-i-role/rola-crna-30x100-large.jpg" alt="" />
+    <img src="/proizvodi/ljepljive-ploce-i-role/rola-crna-30x100-large.jpg" alt="Crna ljepljiva rola razvučena iznad redova biljaka u plasteniku." width="1000" height="750" />
   </div>
 </section>

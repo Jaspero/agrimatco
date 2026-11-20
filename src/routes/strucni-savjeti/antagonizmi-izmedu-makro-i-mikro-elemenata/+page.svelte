@@ -8,7 +8,7 @@
 
 <section class="section">
     <div class="container">
-        <nav><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Antagonizmi između makro i mikro elemenata</small></nav>
+        <nav aria-label="Putanja"><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Antagonizmi između makro i mikro elemenata</small></nav>
         <h1>Antagonizmi između makro i mikro elemenata</h1>
 
         <Table>

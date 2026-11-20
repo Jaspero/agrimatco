@@ -2,11 +2,11 @@
   <title>Agrimatco | Stručni savjeti | Lucerna</title>
 </svelte:head>
 
-<img src="strucni-savjeti/lucerna/i.jpg" alt="" />
+<img src="/strucni-savjeti/lucerna/i.jpg" alt="" width="1920" height="500" />
 
 <section class="section">
   <div class="container">
-    <nav><small><a href="/strucni-savjeti">Stručni savjeti</a> > Lucerna</small></nav>
+    <nav aria-label="Putanja"><small><a href="/strucni-savjeti">Stručni savjeti</a> > Lucerna</small></nav>
     <h1>Folijarna prihrana lucerne</h1>
 
     <p>
@@ -19,7 +19,7 @@
       lucerna uglavnom ukorjenjuje (Rootex), kada je prinos sijena mali te drugi stadij koji se
       odigrava u ostalim godinama, a prinos sijena je daleko veći negoli u prvoj godini.
     </p>
-    <p><img src="strucni-savjeti/lucerna/i1.jpg" alt="" /></p>
+    <p><img src="/strucni-savjeti/lucerna/i1.jpg" alt="" width="640" height="399" loading="lazy" decoding="async" /></p>
 
     <h2>Folijarna prihrana lucerne</h2>
     <p>
@@ -37,7 +37,7 @@
       Nakon prvog otkosa, 10 cm visine lucerne, koristiti bioplex u količini 0,6 L/ha na 200-300L
       vode/ha.
     </p>
-    <p><img src="strucni-savjeti/lucerna/i2.jpg" alt="" /></p>
+    <p><img src="/strucni-savjeti/lucerna/i2.jpg" alt="" width="1000" height="300" loading="lazy" decoding="async" /></p>
     <p>
       Nakon drugog otkosa, 10 cm visine lucerne, koristiti bioplex u količini 0,6 L/ha na 200-300L
       vode/ha.
@@ -47,7 +47,7 @@
       Bioplexa 0,6 L/ha na 200-300L vode/ha. Bioplex pospješuje kondiciju usjeva, otpornost na sušu,
       bolje ukorijenjavanje i preživljavanje.
     </p>
-    <p><img src="strucni-savjeti/lucerna/i3.jpg" alt="" /></p>
+    <p><img src="/strucni-savjeti/lucerna/i3.jpg" alt="" width="720" height="540" loading="lazy" decoding="async" /></p>
 
     <hr />
     <p>
@@ -62,10 +62,10 @@
 
     <hr />
     <h4>Fenofaze</h4>
-    <p><img src="strucni-savjeti/lucerna/i-fen.jpg" alt="" /></p>
+    <p><img src="/strucni-savjeti/lucerna/i-fen.jpg" alt="Crtež razvojnih faza (fenofaza) lucerne: od nicanja do cvatnje." width="580" height="424" loading="lazy" decoding="async" /></p>
 
     <hr />
     <h4>Nedostatci</h4>
-    <p><img src="strucni-savjeti/lucerna/i-ned.png" alt="" /></p>
+    <p><img src="/strucni-savjeti/lucerna/i-ned.png" alt="Fotografije simptoma nedostatka hranjiva na lucerni: nedostatak sumpora, molibdena, bora, kalcija, fosfora i kalija." width="580" height="817" loading="lazy" decoding="async" /></p>
   </div>
 </section>

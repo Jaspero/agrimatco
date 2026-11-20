@@ -2,22 +2,22 @@
     <title>Agrimatco | Stručni savjeti | Lubenice i dinje</title>
 </svelte:head>
 
-<img src="strucni-savjeti/lubenice-i-dinje/i.jpg" alt="">
+<img src="/strucni-savjeti/lubenice-i-dinje/i.jpg" alt="" width="1920" height="500">
 
 <section class="section">
     <div class="container">
-        <nav><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Lubenice i dinje</small></nav>
+        <nav aria-label="Putanja"><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Lubenice i dinje</small></nav>
         <h1>Prihrana lubenica i dinja</h1>
 
         <p>Lubenica i dinja, osim što traže puno topline, zahtijevaju i lagano te dobro gnojeno tlo koje je tijekom jeseni duboko obrađeno.</p>
         <p>Uz obradu tla trebamo izvršiti i gnojidbu stajskim i mineralnim gnojivom.</p>
-        <p><img src="strucni-savjeti/lubenice-i-dinje/i1.jpg" alt="" style="width: 100%;"></p>
-        <p><img src="strucni-savjeti/lubenice-i-dinje/i2.jpg" alt=""></p>
+        <p><img src="/strucni-savjeti/lubenice-i-dinje/i1.jpg" alt="" style="width: 100%;" width="600" height="310" loading="lazy" decoding="async"></p>
+        <p><img src="/strucni-savjeti/lubenice-i-dinje/i2.jpg" alt="" width="1280" height="960" loading="lazy" decoding="async"></p>
         <p>Primjenom mineralnih vodotopivih gnojiva biljci osiguravamo stalnu opskrbu pristupačnim biljnim hranjivima, što se u velikoj mjeri odražava na povećanje prinosa.</p>
 
         <h2>Prihrana lubenica i dinja</h2>
         <a class="prihrana-link" href="/proizvodi/katalozi/2023-sjeme-povrca.pdf#page=54">Pročitaj</a>
-        <p><img src="strucni-savjeti/lubenice-i-dinje/i3.jpg" alt=""></p>
+        <p><img src="/strucni-savjeti/lubenice-i-dinje/i3.jpg" alt="" width="800" height="455" loading="lazy" decoding="async"></p>
 
 <!--        <figure>-->
 <!--            <figcaption><b>1. faza</b></figcaption>-->
@@ -99,11 +99,11 @@
 
         <hr>
         <h2>Fenofaze</h2>
-        <p><img src="strucni-savjeti/lubenice-i-dinje/i-lub-fen.png" alt=""></p>
-        <p><img src="strucni-savjeti/lubenice-i-dinje/i-dinj-fen.png" alt=""></p>
+        <p><img src="/strucni-savjeti/lubenice-i-dinje/i-lub-fen.png" alt="Crtež razvojnih faza (fenofaza) lubenice: od presadnice do zrelog ploda." width="580" height="215" loading="lazy" decoding="async"></p>
+        <p><img src="/strucni-savjeti/lubenice-i-dinje/i-dinj-fen.png" alt="Crtež razvojnih faza (fenofaza) dinje: od presadnice do zrelog ploda." width="580" height="190" loading="lazy" decoding="async"></p>
 
         <hr>
         <h2>Nedostatci</h2>
-        <p><img src="strucni-savjeti/lubenice-i-dinje/i-lub-ned.png" alt=""></p>
+        <p><img src="/strucni-savjeti/lubenice-i-dinje/i-lub-ned.png" alt="Fotografije simptoma nedostatka hranjiva na lubenici i dinji: nedostatak bora, nedostatak dušika na dinji, nedostatak kalija (plodovi s kalijem i bez njega), nedostatak magnezija i mangana na dinji." width="580" height="553" loading="lazy" decoding="async"></p>
     </div>
 </section>

@@ -5,15 +5,23 @@
 
   $: pathname = $page.url.pathname;
   $: segment = pathname.split('/').filter(Boolean)[0];
+
+  /** Mobile menu: close it when keyboard focus moves out of it (except to the MENU button), so focus never sits behind the overlay. */
+  function handleFocusOut(e) {
+    if (!menu) return;
+    const to = e.relatedTarget;
+    if (to && !e.currentTarget.contains(to) && to.id !== 'menu-button') menuFalse();
+  }
 </script>
 
-<nav class="navigation" class:active={menu}>
+<nav id="glavna-navigacija" class="navigation" class:active={menu} aria-label="Glavna navigacija" on:focusout={handleFocusOut}>
   <div class="navigation-container">
     <a
       class="navigation-item"
       data-sveltekit-preload-data="hover"
       on:click={menuFalse}
       class:active={pathname === '/'}
+      aria-current={pathname === '/' ? 'page' : undefined}
       href="/">Početna</a
     >
     <a
@@ -21,6 +29,7 @@
       data-sveltekit-preload-data="hover"
       on:click={menuFalse}
       class:active={segment === 'proizvodi'}
+      aria-current={segment === 'proizvodi' ? (pathname === '/proizvodi' ? 'page' : 'true') : undefined}
       href="/proizvodi">Proizvodi</a
     >
     <a
@@ -28,6 +37,7 @@
       data-sveltekit-preload-data="hover"
       on:click={menuFalse}
       class:active={segment === 'strucni-savjeti'}
+      aria-current={segment === 'strucni-savjeti' ? (pathname === '/strucni-savjeti' ? 'page' : 'true') : undefined}
       href="/strucni-savjeti">Stručni savjeti</a
     >
     <a
@@ -35,6 +45,7 @@
       data-sveltekit-preload-data="hover"
       on:click={menuFalse}
       class:active={segment === 'o-nama'}
+      aria-current={segment === 'o-nama' ? (pathname === '/o-nama' ? 'page' : 'true') : undefined}
       href="/o-nama">O nama</a
     >
     <a
@@ -42,6 +53,7 @@
       data-sveltekit-preload-data="hover"
       on:click={menuFalse}
       class:active={segment === 'nas-tim'}
+      aria-current={segment === 'nas-tim' ? (pathname === '/nas-tim' ? 'page' : 'true') : undefined}
       href="/nas-tim">Naš tim</a
     >
     <a
@@ -49,6 +61,7 @@
       data-sveltekit-preload-data="hover"
       on:click={menuFalse}
       class:active={segment === 'dokumenti'}
+      aria-current={segment === 'dokumenti' ? (pathname === '/dokumenti' ? 'page' : 'true') : undefined}
       href="/dokumenti">Dokumenti</a
     >
     <a
@@ -56,6 +69,7 @@
       data-sveltekit-preload-data="hover"
       on:click={menuFalse}
       class:active={segment === 'kontakt'}
+      aria-current={segment === 'kontakt' ? (pathname === '/kontakt' ? 'page' : 'true') : undefined}
       href="/kontakt">Kontakt</a
     >
     <a
@@ -63,6 +77,7 @@
       data-sveltekit-preload-data="hover"
       on:click={menuFalse}
       class:active={segment === 'trazi'}
+      aria-current={segment === 'trazi' ? (pathname === '/trazi' ? 'page' : 'true') : undefined}
       href="/trazi">Traži</a
     >
   </div>

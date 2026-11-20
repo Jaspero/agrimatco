@@ -4,7 +4,7 @@
 
 <section class="section">
   <div class="container">
-    <nav>
+    <nav aria-label="Putanja">
       <small
         ><a href="/strucni-savjeti">Stručni savjeti</a> > Simptomi deficita elemenata biljne ishrane
         na lišću</small
@@ -75,6 +75,6 @@
         </li>
       </ul>
     </figure>
-    <p><img src="strucni-savjeti/simptomi-deficita-elemenata/i.jpg" alt="" /></p>
+    <p><img src="/strucni-savjeti/simptomi-deficita-elemenata/i.jpg" alt="Slika 2. Opći izgled simptoma manjka biogenih elemenata na lišću voćki. Na starijem lišću pokazuju se simptomi manjka pokretnih elemenata koji se lako premještaju iz starijeg u mlado lišće: dušika (N), fosfora (P), kalija (K) i magnezija (Mg). Na mladom lišću pokazuju se simptomi manjka nepokretnih elemenata koji se uopće ne premještaju iz starijeg u mlado lišće, npr. kalcija (Ca) i bora (B). Na shemi grane označeni su još sumpor (S), mangan (Mn), cink (Zn), željezo (Fe), bakar (Cu) i molibden (Mo)." width="388" height="602" /></p>
   </div>
 </section>

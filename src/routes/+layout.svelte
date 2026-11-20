@@ -17,7 +17,16 @@
     menu = false;
     document.body.classList.remove('scroll-disabled');
   }
+  /** Esc closes the mobile menu and puts focus back on the MENU button. */
+  function handleKeydown(e) {
+    if (menu && e.key === 'Escape') {
+      menuFalse();
+      document.getElementById('menu-button')?.focus();
+    }
+  }
 </script>
+
+<svelte:window on:keydown={handleKeydown} />
 
 <svelte:head>
   <meta
@@ -26,11 +35,13 @@
   />
 </svelte:head>
 
+<a class="skip-link" href="#sadrzaj">Preskoči na sadržaj</a>
+
 <Header {menu} {menuToggle} />
 
 <Navigation {menu} {menuToggle} {menuFalse} />
 
-<main>
+<main id="sadrzaj" tabindex="-1">
   <slot></slot>
 </main>
 

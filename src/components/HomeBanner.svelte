@@ -1,5 +1,5 @@
 <section class="banner">
-  <img class="banner-image" src="agrimatco.svg" alt="Agrimatco" width="200" height="200" />
+  <img class="banner-image" src="/agrimatco.svg" alt="Agrimatco" width="200" height="200" />
   <h1 class="banner-headline">U službi poljoprivrede od 1936. godine</h1>
 </section>
 
@@ -8,7 +8,7 @@
     text-align: center;
     padding: var(--space-large) var(--space-medium);
     background-color: var(--background-primary);
-    background-image: url('../accent-left.svg'), url('../accent-right.svg');
+    background-image: url('/accent-left.svg'), url('/accent-right.svg');
     background-repeat: no-repeat;
     background-position:
       left center,

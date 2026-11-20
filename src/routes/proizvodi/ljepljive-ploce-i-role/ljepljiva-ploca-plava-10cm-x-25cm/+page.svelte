@@ -4,7 +4,7 @@
 
 <section class="section">
   <div class="container">
-    <nav>
+    <nav aria-label="Putanja">
       <small
         ><a href="/proizvodi">Proizvodi</a> >
         <a href="/proizvodi/ljepljive-ploce-i-role">Ljepljive ploče i role</a> > Ljepljiva ploča za insekte
@@ -38,6 +38,6 @@
     <p>Sredstvo ne spada u grupu otrova, te za njega nema karence.</p>
     <p>Zemlja porijekla: Turska</p>
     <hr />
-    <img src="proizvodi/ljepljive-ploce-i-role/ploca-plava-10x25-large.jpg" alt="" />
+    <img src="/proizvodi/ljepljive-ploce-i-role/ploca-plava-10x25-large.jpg" alt="Plava ljepljiva ploča obješena iznad mladih biljaka u plasteniku." width="1000" height="750" />
   </div>
 </section>

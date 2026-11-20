@@ -2,17 +2,17 @@
     <title>Agrimatco | Stručni savjeti | Vinova loza</title>
 </svelte:head>
 
-<img src="strucni-savjeti/vinova-loza/i.jpg" alt="">
+<img src="/strucni-savjeti/vinova-loza/i.jpg" alt="" width="1920" height="500">
 
 <section class="section">
     <div class="container">
-        <nav><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Vinova loza</small></nav>
+        <nav aria-label="Putanja"><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Vinova loza</small></nav>
         <h1>Folijarna prihrana vinove loze</h1>
         <a class="prihrana-link" href="/proizvodi/katalozi/2023-gnojidba-prihrana-zastita.pdf#page=56">Pročitaj</a>
 
         <p>S obzirom na to da se svake godine iz tla odnose značajne količine dušika, fosfora, kalija, kalcija i ostalih hranjiva, potrebno ih je gnojidbom nadoknaditi. Unošenjem hranjiva preko tla ili preko lista (folijarno), osiguravamo vinovoj lozi brz rast i razvoj, održavamo ravnotežu, opseg i kvalitetu uroda, te općenito utječemo na zdravstveno stanje vinove loze.</p>
         <p>Količina hranjivih tvari koje se godišnje iznesu iz tla u vinogradu, ovisi o urodu, načinu obrade, vrsti tla i nagibu terena. Da bismo to utvrdili potrebno je obaviti  fizikalnu i kemijsku analizu tla.</p>
-        <p><img src="strucni-savjeti/vinova-loza/i6.jpg" alt=""></p>
+        <p><img src="/strucni-savjeti/vinova-loza/i6.jpg" alt="" width="720" height="450" loading="lazy" decoding="async"></p>
 
         <h2>Prednosti prihrane putem lista</h2>
         <p>Analizom listova vinove loze utvrđeno je da sadržaj hranjivih tvari nije statičan te da se mijenja prema fazama vegetacije vinove loze. Najveću količinu hranjivih tvari vinova loza sadrži na samom početku vegetacije, a tijekom vegetacije njihova se količina postupno smanjuje.</p>
@@ -58,11 +58,11 @@
         <figure>
             <figcaption><b>5. faza – formiranje bobica</b></figcaption>
 <!--            <ul>-->
-<!--                <li><img src="strucni-savjeti/vinova-loza/i2.jpg" alt=""></li>-->
+<!--                <li><img src="/strucni-savjeti/vinova-loza/i2.jpg" alt="" width="440" height="295" loading="lazy" decoding="async"></li>-->
 <!--                <li>Gnojivo Kelatex B (visoka koncentracija bora) ili Tropicel (gnojivo za bolju cvatnju i oplodnju) poboljšavaju kvalitetu bobica jer u nedostatku bora odumiru vrhovi mladica i boboice ostaju sitne.</li>-->
-<!--                <li><img src="strucni-savjeti/vinova-loza/i4.jpg" alt=""></li>-->
+<!--                <li><img src="/strucni-savjeti/vinova-loza/i4.jpg" alt="" width="720" height="540" loading="lazy" decoding="async"></li>-->
 <!--                <li>Koristiti 1 kg na 400-600 L vode.</li>-->
-<!--                <li><img src="strucni-savjeti/vinova-loza/i3.jpg" alt=""></li>-->
+<!--                <li><img src="/strucni-savjeti/vinova-loza/i3.jpg" alt="" width="746" height="491" loading="lazy" decoding="async"></li>-->
 <!--                <li>Novalon 6-12-36+3MgO+TE poboljšava kvalitetu, vitalnost i zdravlje loze. Visoka koncentracija kalija i magnezija (usljed velikog nedostatka Mg, primjeniti Mainstay Mg u količini 2L/ha) u ovoj fazi je vrlo važna te se ova formulacija gnojiva primjenjuje u količini 3 kg na 400-600L vode.</li>-->
 <!--            </ul>-->
         </figure>
@@ -86,9 +86,9 @@
         <figure>
             <figcaption><b>8. faza - zrioba</b></figcaption>
 <!--            <ul>-->
-<!--                <li><img src="strucni-savjeti/vinova-loza/i1.jpg" alt=""></li>-->
+<!--                <li><img src="/strucni-savjeti/vinova-loza/i1.jpg" alt="" width="720" height="480" loading="lazy" decoding="async"></li>-->
 <!--                <li>U fazi zriobe koristiti Barrier (1L/ha na 400-600L vode), čime se poboljšava odnos šećera i kiselina, te utječe na veći prinos i kvalitet.</li>-->
-<!--                <li><img src="strucni-savjeti/vinova-loza/i5.jpg" alt=""></li>-->
+<!--                <li><img src="/strucni-savjeti/vinova-loza/i5.jpg" alt="" width="720" height="540" loading="lazy" decoding="async"></li>-->
 <!--                <li>Važno je u ovoj fazi ne primjenjivati dušik.</li>-->
 <!--            </ul>-->
         </figure>
@@ -98,10 +98,10 @@
 
         <hr>
         <h2>Fenofaze</h2>
-        <p><img src="strucni-savjeti/vinova-loza/i-fen.jpg" alt=""></p>
+        <p><img src="/strucni-savjeti/vinova-loza/i-fen.jpg" alt="Crtež razvojnih faza (fenofaza) vinove loze: intenzivan porast (mladica duga 40 cm), intenzivan porast (mladica duga 60 cm), pred cvatnju, nakon cvatnje i faza intenzivnog rasta bobica." width="580" height="296" loading="lazy" decoding="async"></p>
 
         <hr>
         <h2>Nedostatci</h2>
-        <p><img src="strucni-savjeti/vinova-loza/i-ned.png" alt=""></p>
+        <p><img src="/strucni-savjeti/vinova-loza/i-ned.png" alt="Fotografije simptoma nedostatka hranjiva na vinovoj lozi: nedostatak bora, bakra, fosfora, kalija, magnezija, mangana, željeza, željeza i bora, magnezija i cinka." width="580" height="1901" loading="lazy" decoding="async"></p>
     </div>
 </section>

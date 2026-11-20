@@ -20,16 +20,16 @@
     }
 </style>
 
-<img src="strucni-savjeti/bobicasto-voce/i.jpg" alt="">
+<img src="/strucni-savjeti/bobicasto-voce/i.jpg" alt="" width="1920" height="500">
 
 <section class="section">
     <div class="container">
-        <nav><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Bobičasto voće</small></nav>
+        <nav aria-label="Putanja"><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Bobičasto voće</small></nav>
         <h1>Folijarna prihrana bobičastog voća</h1>
 
 
         <h2>Preporuka za folijarnu prihranu malina i kupina</h2>
-        <p><img src="strucni-savjeti/bobicasto-voce/i-mal.jpg" alt=""></p>
+        <p><img src="/strucni-savjeti/bobicasto-voce/i-mal.jpg" alt="" width="720" height="450" loading="lazy" decoding="async"></p>
         <p>Malina, za razliku od drugih bobičastih voćaka, uzima najveće količine hranjivih elemenata iz tla. Za njezino dobro uspevanje neophodne su velike količine organske tvari, jer svake godine razvija veliki broj novih izdanaka, a na starima donosi obilje roda, koji se poslije sazrijevanja suše, pa je svake godine za obnovu grma i visoke prinose neophodna velika količina organske tvari. Malina od svih elemenata najviše troši kalij, zatim dušik i fosfor. Zasade maline u rodu treba redovito svake godine gnojiti i to dosta velikim količinama organskih i mineralnih gnojiva. Gnojidba zasada u rodu može biti: Osnovna gnojidba, prihranjivanje i gnojidba folijarnim gnojivima. Folijarnom gnojidbom se može brzo djelovati u prehrani važnijim makro, a posebno mikroelementima. Tretiranje se izvodi obično u dva ili tri navrata istovremeno kada se vrši tretiranje protiv uzročnika bolesti i štetnika. Treba poštovati koncentraciju primjene iu prskalici prvo rastvoriti folijarno gnojivo, a zatim potrebne pesticide. Prihranjivanje se može obaviti i fertigacijom, posebno kada je potrebno pojačati prehranu i u vrijeme nalijevanja ploda i pred berbu. Za to mora postojati instaliran sustav za navodnjavanje i moraju se koristiti specijalna vodotopiva gnojiva određene formulacije.</p>
         <p>Suvremeni zasadi kupine su visokointezivni i vrlo rodni, i zato ih treba redovito i obilno gnojiti. Time se izravno utječe na rentbilnost proizvodnje, duži eksploatacijski period i osigurava visok prinos i dobru kvalitetu plodova. Količina i vrsta gnojiva ovisi o plodnosti tla, klimatskih uvjeta i meliorativne gnojidbe. Za gnojenje kupine koriste se organska i mineralna gnojiva, a po potrebi i folijarna. Po vrsti gnojidba može biti osnovna i dopunska (prihranjivanje). Osnovna gnojidba obavlja se u kasnu jesen i izvodi se stajskim i kompleksnim mineralnim gnojivima. Kupina je voćka koja za svoj razvoj i plodonošenje zahtjeva veliku količinu kalija, nešto manje dušika, a zadovoljava se manjom količinom fosfora. Najveće potrebe za kalijem kupina pokazuje u vremenskom intervalu od početka vegetacije pa do kraja sazrijevanja plodova, a za dušikom u prvoj polovici vegetacije kada je intezivan porast izdanaka i rodnih grančica. Vrste mineralnih gnojiva biraju se u velikoj mjeri ovisno o osobinama zemljišta, a posebno od njegove ph vrijednosti. Uporaba folijarnih gnojiva kod kupine je vrlo prikladna i korisna kako bi se u kratkom vremenskom razdoblju otklonili uočeni nedostaci. Folijarno gnojivo se najčešće primjenjuje zajedno sa sredstvima za zaštitu.</p>
         <h5>Preporuka za folijarnu prihranu malina i kupina</h5>
@@ -49,19 +49,19 @@
         <h3>Fenofaze</h3>
 
         <h4>Malina</h4>
-        <p><img src="strucni-savjeti/bobicasto-voce/i-mal-fen.jpg" alt=""></p>
+        <p><img src="/strucni-savjeti/bobicasto-voce/i-mal-fen.jpg" alt="Crtež razvojnih faza (fenofaza) maline: list, pupanje, cvatnja i zreli plodovi." width="720" height="634" loading="lazy" decoding="async"></p>
 
         <hr>
         <h4>Kupina</h4>
 
         <hr>
         <h3>Nedostatci</h3>
-        <p><img src="strucni-savjeti/bobicasto-voce/i-mal-ned.jpg" alt=""></p>
+        <p><img src="/strucni-savjeti/bobicasto-voce/i-mal-ned.jpg" alt="Fotografije simptoma nedostatka hranjiva na malini: nedostatak fosfora, magnezija, dušika i željeza." width="520" height="558" loading="lazy" decoding="async"></p>
 
         <hr>
         <h2>Preporuka za folijarnu prihranu jagoda</h2>
         <a class="prihrana-link" href="/proizvodi/katalozi/2023-gnojidba-prihrana-zastita.pdf#page=54">Pročitaj</a>
-        <p><img src="strucni-savjeti/bobicasto-voce/i-jag.jpg" alt=""></p>
+        <p><img src="/strucni-savjeti/bobicasto-voce/i-jag.jpg" alt="" width="720" height="480" loading="lazy" decoding="async"></p>
         <p>Gnojidba predstavlja važan tehnološki zahvat u proizvodnji jagode, koji značajno utječe na visinu i kvalitetu prinosa. Ovisno o količini fosfora i kalija u tlu, potrebno je prilagoditi i gnojidbu jagode.</p>
         <p>Kod gnojidbe dušikom, koji je vrlo pokretan element u tlu, a kako jagoda ima plitko korijenje, mora se posvetiti posebna pažnja. Osim potrebe biljaka za dušikom, potrebno je voditi računa o pH vrijednosti tla, mehaničkom sastavu tla i obliku primjenjenog dušika. Kod primjene dušika u obliku nitrata ukupnu dozu gnojidbe potrebno je podijeliti na veći broj tretmana, zbog vrlo lakog ispiranja iz tla, lakšeg mehaničkog sastava. Kod primjene dušičnih gnojiva, najmanje 50% od ukupne količine treba biti u nitratnom obliku.</p>
         <p>Kod uzgoja jagode, samo se dušik i kalij, mogu dodavati naknadno, dok se sva potrebna količina fosfornih gnojiva moraju dodati kod pripreme tla za sadnju. Ukoliko se na osnovi analize tla utvrdi i značajan nedostatak željeza, isti se mora dodavati kod pripreme tla za sadnju, u potrebnim količinama.</p>
@@ -82,11 +82,11 @@
 
         <hr>
         <h2>Fenofaze</h2>
-        <p><img src="strucni-savjeti/bobicasto-voce/i-jag-fen.png" alt=""></p>
+        <p><img src="/strucni-savjeti/bobicasto-voce/i-jag-fen.png" alt="Crtež razvojnih faza (fenofaza) jagode: od mlade biljke do biljke s plodovima, s razvojem korijena." width="1273" height="361" loading="lazy" decoding="async"></p>
 
         <hr>
         <h2>Nedostatci</h2>
-        <p><img src="strucni-savjeti/bobicasto-voce/i-jag-ned.png" alt=""></p>
+        <p><img src="/strucni-savjeti/bobicasto-voce/i-jag-ned.png" alt="Fotografije simptoma nedostatka hranjiva na jagodi: nedostatak bora na plodu i na listu." width="520" height="269" loading="lazy" decoding="async"></p>
 
         <hr>
         <h2>Preporuka za folijarnu prihranu borovnice</h2>

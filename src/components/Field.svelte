@@ -13,7 +13,8 @@
     flex-direction: column;
     width: max-content;
     background: white;
-    border: 1px solid var(--border);
+    /* input boundary needs 3:1 against white (WCAG 1.4.11); was var(--border), 1.5:1 */
+    border: 1px solid rgba(32, 33, 34, 0.55);
     padding: var(--space-small) var(--space-regular);
     margin: var(--space-regular) 0;
   }

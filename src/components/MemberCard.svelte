@@ -7,7 +7,7 @@
 </script>
 
 <article class="member-card">
-  <h1 class="member-card-name"><b>{name}</b></h1>
+  <h3 class="member-card-name"><b>{name}</b></h3>
   <div class="member-card-description">
     {#if area}
       {title}, {area}
@@ -22,7 +22,7 @@
 <style>
   .member-card {
     background-color: var(--background-primary);
-    background-image: url('../accent-right.svg');
+    background-image: url('/accent-right.svg');
     background-repeat: no-repeat;
     background-position: right center;
     border: 1px solid var(--border);

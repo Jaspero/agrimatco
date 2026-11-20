@@ -2,16 +2,16 @@
     <title>Agrimatco | Stručni savjeti | Maslina</title>
 </svelte:head>
 
-<img src="strucni-savjeti/maslina/i.jpg" alt="">
+<img src="/strucni-savjeti/maslina/i.jpg" alt="" width="1920" height="500">
 
 <section class="section">
     <div class="container">
-        <nav><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Maslina</small></nav>
+        <nav aria-label="Putanja"><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Maslina</small></nav>
         <h1>Folijarna dopunska gnojidba masline</h1>
 
         <p>Maslina iz tla koristi dušik i kalij a slabo fosfor ,zahtjeva dosta kalcija i magnezija a od mikroelemenata traži puno bora cinka željeza i bakra.</p>
         <p>Već pri pripremi tla za sadnju treba voditi računa o gnojidbi, jer samo tada, a poslije za života masline vrlo teško, možemo dublje slojeve tla obogatiti odgovarajućim hranivima. Zato je dobro napraviti kemijsku analizu tla prije sadnje.</p>
-        <p><img src="strucni-savjeti/maslina/i2.jpg" alt=""></p>
+        <p><img src="/strucni-savjeti/maslina/i2.jpg" alt="Botanička ilustracija masline: grana s listovima i cvjetovima, cvijet, plodovi i koštice." width="471" height="542" loading="lazy" decoding="async"></p>
 
         <h2>Folijarna dopunska gnojidba masline</h2>
         <a class="prihrana-link" href="/proizvodi/katalozi/2023-gnojidba-prihrana-zastita.pdf#page=57">Pročitaj</a>
@@ -20,7 +20,7 @@
             <figcaption><b>1. faza – proljetna folijarna gnojidba pred cvatnju</b></figcaption>
 <!--            <ul>-->
 <!--                <li>Proljetnu folijarnu gnojidbu obaviti prije cvatnje gnojivima Kelatex B i Kelatex Ca+B u količini 1 kg/ha (1%) za bolju cvatnju i oplodnju. Nakon cvatnje ponoviti gnojidbu istom dozom gnojiva.</li>-->
-<!--                <li><img src="strucni-savjeti/maslina/i1.jpg" alt=""></li>-->
+<!--                <li><img src="/strucni-savjeti/maslina/i1.jpg" alt="" width="720" height="540" loading="lazy" decoding="async"></li>-->
 <!--            </ul>-->
         </figure>
 
@@ -43,7 +43,7 @@
             <figcaption><b>4. faza – porast plodova</b></figcaption>
 <!--            <ul>-->
 <!--                <li>Tokom porasta plodova, svakih 15 dana primjeniti Calcinit u količini 5 kg/ha ili Calcium Mainstay 3L/ha.</li>-->
-<!--                <li><img src="strucni-savjeti/maslina/i3.jpg" alt=""></li>-->
+<!--                <li><img src="/strucni-savjeti/maslina/i3.jpg" alt="" width="720" height="480" loading="lazy" decoding="async"></li>-->
 <!--                <li>Prskanje kalcijem obavlja se 3 - 5 puta tijekom rasta ploda do same berbe.</li>-->
 <!--                <li>ZADNJU PRIMJENU KALCIJEM OBAVITI SA KALCIJ OKSIDOM BEZ PRISUSTVA DUŠIKA (Calciyum mainstey CaO) u količini 3L/ha.</li>-->
 <!--            </ul>-->
@@ -85,10 +85,10 @@
 
         <hr>
         <h2>Fenofaze</h2>
-        <p><img src="strucni-savjeti/maslina/i-fen.png" alt=""></p>
+        <p><img src="/strucni-savjeti/maslina/i-fen.png" alt="Crtež razvojnih faza (fenofaza) masline: od mlade sadnice do razvijenog stabla." width="580" height="172" loading="lazy" decoding="async"></p>
 
         <hr>
         <h2>Nedostatci</h2>
-        <p><img src="strucni-savjeti/maslina/i-ned.png" alt=""></p>
+        <p><img src="/strucni-savjeti/maslina/i-ned.png" alt="Fotografije simptoma nedostatka hranjiva na maslini: nedostatak kalija, dušika, fosfora i bora." width="580" height="819" loading="lazy" decoding="async"></p>
     </div>
 </section>

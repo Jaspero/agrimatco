@@ -16,7 +16,7 @@
   --color-primary: rgba(32, 33, 34, 1);
   --color-secondary: rgba(32, 33, 34, 0.7);
   --border: rgba(32, 33, 34, 0.2);
-  --accent: #009e53;
+  --accent: #008847; /* was #009e53 (3.49:1 with white text); 4.55:1 meets WCAG 1.4.3 */
   --accent-contrast: white;
   --container: 50rem;
   --space-small: 0.5rem;
@@ -314,4 +314,56 @@ li {
 }
 .link:hover {
   text-decoration: underline;
+}
+/* Accessibility (WCAG 2.1 AA) */
+img[width][height] {
+  height: auto;
+}
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+.skip-link {
+  position: absolute;
+  z-index: 10;
+  top: 0;
+  left: 0;
+  padding: var(--space-small) var(--space-regular);
+  background: var(--accent);
+  color: var(--accent-contrast);
+  font-weight: bold;
+  transform: translateY(-120%);
+}
+.skip-link:focus {
+  transform: none;
+  outline: 2px solid var(--color-primary);
+  outline-offset: 2px;
+}
+main:focus {
+  outline: none;
+}
+details.video-zapis {
+  margin: var(--space-regular) 0;
+  font-size: var(--font-small);
+}
+details.video-zapis summary {
+  cursor: pointer;
+  font-weight: bold;
+}
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
 }

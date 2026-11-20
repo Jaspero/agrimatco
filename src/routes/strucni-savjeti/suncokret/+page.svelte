@@ -2,16 +2,16 @@
     <title>Agrimatco | Stručni savjeti | Suncokret</title>
 </svelte:head>
 
-<img src="strucni-savjeti/suncokret/i.jpg" alt="">
+<img src="/strucni-savjeti/suncokret/i.jpg" alt="" width="1920" height="500">
 
 <section class="section">
     <div class="container">
-        <nav><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Suncokret</small></nav>
+        <nav aria-label="Putanja"><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Suncokret</small></nav>
         <h1>Folijarna prihrana suncokreta</h1>
         <a class="prihrana-link" href="/proizvodi/katalozi/2023-gnojidba-prihrana-zastita.pdf#page=51">Pročitaj</a>
 
         <p>Suncokret je jedna od najvažnijih kultura za proizvodnju ulja. Najbolji predusjev za uzgoj suncokreta su strna žita, zatim kukuruz i šećerna repa. Suncokret formira velike količine organske tvari te ima veće potrebe za hranjivima, osobito dušikom, zatim fosforom i kalijem.</p>
-        <p><img src="strucni-savjeti/suncokret/i1.jpeg" alt=""></p>
+        <p><img src="/strucni-savjeti/suncokret/i1.jpeg" alt="" width="800" height="531" loading="lazy" decoding="async"></p>
 
 
 
@@ -51,10 +51,10 @@
 
         <hr>
         <h2>Fenofaze</h2>
-        <p><img src="strucni-savjeti/suncokret/i-fen.jpg" alt=""></p>
+        <p><img src="/strucni-savjeti/suncokret/i-fen.jpg" alt="Crtež razvojnih faza (fenofaza) suncokreta: od nicanja preko cvatnje do zriobe." width="580" height="238" loading="lazy" decoding="async"></p>
 
         <hr>
         <h2>Nedostatci</h2>
-        <p><img src="strucni-savjeti/suncokret/i-ned.png" alt=""></p>
+        <p><img src="/strucni-savjeti/suncokret/i-ned.png" alt="Fotografije simptoma nedostatka hranjiva na suncokretu: nedostatak dušika, fosfora, kalija i magnezija." width="580" height="547" loading="lazy" decoding="async"></p>
     </div>
 </section>

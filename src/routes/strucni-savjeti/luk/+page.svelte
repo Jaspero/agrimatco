@@ -2,20 +2,20 @@
     <title>Agrimatco | Stručni savjeti | Luk</title>
 </svelte:head>
 
-<img src="strucni-savjeti/luk/i.jpg" alt="">
+<img src="/strucni-savjeti/luk/i.jpg" alt="" width="1920" height="500">
 
 <section class="section">
     <div class="container">
-        <nav><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Luk</small></nav>
+        <nav aria-label="Putanja"><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Luk</small></nav>
         <h1>Prihrana luka</h1>
 
 
         <p>Mineralnu gnojidbu za uzgoj luka uvijek treba uskladiti sa zalihama hraniva u tlu te određene količine hraniva osobito dušika dodavati ovisno o potrebama za istim u određenoj fazi razvoja luka.</p>
         <p>Povoljne količine fosfora i kalija osiguravaju dobru održivost luka u skladištu.</p>
-        <p><img src="strucni-savjeti/luk/zamjena-prihrana.png" alt=""></p>
+        <p><img src="/strucni-savjeti/luk/zamjena-prihrana.jpg" alt="" width="770" height="440" loading="lazy" decoding="async"></p>
         <p>Kako bi urod luka bio visokog prinosa i kvalitete potrebno je vršiti folijarnu prihranu.</p>
         <p>Luk ulazi u završnu fazu razvoja te je od iznimne važnosti <b>vršiti folijarnu prihranu</b> odnosno gnojidbu preko lišća. Posljednju fazu razvoja obično prati suša te biljka ne može usvajati dovoljno hranjiva iz tla, odnosno <b>smanjen je unos mikro i makroelemenata</b>. Problem nastaje jer luk nema razgranat korjenski sustav te si ne može priskrbiti dovoljno mineralnog gnojiva. Prilikom uzgoja luka treba obratiti pozornost na prihranu.</p>
-        <p><img src="strucni-savjeti/luk/i1.jpg" alt=""></p>
+        <p><img src="/strucni-savjeti/luk/i1.jpg" alt="Luk. Iznošenje hraniva u toku vegetacije: dušik (N) 157 kg/ha, fosfor (P) 22,4–28,2 kg/ha, kalij (K) 123,3–179 kg/ha, kalcij (Ca) 56 kg/ha, magnezij (Mg) 11,2–22,4 kg/ha, sumpor (S) 40 kg/ha." width="600" height="468" loading="lazy" decoding="async"></p>
         <figure>
             <figcaption><b>Prihrana novalonima</b> može varirati ovisno o:</figcaption>
             <ul>
@@ -28,7 +28,7 @@
         </figure>
         <p>Dozvoljena je primjena fungicida, insekticida sa folijarnim gnojivima osim ako nije naglašena zabrana.</p>
         <p><b>Vrijeme unošenja hraniva moramo uskladiti sa dinamikom rasta i razvoja luka.</b></p>
-        <p><img src="strucni-savjeti/luk/i3.jpg" alt=""></p>
+        <p><img src="/strucni-savjeti/luk/i3.jpg" alt="" width="600" height="1067" loading="lazy" decoding="async"></p>
 
         <h2>Folijarna prihrana luka</h2>
         <a class="prihrana-link" href="/proizvodi/katalozi/2023-sjeme-povrca.pdf#page=47">Pročitaj</a>
@@ -80,10 +80,10 @@
 
         <hr>
         <h2>Fenofaze</h2>
-        <p><img src="strucni-savjeti/luk/i-fen.jpg" alt=""></p>
+        <p><img src="/strucni-savjeti/luk/i-fen.jpg" alt="Crtež razvojnih faza (fenofaza) luka: od nicanja do zrele lukovice." width="580" height="210" loading="lazy" decoding="async"></p>
 
         <hr>
         <h2>Nedostatci</h2>
-        <p><img src="strucni-savjeti/luk/i-ned.png" alt=""></p>
+        <p><img src="/strucni-savjeti/luk/i-ned.png" alt="Fotografije simptoma nedostatka hranjiva na luku: nedostatak dušika, kalcija, kalija, cinka, magnezija i željeza." width="580" height="838" loading="lazy" decoding="async"></p>
     </div>
 </section>

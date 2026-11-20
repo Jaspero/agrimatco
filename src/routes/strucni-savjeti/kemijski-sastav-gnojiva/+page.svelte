@@ -18,7 +18,7 @@
 
 <section class="section">
     <div class="container">
-        <nav><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Kemijski sastav gnojiva</small></nav>
+        <nav aria-label="Putanja"><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Kemijski sastav gnojiva</small></nav>
         <h1>Kemijski sastav gnojiva</h1>
     </div>
 

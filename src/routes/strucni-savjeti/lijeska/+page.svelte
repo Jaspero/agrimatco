@@ -2,11 +2,11 @@
     <title>Agrimatco | Stručni savjeti | Lijeska</title>
 </svelte:head>
 
-<img src="strucni-savjeti/lijeska/i.jpg" alt="">
+<img src="/strucni-savjeti/lijeska/i.jpg" alt="" width="1920" height="500">
 
 <section class="section">
     <div class="container">
-        <nav><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Lijeska</small></nav>
+        <nav aria-label="Putanja"><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Lijeska</small></nav>
         <h1>Folijarna gnojidba lijeske</h1>
 
         <p>Prinos lijeske ovisi o velikom radu koji pravovremeno treba obaviti. Kako je pravilno gnojiti i zaštititi od bolesti i štetnika. Lijeska je vrlo zahvalna višegodišnja kultura, ali još premalo zastupljena. Uspjeh u uzgoju i dobivenom prinosu lijeske ovisi o velikom radu koje treba pravovremeno i na odgovarajući način obaviti. Jedan od važnih radova u uzgoju lijeske je provođenje meliorativne gnojidbe koju treba obaviti nakon kemijske analize tla. Na taj način tlo se opskrbljuje osnovnim makroelementima (NPK). Od četvrte godine gnoji se kompletna površina mineralnim NPK gnojivima i to u jesenskom periodu koristeći gnojiva sa visokim udjelom kalija (oko 150 kg/ha kalij), a u proljeće je potrebno vršiti prihranu dušikom (od 250-300 kg/ha KAN).</p>
@@ -85,17 +85,17 @@
         <figure>
             <figcaption><b>3. faza – zametanje i naljevanje plodova (30 dana)</b></figcaption>
 <!--            <ul>-->
-<!--                <li><img src="strucni-savjeti/lijeska/i1.jpg" alt=""></li>-->
+<!--                <li><img src="/strucni-savjeti/lijeska/i1.jpg" alt="" width="720" height="540" loading="lazy" decoding="async"></li>-->
 <!--                <li>Vodotopivo gnojivo Novalon 19-6-20+2MgO+TE ili Keymag 10-0-40+2MgO koristiti u fazi zametanja i naljevanja plodova, u količini 3-5 kg/ha, a gnojivo Yara Liva Calcinit koristiti u količini 3-5 kg/ha za formiranje ploda.</li>-->
 <!--                <li>Bioplex, biostimulator koji pospješuje metaboličku aktivnost biljke, koristiti u količini 0,5L/ha u kombinaciji sa vodotopivim gnojivom Novalon 19:6:20+2MgO+TE ili Keymag 10:0:40 + 2MgO.</li>-->
-<!--                <li><img src="strucni-savjeti/lijeska/i2.jpg" alt=""></li>-->
+<!--                <li><img src="/strucni-savjeti/lijeska/i2.jpg" alt="" width="640" height="480" loading="lazy" decoding="async"></li>-->
 <!--            </ul>-->
         </figure>
 
         <figure>
             <figcaption><b>4. faza – zrioba i berba</b></figcaption>
 <!--            <ul>-->
-<!--                <li><img src="strucni-savjeti/lijeska/i3.jpg" alt=""></li>-->
+<!--                <li><img src="/strucni-savjeti/lijeska/i3.jpg" alt="" width="520" height="390" loading="lazy" decoding="async"></li>-->
 <!--                <li>Vodotopivo gnojivo Novalon 0-5-35+4,5MgO+TE, koristiti u količini 5kg/ha jer magnezij pojačava fotosintezu u ovoj fazi, a Calcium Mainstay, tekući kalcij, za poboljšanje kvalitete ploda, rast ploda i zdravu ljusku, u količini 3L/ha.</li>-->
 <!--                <li>-->
 <!--                    <ul>-->
@@ -108,7 +108,7 @@
         <figure>
             <figcaption><b>5. faza – nakon berbe prije opadanja lišća (nakon 15 dana)</b></figcaption>
 <!--            <ul>-->
-<!--                <li><img src="strucni-savjeti/lijeska/i4.jpg" alt=""></li>-->
+<!--                <li><img src="/strucni-savjeti/lijeska/i4.jpg" alt="" width="720" height="432" loading="lazy" decoding="async"></li>-->
 <!--                <li>Bitna primjena za sljedeću vegetacijsku godinu zasniva se na primjeni vodotopivog gnojiva Novalon 6-12-36+3MgO+TE ili Novalon 0-5-35+4,5MgO+TE u količini 5-8 kg/ha.</li>-->
 <!--                <li>U ovoj fazi takođe je važna primjena jednog od sljedećih gnojiva:</li>-->
 <!--                <li>-->
@@ -135,6 +135,6 @@
 
         <hr>
         <h2>Fenofaze</h2>
-        <p><img src="strucni-savjeti/lijeska/i-fen.png" alt=""></p>
+        <p><img src="/strucni-savjeti/lijeska/i-fen.png" alt="Fotografije fenofaza lijeske: pupanje, ženski cvijet, muške rese, listanje i razvoj ploda." width="580" height="414" loading="lazy" decoding="async"></p>
     </div>
 </section>

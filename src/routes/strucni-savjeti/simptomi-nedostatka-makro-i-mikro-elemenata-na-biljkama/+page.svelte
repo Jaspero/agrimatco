@@ -6,7 +6,7 @@
 
 <section class="section">
   <div class="container">
-    <nav>
+    <nav aria-label="Putanja">
       <small
         ><a href="/strucni-savjeti">Stručni savjeti</a> > Simptomi nedostatka makro i mikro elemenata
         na biljkama</small
@@ -16,8 +16,8 @@
 
     <p>
       <img
-        src="strucni-savjeti/simptomi-nedostatka-makro-i-mikro-elemenata-na-biljkama/i.png"
-        alt=""
+        src="/strucni-savjeti/simptomi-nedostatka-makro-i-mikro-elemenata-na-biljkama/i.png"
+        alt="" width="520" height="1714"
       />
     </p>
   </div>

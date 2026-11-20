@@ -21,7 +21,7 @@
 </style>
 
 <section class="savjeti">
-    <img class="savjeti-image" src="agrimatco-negative.svg" alt="Agrimatco" width="200" height="200">
+    <img class="savjeti-image" src="/agrimatco-negative.svg" alt="Agrimatco" width="200" height="200">
     <p class="savjeti-descirption">Imamo vješte, kvalificirane, i kvalitetne ljude<br>koji su uvijek spremni pomoći i ponuditi savjete.</p>
-    <Button href="strucni-savjeti">Naši savjeti</Button>
+    <Button href="/strucni-savjeti">Naši savjeti</Button>
 </section>

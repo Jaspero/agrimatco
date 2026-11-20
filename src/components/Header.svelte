@@ -1,5 +1,6 @@
 <script>
     export let menuToggle;
+    export let menu = false;
 </script>
 
 <style>
@@ -41,7 +42,7 @@
 
 <header class="header">
     <div class="header-container">
-        <a href="/"><img class="header-logo" src="/agrimatco.svg" alt="Agrimatco" width="120" height="120"></a>
-        <button class="header-menu" on:click={menuToggle}>MENU</button>
+        <a href="/"><img class="header-logo" src="/agrimatco.svg" alt="Agrimatco, početna stranica" width="120" height="120"></a>
+        <button id="menu-button" class="header-menu" on:click={menuToggle} aria-expanded={menu ? 'true' : 'false'} aria-controls="glavna-navigacija">MENU</button>
     </div>
 </header>

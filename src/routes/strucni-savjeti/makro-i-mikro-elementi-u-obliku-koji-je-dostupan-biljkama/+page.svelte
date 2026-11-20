@@ -8,7 +8,7 @@
 
 <section class="section">
     <div class="container">
-        <nav><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Makro i mikro elementi  u obliku koji  je dostupan biljkama</small></nav>
+        <nav aria-label="Putanja"><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Makro i mikro elementi  u obliku koji  je dostupan biljkama</small></nav>
         <h1>Makro i mikro elementi  u obliku koji  je dostupan biljkama</h1>
 
         <Table>
@@ -99,6 +99,6 @@
             </tr>
         </Table>
         <hr>
-        <p><img src="strucni-savjeti/makro-i-mikro-elementi-u-obliku-koji-je-dostupan-biljkama/i.jpg" alt=""></p>
+        <p><img src="/strucni-savjeti/makro-i-mikro-elementi-u-obliku-koji-je-dostupan-biljkama/i.jpg" alt="Stupčasti grafikon „Potreba biljke za hranjivima”: najveća je potreba za kalijem (K), zatim dušikom (N) i fosforom (P); znatno manja za kalcijem (Ca), magnezijem (Mg) i sumporom (S); mikroelementi (Fe, Mn, Zn, Cu, B, Mo, Co) potrebni su u vrlo malim količinama." width="905" height="479"></p>
     </div>
 </section>

@@ -2,16 +2,16 @@
     <title>Agrimatco | Stručni savjeti | Kukuruz</title>
 </svelte:head>
 
-<img src="strucni-savjeti/kukuruz/i.jpg" alt="">
+<img src="/strucni-savjeti/kukuruz/i.jpg" alt="" width="1920" height="500">
 
 <section class="section">
     <div class="container">
-        <nav><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Kukuruz</small></nav>
+        <nav aria-label="Putanja"><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Kukuruz</small></nav>
 
 
         <p>Kukuruz ima visok proizvodni potencijal pa da bi se taj potencijal iskoristio, gnojidbom se treba osigurati sva potrebna hranjiva u dovoljnoj količini.</p>
         <p> Prihrana je važna agrotehnička mjera u većini poljoprivrednih kultura, pa tako i u kukuruzu jer tada biljke usvajaju najviše hraniva unešenih u tlo ili putem lista, a koja poslije utječu na kvantitetu i kvalitetu prinosa.</p>
-        <p><img src="strucni-savjeti/kukuruz/i1.png" alt=""></p>
+        <p><img src="/strucni-savjeti/kukuruz/i1.png" alt="Svojstva hibrida kukuruza: učinkovitiji nadzor puči (za učinkovitiju upotrebu vode), vitalnije niti svile (za bolju oplodnju i formiranje zrna), duboko izduženo zrno (čuvanje prinosa tijekom kasnosezonskog stresa), učinkovit korijenov sustav (koristi vlagu iz dubljih slojeva tla); vitalnost od metlice do korijena, staygreen učinak, jaka agronomska svojstva s najboljim tehnološkim paketima (najbolja genetika), koristi manje vode za kilogram prinosa." width="550" height="730" loading="lazy" decoding="async"></p>
 
         <p>Kukuruz osnovna hraniva, dušik, fosfor i kalij, usvaja tijekom vegetativnog stadija do oprašivanja. Fosfor i kalij na većini tala unose se gnojidbom u osnovnoj obradi.</p>
         <p>Gnojidbom u osnovnoj obradi, hraniva fosfor i kalij se raspodjeljuju u zoni najviše razvijenog korijenovog sustava. U odnosu na fosfor i kalij, dušik je hranivo koje je u pravilu bolje primijeniti u dopunskoj obradi tla.</p>
@@ -57,10 +57,10 @@
 
         <hr>
         <h2>Fenofaze</h2>
-        <p><img src="strucni-savjeti/kukuruz/i-fen.jpg" alt=""></p>
+        <p><img src="/strucni-savjeti/kukuruz/i-fen.jpg" alt="Crtež razvojnih faza (fenofaza) kukuruza: od nicanja do zriobe klipa." width="709" height="391" loading="lazy" decoding="async"></p>
 
         <hr>
         <h2>Nedostatci</h2>
-        <p><img src="strucni-savjeti/kukuruz/i-ned.png" alt=""></p>
+        <p><img src="/strucni-savjeti/kukuruz/i-ned.png" alt="Fotografije simptoma nedostatka hranjiva na kukuruzu: nedostatak bakra, kalcija, cinka, dušika i fosfora, mangana, magnezija i željeza." width="580" height="2160" loading="lazy" decoding="async"></p>
     </div>
 </section>

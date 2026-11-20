@@ -4,7 +4,7 @@
 
 <section class="section">
   <div class="container">
-    <nav>
+    <nav aria-label="Putanja">
       <small
         ><a href="/proizvodi">Proizvodi</a> >
         <a href="/proizvodi/ljepljive-ploce-i-role">Ljepljive ploče i role</a> > Ljepljiva ploča za insekte

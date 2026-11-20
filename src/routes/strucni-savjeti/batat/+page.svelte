@@ -8,10 +8,10 @@
 
 <section class="section">
     <div class="container">
-        <img class="w-full mt-10" src="strucni-savjeti/batat/batat-1.jpg" alt="">
+        <img class="w-full mt-10" src="/strucni-savjeti/batat/batat-1.jpg" alt="" width="1200" height="798">
     </div>
     <div class="container">
-        <nav><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Batat</small></nav>
+        <nav aria-label="Putanja"><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Batat</small></nav>
 
         <h1>Prihrana batata</h1>
         <a class="prihrana-link" href="/proizvodi/katalozi/2023-sjeme-povrca.pdf#page=55">Pročitaj</a>

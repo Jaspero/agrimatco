@@ -4,12 +4,12 @@
 
 <section class="section">
   <div class="container">
-    <nav>
+    <nav aria-label="Putanja">
       <small><a href="/strucni-savjeti">Stručni savjeti</a> > Značaj folijarne prihrane</small>
     </nav>
     <h1>Značaj folijarne prihrane</h1>
 
-    <img class="media-large" src="strucni-savjeti/znacaj-folijarne-prihrane/i1.jpg" alt="" />
+    <img class="media-large" src="/strucni-savjeti/znacaj-folijarne-prihrane/i1.jpg" alt="" width="1920" height="500" />
     <p>
       <b>Folijarna gnojidba</b> je način ishrane bilja putem lista. Ona ne može zamijeniti osnovnu gnojidbu,
       ali može nadomjestiti nedostatak hranjiva kada je to biljci najpotrebnije. 1 kg hranjiva kojeg
@@ -18,7 +18,7 @@
       oštećenja uslijed tuče i drugi nepovoljni uvjeti daleko manje utječu na prinose ukoliko se koriste
       folijarna gnojiva.
     </p>
-    <img class="media-large" src="strucni-savjeti/znacaj-folijarne-prihrane/i2.png" alt="" />
+    <img class="media-large" src="/strucni-savjeti/znacaj-folijarne-prihrane/i2.png" alt="Grafikon dostupnosti hranjiva biljkama ovisno o pH tla, od 4,0 (jako kiselo) do 10,0 (jako alkalno); što je traka šira, hranjivo je dostupnije. Dušik je najdostupniji od pH 6 do 8; fosfor od pH 6,5 do 7,5 te ponovno iznad 8,5; kalij i sumpor od pH 6 naviše; kalcij i magnezij od pH 7 do 8,5; željezo, mangan, bakar i cink u kiselom tlu (pH 5 do 6,5), a u alkalnom im dostupnost opada; bor od pH 5 do 7 te ponovno iznad 8,5; molibden je dostupniji što je tlo alkalnije." width="1612" height="1242" loading="lazy" decoding="async" />
     <p>
       Neophodni elementi iz tla često su nepristupačni biljkama. Na pristupačnost elemenata u tlu
       utječu razni čimbenici, kao što su: hladno vrijeme, tip zemljišta, pH vrijednost zemljišta i

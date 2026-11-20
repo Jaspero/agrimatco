@@ -51,6 +51,20 @@
   // Only the first slide's picture is in the server HTML, so it is the only image competing for the
   // first paint; the others are attached once the page has loaded (well before autoplay moves on).
   let loaded = false;
+  let glide;
+  let playing = true;
+  let current = 0;
+
+  function togglePlay() {
+    if (!glide) return;
+    if (playing) {
+      glide.pause();
+    } else {
+      glide.update({ autoplay: 7500 });
+      glide.play();
+    }
+    playing = !playing;
+  }
 
   onMount(() => {
     if (document.readyState === 'complete') {
@@ -58,11 +72,16 @@
     } else {
       window.addEventListener('load', () => (loaded = true), { once: true });
     }
-    new Glide('.glide', {
-      autoplay: 7500,
+    // No automatic movement for people who ask the OS for reduced motion (WCAG 2.2.2); the buttons still work.
+    const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    playing = !reduce;
+    glide = new Glide('.glide', {
+      autoplay: reduce ? false : 7500,
       gap: 0,
       rewind: false
-    }).mount();
+    });
+    glide.on('run.after', () => (current = glide.index));
+    glide.mount();
   });
 </script>
 
@@ -70,18 +89,33 @@
   <link rel="preload" as="image" href="/home-slider/gnojidba.webp" type="image/webp" fetchpriority="high" />
 </svelte:head>
 
-<div class="glide">
+<section class="glide" aria-label="Naša ponuda">
   <div class="glide__track" data-glide-el="track">
     <ul class="glide__slides">
       {#each slides as slide, i}
-        <li class="glide__slide" style={i === 0 || loaded ? bg(slide.image) : undefined}>
-          <h1 class="glide__slide-title">{slide.title}</h1>
+        <li
+          class="glide__slide"
+          style={i === 0 || loaded ? bg(slide.image) : undefined}
+          aria-label="{i + 1} od {slides.length}"
+        >
+          <h2 class="glide__slide-title">{slide.title}</h2>
           <p class="glide__slide-content">{slide.content}</p>
         </li>
       {/each}
     </ul>
   </div>
-</div>
+  <div class="glide__controls">
+    <button type="button" on:click={() => glide?.go('<')} disabled={current === 0}>
+      <span aria-hidden="true">‹</span><span class="sr-only">Prethodni</span>
+    </button>
+    <button type="button" on:click={togglePlay}>
+      {playing ? 'Zaustavi' : 'Pokreni'}<span class="sr-only"> automatsko izmjenjivanje</span>
+    </button>
+    <button type="button" on:click={() => glide?.go('>')} disabled={current === slides.length - 1}>
+      <span aria-hidden="true">›</span><span class="sr-only">Sljedeći</span>
+    </button>
+  </div>
+</section>
 
 <style>
   .glide {
@@ -130,6 +164,7 @@
     background-position: center;
   }
   .glide__slide-title {
+    font-size: 1.8em;
     color: white;
     text-shadow: 0 0 6px black;
     margin: var(--space-medium);
@@ -141,6 +176,36 @@
     background: rgba(255, 255, 255, 0.8);
     border: 1px solid var(--border);
     max-width: 30em;
+  }
+  .glide__controls {
+    position: absolute;
+    top: var(--space-regular);
+    right: var(--space-regular);
+    display: flex;
+    gap: 2px;
+  }
+  .glide__controls button {
+    min-width: 2.75rem;
+    min-height: 2.75rem;
+    padding: 0 var(--space-small);
+    border: 1px solid var(--border);
+    background: rgba(255, 255, 255, 0.9);
+    color: var(--color-primary);
+    font-family: inherit;
+    font-size: var(--font-small);
+    font-weight: bold;
+    cursor: pointer;
+  }
+  .glide__controls button span[aria-hidden] {
+    font-size: 1.6em;
+    line-height: 1;
+  }
+  .glide__controls button:disabled {
+    color: rgba(32, 33, 34, 0.45);
+  }
+  .glide__controls button:focus-visible {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 2px;
   }
   @media (max-width: 600px) {
     .glide__slide-content {

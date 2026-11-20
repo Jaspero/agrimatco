@@ -1,4 +1,5 @@
 <script>
+  import { tick } from 'svelte';
   import Field from '../../components/Field.svelte';
   import Button from '../../components/Button.svelte';
 
@@ -8,30 +9,38 @@
   let loading = false;
   let checkbox1 = false;
   let checkbox2 = false;
+  /** Result of the last send, shown under the form and announced to screen readers. */
+  let status = null;
+  let statusEl;
 
-  async function handleSubmit() {
+  async function handleSubmit(e) {
+    const formEl = e.target;
     loading = true;
+    status = null;
 
-    const formEl = document.querySelector('form');
-
-    fetch(`/kontakt`, {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json; charset=utf-8'
-      },
-      body: JSON.stringify({ name, email, message })
-    })
-      .then(() => {})
-      .catch((error) => {
-        formEl.reset();
-        loading = false;
-        alert('Došlo je do greške pri slanju. Molimo pokušajte kasnije.');
-      })
-      .finally(() => {
-        formEl.reset();
-        loading = false;
-        alert('Vaša poruka je uspješno poslana!');
+    try {
+      const res = await fetch(`/kontakt`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json; charset=utf-8'
+        },
+        body: JSON.stringify({ name, email, message })
       });
+      if (!res.ok) throw new Error(String(res.status));
+      formEl.reset();
+      name = '';
+      email = '';
+      message = '';
+      checkbox1 = false;
+      checkbox2 = false;
+      status = { ok: true, text: 'Vaša poruka je uspješno poslana!' };
+    } catch (error) {
+      status = { ok: false, text: 'Došlo je do greške pri slanju. Molimo pokušajte kasnije.' };
+    } finally {
+      loading = false;
+      await tick();
+      statusEl?.focus();
+    }
   }
 </script>
 
@@ -108,21 +117,22 @@
     <hr />
 
     <h2>Pošaljite nam poruku</h2>
+    <p>Sva polja i obje potvrde su obavezni.</p>
     <form id="form" on:submit|preventDefault={handleSubmit}>
       <Field label="Vaše ime">
-        <input type="text" size="40" bind:value={name} required />
+        <input type="text" size="40" name="name" autocomplete="name" bind:value={name} required />
       </Field>
       <Field label="Vaš email">
-        <input type="email" size="40" bind:value={email} required />
+        <input type="email" size="40" name="email" autocomplete="email" bind:value={email} required />
       </Field>
       <Field label="Vaša poruka">
-        <textarea name="" id="" cols="60" rows="4" bind:value={message} required></textarea>
+        <textarea name="message" cols="60" rows="4" bind:value={message} required></textarea>
       </Field>
 
       <label>
         <input type="checkbox" bind:checked={checkbox1} required />
         Potvrđujem da sam pročitao i razumio sadržaj
-        <a href="https://agrimatco.hr/politika-privatnosti" target="_blank">Pravila privatnosti</a>.
+        <a href="/politika-privatnosti" target="_blank">Pravila privatnosti<span class="sr-only"> (otvara se u novoj kartici)</span></a>.
       </label>
 
       <label>
@@ -130,13 +140,15 @@
         Podaci koji se unose neće biti korišteni niti u jednu svrhu osim da se vidi tko je poslao poruku.
       </label>
 
-      <Button
-        type="submit"
-        id="contact-page-send"
-        bind:loading
-        disabled={!name || !email || !message || !checkbox1 || !checkbox2}>Pošalji</Button
-      >
+      <Button type="submit" id="contact-page-send" bind:loading>Pošalji</Button>
     </form>
+    <div role="status">
+      {#if status}
+        <p class="form-status" class:error={!status.ok} tabindex="-1" bind:this={statusEl}>
+          <b>{status.text}</b>
+        </p>
+      {/if}
+    </div>
   </div>
 </section>
 
@@ -144,5 +156,13 @@
   form label {
     display: block;
     margin-bottom: 10px;
+  }
+  .form-status {
+    padding: var(--space-small) var(--space-regular);
+    border-left: 4px solid var(--accent);
+    background: var(--background-secondary);
+  }
+  .form-status.error {
+    border-left-color: #b00020;
   }
 </style>

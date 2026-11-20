@@ -54,6 +54,9 @@
       </Field>
       <Button type="submit">Traži</Button>
     </form>
+    <p class="sr-only" role="status">
+      {#if searched}{results.length ? `Pronađeno rezultata: ${results.length}` : 'Nema rezultata.'}{/if}
+    </p>
     {#if results && results.length}
       <figure>
         <figcaption><b>Rezultati:</b></figcaption>
@@ -67,7 +70,7 @@
       </figure>
     {/if}
     {#if searched && results.length === 0}
-      <p>Nema rezultata.</p>
+      <p aria-hidden="true">Nema rezultata.</p>
     {/if}
   </div>
 </section>

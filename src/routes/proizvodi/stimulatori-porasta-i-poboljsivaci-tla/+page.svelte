@@ -81,12 +81,12 @@
 
 <section class="section">
   <div class="container">
-    <nav>
+    <nav aria-label="Putanja">
       <small><a href="/proizvodi">Proizvodi</a> > Stimulatori porasta i poboljšivači tla</small>
     </nav>
     <h1>Stimulatori porasta i poboljšivači tla</h1>
     {#each groups as group}
-      <h2>{group.name}</h2>
+      {#if group.name}<h2>{group.name}</h2>{/if}
       <div class="grid">
         {#each group.items as item}
           <div class="col-4 col-s-6 col-xs-12">

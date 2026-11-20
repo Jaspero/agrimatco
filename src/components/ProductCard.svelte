@@ -40,4 +40,5 @@
     <img class="product-card-image" src="/proizvodi/{image}" alt="">
     <div class="product-card-title">{title}</div>
     <div class="product-card-description">{description}</div>
+    {#if target === '_blank'}<span class="sr-only"> (otvara se u novoj kartici)</span>{/if}
 </a>

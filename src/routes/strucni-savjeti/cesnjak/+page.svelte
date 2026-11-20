@@ -4,10 +4,10 @@
 
 <section class="section">
     <div class="container">
-        <img src="strucni-savjeti/cesnjak/cesnjak-1.jpg" alt="">
+        <img src="/strucni-savjeti/cesnjak/cesnjak-1.jpg" alt="" width="2122" height="1414">
     </div>
     <div class="container">
-        <nav><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Češnjak</small></nav>
+        <nav aria-label="Putanja"><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Češnjak</small></nav>
         <h1>Folijarna prihrana Češnjaka</h1>
         <a class="prihrana-link" href="/proizvodi/katalozi/2023-gnojidba-prihrana-zastita.pdf#page=52">Pročitaj</a>
     </div>

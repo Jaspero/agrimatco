@@ -2,16 +2,16 @@
     <title>Agrimatco | Stručni savjeti | Kupusnjače</title>
 </svelte:head>
 
-<img src="strucni-savjeti/kupusnjace/i.jpg" alt="">
+<img src="/strucni-savjeti/kupusnjace/i.jpg" alt="" width="1920" height="500">
 
 <section class="section">
     <div class="container">
-        <nav><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Kupusnjače</small></nav>
+        <nav aria-label="Putanja"><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Kupusnjače</small></nav>
         <h1>Prihrana kupusnjača</h1>
 
         <p>Kupusnjače po raširenosti u proizvodnji jedna su od najznačajnijih skupina povrtnih kultura. Ove povrtnice najbolje uspijevaju na humusom bogatim tlima dobre prozračnosti i dovoljno opskrbljene vlagom te blago kisele do neutralne reakcije gdje je pH vrijednost tla između 6 i 7. U kupusnjače ubrajamo: kupus, kineski kupus, kelj, kelj pupčar, raštiku i lisnati kelj, korabicu, cvjetaču i brokulu.</p>
         <p>Prije određivanja gnojidbe potrebno je znati stanje hraniva u tlu i pH tla. Kupus iznosi iz tla velike količine hranjivih tvari i odlikuje se naročito velikim zahtjevima prema dušiku i kaliju. Unošenje dušika jako povećava prinos, ali je pri tom vrlo značajan međusobni odnos N:P:K. Ako se preobilno gnoji dušikom glavica ostaje rastresita, meka i šuplja te je tržišna vrijednost takvih glavica mala. S povećanjem količine kalijskih gnojiva povećava se čvrstoća glavice, a nedovoljna količina kalija u odnosu na dušik izaziva neugodan miris kod kuhanja takvog kupusa.</p>
-        <img src="strucni-savjeti/kupusnjace/i1.jpg" alt="">
+        <img src="/strucni-savjeti/kupusnjace/i1.jpg" alt="Shema ishrane kupusa: biljka iz zraka prima kisik, ugljikov dioksid i vodu, a korijenom iz tla vodu, kisik i hranjiva (S, N, P, Mg, Ca, K, Fe, H)." width="509" height="489" loading="lazy" decoding="async">
 
         <h2>Faze prihrane</h2>
         <a class="prihrana-link" href="/proizvodi/katalozi/2023-sjeme-povrca.pdf#page=33">Pročitaj</a>
@@ -61,23 +61,23 @@
         <h2>Fenofaze</h2>
         <figure>
             <figcaption><b>Brokula</b></figcaption>
-            <img src="strucni-savjeti/kupusnjace/i-brokula-fen.jpg" alt="">
+            <img src="/strucni-savjeti/kupusnjace/i-brokula-fen.jpg" alt="Crtež razvojnih faza (fenofaza) brokule: od presadnice do razvijene biljke s cvatom." width="580" height="200" loading="lazy" decoding="async">
         </figure>
 
         <hr>
         <figure>
             <figcaption><b>Cvjetača</b></figcaption>
-            <img src="strucni-savjeti/kupusnjace/i-cvjetaca-fen.png" alt="">
+            <img src="/strucni-savjeti/kupusnjace/i-cvjetaca-fen.png" alt="Crtež razvojnih faza (fenofaza) cvjetače: od sjetve do razvijene glavice, s razvojem korijena." width="600" height="178" loading="lazy" decoding="async">
         </figure>
 
         <hr>
         <figure>
             <figcaption><b>Kupus</b></figcaption>
-            <img src="strucni-savjeti/kupusnjace/i-kupus-fen.jpg" alt="">
+            <img src="/strucni-savjeti/kupusnjace/i-kupus-fen.jpg" alt="Crtež razvojnih faza (fenofaza) kupusa: klijanac, mlada biljka, formiranje i razvijena glavica." width="600" height="257" loading="lazy" decoding="async">
         </figure>
 
         <hr>
         <h2>Nedostatci</h2>
-        <img src="strucni-savjeti/kupusnjace/i-ned.jpg" alt="">
+        <img src="/strucni-savjeti/kupusnjace/i-ned.jpg" alt="Fotografije simptoma nedostatka hranjiva na kupusnjačama: brokula – nedostatak bora i dušika, šuplja stapka; cvjetača – nedostatak molibdena i bora; kupus – nedostatak kalija, dušika i kalcija." width="520" height="2031" loading="lazy" decoding="async">
     </div>
 </section>

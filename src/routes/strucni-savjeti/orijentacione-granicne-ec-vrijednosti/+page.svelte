@@ -8,7 +8,7 @@
 
 <section class="section">
     <div class="container">
-        <nav><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Orijentacione granične EC vrijednosti</small></nav>
+        <nav aria-label="Putanja"><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Orijentacione granične EC vrijednosti</small></nav>
         <h1>Orijentacione granične EC vrijednosti</h1>
         <p>Orijentacione granične EC vrijednosti (dS/m) u uzgoju povrtnih vrsta u tlu i EC vrijednosti koje rezultiraju smanjenjem prinosa.</p>
         <Table>

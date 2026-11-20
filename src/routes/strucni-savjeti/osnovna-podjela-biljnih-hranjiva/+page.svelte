@@ -8,7 +8,7 @@
 
 <section class="section">
     <div class="container">
-        <nav><small><a  href="/strucni-savjeti">Stručni savjeti</a> Osnovna podjela biljnih hranjiva</small></nav>
+        <nav aria-label="Putanja"><small><a  href="/strucni-savjeti">Stručni savjeti</a> Osnovna podjela biljnih hranjiva</small></nav>
         <h1>Osnovna podjela biljnih hranjiva</h1>
 
         <figure>

@@ -2,11 +2,11 @@
     <title>Agrimatco | Stručni savjeti | Soja</title>
 </svelte:head>
 
-<img src="strucni-savjeti/soja/i.jpg" alt="">
+<img src="/strucni-savjeti/soja/i.jpg" alt="" width="1920" height="500">
 
 <section class="section">
     <div class="container">
-        <nav><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Soja</small></nav>
+        <nav aria-label="Putanja"><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Soja</small></nav>
         <h1>Folijarna prihrana soje</h1>
         <a class="prihrana-link" href="/proizvodi/katalozi/2023-gnojidba-prihrana-zastita.pdf#page=51">Pročitaj</a>
 
@@ -58,7 +58,7 @@
 
         <figure>
             <figcaption><b>3. faza – kada su mahune od 0,5-2cm</b></figcaption>
-<!--            <img src="strucni-savjeti/soja/i1.jpg" alt="">-->
+<!--            <img src="/strucni-savjeti/soja/i1.jpg" alt="" width="852" height="480" loading="lazy" decoding="async">-->
 <!--            <ul>-->
 <!--                <li>Kada su mahune veličine od 0,5-2 cm veoma važan element je kalij. Kalij je bitan za nalijevanje zrna i zajedno sa biostimulatorom utječe na povećanje prinosa i kvalitete zrna, kao i na otpornost na sušu.</li>-->
 <!--                <li>U ovoj fazi se preporuča kombinacija gnojiva Kalex i biostimulatora Bioplex.</li>-->
@@ -81,10 +81,10 @@
 
         <hr>
         <h2>Fenofaze</h2>
-        <p><img src="strucni-savjeti/soja/i-fen.jpg" alt=""></p>
+        <p><img src="/strucni-savjeti/soja/i-fen.jpg" alt="Crtež razvojnih faza (fenofaza) soje po stadijima VE, VC, V1, V2, V3, R1, R3, R6, R7 i R8, s uvećanim prikazom cvijeta (R1), mahune (R3) i zrna (R6)." width="580" height="276" loading="lazy" decoding="async"></p>
 
         <hr>
         <h2>Nedostatci</h2>
-        <p><img src="strucni-savjeti/soja/i-ned.png" alt=""></p>
+        <p><img src="/strucni-savjeti/soja/i-ned.png" alt="Fotografije simptoma nedostatka hranjiva na soji: nedostatak bakra, bora, cinka, fosfora, kalija, sumpora, magnezija, mangana i molibdena." width="580" height="1358" loading="lazy" decoding="async"></p>
     </div>
 </section>

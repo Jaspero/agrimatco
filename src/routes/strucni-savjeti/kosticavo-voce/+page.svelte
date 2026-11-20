@@ -2,11 +2,11 @@
     <title>Agrimatco | Stručni savjeti | Koštičavo voće</title>
 </svelte:head>
 
-<img src="strucni-savjeti/kosticavo-voce/i.jpg" alt="">
+<img src="/strucni-savjeti/kosticavo-voce/i.jpg" alt="" width="1920" height="500">
 
 <section class="section">
     <div class="container">
-        <nav><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Koštičavo voće</small></nav>
+        <nav aria-label="Putanja"><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Koštičavo voće</small></nav>
         <h1>Folijarna prihrana koštičavog voća</h1>
         <a class="prihrana-link" href="/proizvodi/katalozi/2023-gnojidba-prihrana-zastita.pdf#page=53">Pročitaj</a>
 
@@ -38,7 +38,7 @@
 <!--            </ul>-->
 <!--        </figure>-->
 
-<!--        <p><img src="strucni-savjeti/kosticavo-voce/i1.jpg" alt=""></p>-->
+<!--        <p><img src="/strucni-savjeti/kosticavo-voce/i1.jpg" alt="" width="800" height="509" loading="lazy" decoding="async"></p>-->
 
 <!--        <h2>Folijarna prihrana koštičavog voća</h2>-->
 
@@ -67,7 +67,7 @@
 
 <!--        <figure>-->
 <!--            <figcaption><b>4. faza - nakon cvjetanja</b></figcaption>-->
-<!--            <p><img src="strucni-savjeti/kosticavo-voce/i2.jpg" alt=""></p>-->
+<!--            <p><img src="/strucni-savjeti/kosticavo-voce/i2.jpg" alt="Cvatnja višnje, trešnje i šljive." width="1000" height="333" loading="lazy" decoding="async"></p>-->
 <!--            <ul>-->
 <!--                <li>U prvoj primjeni nakon cvjetanja za razvoj lisne mase i plodova preporuča se:</li>-->
 <!--                <li>-->
@@ -132,11 +132,11 @@
 
         <hr>
         <h2>Fenofaze</h2>
-        <p><img src="strucni-savjeti/kosticavo-voce/i-vi-fen.png" alt=""></p>
-        <p><img src="strucni-savjeti/kosticavo-voce/i-br-fen.png" alt=""></p>
+        <p><img src="/strucni-savjeti/kosticavo-voce/i-vi-fen.png" alt="Fotografije fenofaza višnje: cvijet, oplodnja, zeleni plod, plod u dozrijevanju i zreli plod." width="669" height="243" loading="lazy" decoding="async"></p>
+        <p><img src="/strucni-savjeti/kosticavo-voce/i-br-fen.png" alt="Fotografije fenofaza breskve po BBCH ljestvici (00 do 97): od mirovanja pupa, preko listanja, cvatnje i zametanja ploda, do zrelog ploda i opadanja lišća." width="580" height="964" loading="lazy" decoding="async"></p>
 
         <hr>
         <h2>Nedostatci</h2>
-        <p><img src="strucni-savjeti/kosticavo-voce/i-ned.png" alt=""></p>
+        <p><img src="/strucni-savjeti/kosticavo-voce/i-ned.png" alt="Fotografije simptoma nedostatka hranjiva na koštičavom voću: nedostatak bora, fosfora, kalcija, kalija i željeza." width="580" height="810" loading="lazy" decoding="async"></p>
     </div>
 </section>
