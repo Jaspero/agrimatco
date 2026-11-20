@@ -1,4 +1,7 @@
 <script>
+  // Bundled (not linked from app.html) so it is inlined into the page with the component styles: no
+  // render-blocking stylesheet request before the first paint (see inlineStyleThreshold in svelte.config.js).
+  import '../global.css';
   import Header from '../components/Header.svelte';
   import Navigation from '../components/Navigation.svelte';
   import Footer from '../components/Footer.svelte';

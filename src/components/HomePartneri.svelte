@@ -8,38 +8,38 @@
     {paused ? 'Pokreni' : 'Zaustavi'}<span class="sr-only"> pomicanje logotipa</span>
   </button>
   <div class="partneri-slider" class:paused>
-    <img class="partneri-slider-image" src="/home-partneri/logo-1.png" alt="Sakata" />
-    <!--        <img class="partneri-slider-image" src="home-partneri/logo-2.png" alt="">-->
-    <img class="partneri-slider-image" src="/home-partneri/logo-3.png" alt="Cosmocel" />
-    <img class="partneri-slider-image" src="/home-partneri/logo-4.png" alt="DRT" />
-    <img class="partneri-slider-image" src="/home-partneri/logo-5.png" alt="Azud" />
-    <img class="partneri-slider-image" src="/home-partneri/logo-6.png" alt="United Genetics" />
-    <img class="partneri-slider-image" src="/home-partneri/logo-7.png" alt="Milagro Fertilizzanti Speciali" />
-    <img class="partneri-slider-image" src="/home-partneri/logo-8.png" alt="Barclay Crop Protection" />
-    <img class="partneri-slider-image" src="/home-partneri/logo-9.png" alt="Danuba" />
-    <img class="partneri-slider-image" src="/home-partneri/logo-10.png" alt="Compo Expert" />
-    <img class="partneri-slider-image" src="/home-partneri/logo-11.png" alt="ISI Sementi" />
-    <img class="partneri-slider-image" src="/home-partneri/logo-12.png" alt="SQM" />
-    <img class="partneri-slider-image" src="/home-partneri/logo-13.png" alt="Sotrafa" />
-    <img class="partneri-slider-image" src="/home-partneri/logo-14.png" alt="Duna-R Vetőmag" />
-    <img class="partneri-slider-image" src="/home-partneri/logo-15.png" alt="MCFP" />
-    <img class="partneri-slider-image" src="/home-partneri/logo-16.png" alt="Ascenza" height="70" />
-    <img class="partneri-slider-image" src="/home-partneri/logo-17.png" alt="Semo" height="70" />
-    <img class="partneri-slider-image" src="/home-partneri/logo-18.png" alt="SI" />
-    <img class="partneri-slider-image" src="/home-partneri/logo-19.png" alt="Tessenderlo Group" />
-    <img class="partneri-slider-image" src="/home-partneri/logo-20.jpg" alt="Vilmorin Mikado" />
-    <img class="partneri-slider-image" src="/home-partneri/logo-21.png" alt="Akona Irrigation Systems" />
-    <img class="partneri-slider-image" src="/home-partneri/logo-22.jpg" alt="Esasem" />
-    <!--        <img class="partneri-slider-image" src="home-partneri/logo-23.png" alt="">-->
-    <img class="partneri-slider-image" src="/home-partneri/logo-24.jpg" alt="Diachem" />
-    <img class="partneri-slider-image" src="/home-partneri/logo-25.png" alt="Sumika Agrotech" />
-    <img class="partneri-slider-image" src="/home-partneri/logo-26.png" alt="Interagro" />
-    <img class="partneri-slider-image" src="/home-partneri/logo-27.png" alt="Mira Seeds" />
-    <img class="partneri-slider-image" src="/home-partneri/logo-29.jpg" alt="Capsico" />
-    <img class="partneri-slider-image" src="/home-partneri/logo-30.png" alt="SAIS" />
-    <img class="partneri-slider-image" src="/home-partneri/logo-31.png" alt="Simonis Fertilizers" />
-    <img class="partneri-slider-image" src="/home-partneri/logo-34.jpg" alt="Tozer Seeds" />
-    <img class="partneri-slider-image" src="/home-partneri/logosab.png" alt="ASAB" />
+    <img class="partneri-slider-image" loading="lazy" decoding="async" src="/home-partneri/logo-1.png" alt="Sakata" />
+    <!--        <img class="partneri-slider-image" loading="lazy" decoding="async" src="home-partneri/logo-2.png" alt="">-->
+    <img class="partneri-slider-image" loading="lazy" decoding="async" src="/home-partneri/logo-3.png" alt="Cosmocel" />
+    <img class="partneri-slider-image" loading="lazy" decoding="async" src="/home-partneri/logo-4.png" alt="DRT" />
+    <img class="partneri-slider-image" loading="lazy" decoding="async" src="/home-partneri/logo-5.png" alt="Azud" />
+    <img class="partneri-slider-image" loading="lazy" decoding="async" src="/home-partneri/logo-6.png" alt="United Genetics" />
+    <img class="partneri-slider-image" loading="lazy" decoding="async" src="/home-partneri/logo-7.png" alt="Milagro Fertilizzanti Speciali" />
+    <img class="partneri-slider-image" loading="lazy" decoding="async" src="/home-partneri/logo-8.png" alt="Barclay Crop Protection" />
+    <img class="partneri-slider-image" loading="lazy" decoding="async" src="/home-partneri/logo-9.png" alt="Danuba" />
+    <img class="partneri-slider-image" loading="lazy" decoding="async" src="/home-partneri/logo-10.png" alt="Compo Expert" />
+    <img class="partneri-slider-image" loading="lazy" decoding="async" src="/home-partneri/logo-11.png" alt="ISI Sementi" />
+    <img class="partneri-slider-image" loading="lazy" decoding="async" src="/home-partneri/logo-12.png" alt="SQM" />
+    <img class="partneri-slider-image" loading="lazy" decoding="async" src="/home-partneri/logo-13.png" alt="Sotrafa" />
+    <img class="partneri-slider-image" loading="lazy" decoding="async" src="/home-partneri/logo-14.png" alt="Duna-R Vetőmag" />
+    <img class="partneri-slider-image" loading="lazy" decoding="async" src="/home-partneri/logo-15.png" alt="MCFP" />
+    <img class="partneri-slider-image" loading="lazy" decoding="async" src="/home-partneri/logo-16.png" alt="Ascenza" height="70" />
+    <img class="partneri-slider-image" loading="lazy" decoding="async" src="/home-partneri/logo-17.png" alt="Semo" height="70" />
+    <img class="partneri-slider-image" loading="lazy" decoding="async" src="/home-partneri/logo-18.png" alt="SI" />
+    <img class="partneri-slider-image" loading="lazy" decoding="async" src="/home-partneri/logo-19.png" alt="Tessenderlo Group" />
+    <img class="partneri-slider-image" loading="lazy" decoding="async" src="/home-partneri/logo-20.jpg" alt="Vilmorin Mikado" />
+    <img class="partneri-slider-image" loading="lazy" decoding="async" src="/home-partneri/logo-21.png" alt="Akona Irrigation Systems" />
+    <img class="partneri-slider-image" loading="lazy" decoding="async" src="/home-partneri/logo-22.jpg" alt="Esasem" />
+    <!--        <img class="partneri-slider-image" loading="lazy" decoding="async" src="home-partneri/logo-23.png" alt="">-->
+    <img class="partneri-slider-image" loading="lazy" decoding="async" src="/home-partneri/logo-24.jpg" alt="Diachem" />
+    <img class="partneri-slider-image" loading="lazy" decoding="async" src="/home-partneri/logo-25.png" alt="Sumika Agrotech" />
+    <img class="partneri-slider-image" loading="lazy" decoding="async" src="/home-partneri/logo-26.png" alt="Interagro" />
+    <img class="partneri-slider-image" loading="lazy" decoding="async" src="/home-partneri/logo-27.png" alt="Mira Seeds" />
+    <img class="partneri-slider-image" loading="lazy" decoding="async" src="/home-partneri/logo-29.jpg" alt="Capsico" />
+    <img class="partneri-slider-image" loading="lazy" decoding="async" src="/home-partneri/logo-30.png" alt="SAIS" />
+    <img class="partneri-slider-image" loading="lazy" decoding="async" src="/home-partneri/logo-31.png" alt="Simonis Fertilizers" />
+    <img class="partneri-slider-image" loading="lazy" decoding="async" src="/home-partneri/logo-34.jpg" alt="Tozer Seeds" />
+    <img class="partneri-slider-image" loading="lazy" decoding="async" src="/home-partneri/logosab.png" alt="ASAB" />
   </div>
 </section>
 

@@ -1,12 +1,12 @@
 @font-face {
   font-family: Signika;
-  src: url(fonts/Signika-Light.woff2) format('woff2'), url(fonts/Signika-Light.ttf) format('truetype');
+  src: url(/fonts/Signika-Light.woff2) format('woff2'), url(/fonts/Signika-Light.ttf) format('truetype');
   font-display: swap;
   font-weight: 400;
 }
 @font-face {
   font-family: Signika;
-  src: url(fonts/Signika-SemiBold.woff2) format('woff2'), url(fonts/Signika-SemiBold.ttf) format('truetype');
+  src: url(/fonts/Signika-SemiBold.woff2) format('woff2'), url(/fonts/Signika-SemiBold.ttf) format('truetype');
   font-display: swap;
   font-weight: 700;
 }

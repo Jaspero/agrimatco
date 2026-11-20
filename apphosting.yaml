@@ -1,5 +1,9 @@
 runConfig:
   minInstances: 0
+scripts:
+  # adapter-node's handler behind a thin wrapper that adds Cache-Control so the CDN can cache
+  # static files and pages (see server.js).
+  runCommand: node server.js
 env:
   - variable: RESEND_API_KEY
     secret: RESEND_API_KEY

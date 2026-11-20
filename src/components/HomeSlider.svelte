@@ -92,7 +92,10 @@
 </script>
 
 <svelte:head>
-  <link rel="preload" as="image" href="/home-slider/gnojidba.webp" type="image/webp" fetchpriority="high" />
+  <!-- One preload per crop of the first slide; each media query matches the one the slide's CSS uses. -->
+  <link rel="preload" as="image" href="/home-slider/gnojidba-526.webp" type="image/webp" fetchpriority="high" media="(max-aspect-ratio: 9/16)" />
+  <link rel="preload" as="image" href="/home-slider/gnojidba-700.webp" type="image/webp" fetchpriority="high" media="(min-aspect-ratio: 9/16) and (max-aspect-ratio: 3/4)" />
+  <link rel="preload" as="image" href="/home-slider/gnojidba.webp" type="image/webp" fetchpriority="high" media="(min-aspect-ratio: 3/4)" />
 </svelte:head>
 
 <section class="glide" aria-label="Naša ponuda">
@@ -101,7 +104,7 @@
       {#each slides as slide, i}
         <li
           class="glide__slide"
-          style={i === 0 ? bg(slide.image) : undefined}
+          class:glide__slide--first={i === 0}
           bind:this={slideEls[i]}
           aria-label="{i + 1} od {slides.length}"
         >
@@ -169,6 +172,27 @@
     min-height: 75vh;
     background-size: cover;
     background-position: center;
+  }
+  /*
+   * The first slide's picture is in the CSS rather than the inline style so that portrait screens get a
+   * centre crop of it. The slide uses background-size: cover with a 1920x700 photo, so on a screen whose
+   * width is at most 9/16 of its height (the slide, 100vw by at least 75vh, is then at most 3:4) only the
+   * middle 526x700 of the photo is ever visible; up to 3/4 (slide at most 1:1) only the middle 700x700.
+   * The crops are those exact pixels, so the slide looks the same with a much smaller LCP download.
+   */
+  .glide__slide--first {
+    background-image: url('/home-slider/gnojidba.jpg');
+    background-image: image-set(url('/home-slider/gnojidba.webp') type('image/webp'), url('/home-slider/gnojidba.jpg') type('image/jpeg'));
+  }
+  @media (max-aspect-ratio: 3/4) {
+    .glide__slide--first {
+      background-image: image-set(url('/home-slider/gnojidba-700.webp') type('image/webp'), url('/home-slider/gnojidba.jpg') type('image/jpeg'));
+    }
+  }
+  @media (max-aspect-ratio: 9/16) {
+    .glide__slide--first {
+      background-image: image-set(url('/home-slider/gnojidba-526.webp') type('image/webp'), url('/home-slider/gnojidba.jpg') type('image/jpeg'));
+    }
   }
   .glide__slide-title {
     font-size: 1.8em;
