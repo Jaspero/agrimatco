@@ -11,7 +11,7 @@
       </p>
     </div>
     <div class="proizvod-image">
-      <img class="proizvod-image-inner" src="home-proizvodi/sjeme-povrca.jpg" alt="Sjeme povrća" />
+      <img class="proizvod-image-inner" loading="lazy" decoding="async" src="home-proizvodi/sjeme-povrca.jpg" alt="Sjeme povrća" />
     </div>
   </div>
 
@@ -29,7 +29,7 @@
     </div>
     <div class="proizvod-image">
       <img
-        class="proizvod-image-inner"
+        class="proizvod-image-inner" loading="lazy" decoding="async"
         src="home-proizvodi/mineralna-gnojiva.jpg"
         alt="Mineralna gnojiva"
       />
@@ -48,7 +48,7 @@
     </div>
     <div class="proizvod-image">
       <img
-        class="proizvod-image-inner"
+        class="proizvod-image-inner" loading="lazy" decoding="async"
         src="home-proizvodi/sredstva-za-zastitu.jpg"
         alt="Sredstva za zaštitu bilja"
       />
@@ -67,7 +67,7 @@
     </div>
     <div class="proizvod-image">
       <img
-        class="proizvod-image-inner"
+        class="proizvod-image-inner" loading="lazy" decoding="async"
         src="home-proizvodi/navodnjavanje.jpg"
         alt="Navodnjavanje"
       />
@@ -85,7 +85,7 @@
       </p>
     </div>
     <div class="proizvod-image">
-      <img class="proizvod-image-inner" src="home-proizvodi/mulch-folije.jpg" alt="Mulch folije" />
+      <img class="proizvod-image-inner" loading="lazy" decoding="async" src="home-proizvodi/mulch-folije.jpg" alt="Mulch folije" />
     </div>
   </div>
 </section>

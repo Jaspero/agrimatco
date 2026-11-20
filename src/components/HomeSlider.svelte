@@ -44,7 +44,20 @@
       content: `Mulch folije se koriste u proizvodnji jer sprječavaju rast korova, reguliraju temperaturu, smanjuju evaporaciju iz tla, povoljno utječu na povećanje vlage u tlu te smanjuju nadmetanje biljnih vrsta s korovima.`
     }
   ];
+  /** WebP copy of each slide image (same picture, smaller file); the JPEG stays as the fallback. */
+  const bg = (image) =>
+    `background-image: url('${image}'); background-image: image-set(url('${image.replace(/\.jpg$/, '.webp')}') type('image/webp'), url('${image}') type('image/jpeg'))`;
+
+  // Only the first slide's picture is in the server HTML, so it is the only image competing for the
+  // first paint; the others are attached once the page has loaded (well before autoplay moves on).
+  let loaded = false;
+
   onMount(() => {
+    if (document.readyState === 'complete') {
+      loaded = true;
+    } else {
+      window.addEventListener('load', () => (loaded = true), { once: true });
+    }
     new Glide('.glide', {
       autoplay: 7500,
       gap: 0,
@@ -53,11 +66,15 @@
   });
 </script>
 
+<svelte:head>
+  <link rel="preload" as="image" href="/home-slider/gnojidba.webp" type="image/webp" fetchpriority="high" />
+</svelte:head>
+
 <div class="glide">
   <div class="glide__track" data-glide-el="track">
     <ul class="glide__slides">
       {#each slides as slide, i}
-        <li class="glide__slide" style="background-image: url('{slide.image}')">
+        <li class="glide__slide" style={i === 0 || loaded ? bg(slide.image) : undefined}>
           <h1 class="glide__slide-title">{slide.title}</h1>
           <p class="glide__slide-content">{slide.content}</p>
         </li>

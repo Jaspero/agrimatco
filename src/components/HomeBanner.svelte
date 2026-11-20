@@ -1,5 +1,5 @@
 <section class="banner">
-  <img class="banner-image" src="agrimatco.svg" alt="Agrimatco" width="200" />
+  <img class="banner-image" src="agrimatco.svg" alt="Agrimatco" width="200" height="200" />
   <h1 class="banner-headline">U službi poljoprivrede od 1936. godine</h1>
 </section>
 

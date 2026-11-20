@@ -7,6 +7,7 @@
     text-align: center;
     padding: var(--space-large) var(--space-medium);
     background-image: url('/static/home-savjeti/savjeti.png');
+    background-image: image-set(url('/static/home-savjeti/savjeti.webp') type('image/webp'), url('/static/home-savjeti/savjeti.png') type('image/png'));
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -20,7 +21,7 @@
 </style>
 
 <section class="savjeti">
-    <img class="savjeti-image" src="agrimatco-negative.svg" alt="Agrimatco" width="200">
+    <img class="savjeti-image" src="agrimatco-negative.svg" alt="Agrimatco" width="200" height="200">
     <p class="savjeti-descirption">Imamo vješte, kvalificirane, i kvalitetne ljude<br>koji su uvijek spremni pomoći i ponuditi savjete.</p>
     <Button href="strucni-savjeti">Naši savjeti</Button>
 </section>

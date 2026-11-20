@@ -19,6 +19,13 @@
   }
 </script>
 
+<svelte:head>
+  <meta
+    name="description"
+    content="Agrimatco d.o.o.: gnojiva, sredstva za zaštitu bilja, profesionalno sjeme povrća, navodnjavanje i mulch folije te stručni savjeti za poljoprivrednu proizvodnju."
+  />
+</svelte:head>
+
 <Header {menu} {menuToggle} />
 
 <Navigation {menu} {menuToggle} {menuFalse} />
