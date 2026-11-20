@@ -4,7 +4,7 @@
 
 <section class="section">
     <div class="container">
-        <img src="/strucni-savjeti/cesnjak/cesnjak-1.jpg" alt="" width="2122" height="1414">
+        <picture><source type="image/webp" srcset="/strucni-savjeti/cesnjak/cesnjak-1-960.webp 960w, /strucni-savjeti/cesnjak/cesnjak-1-1920.webp 1920w" sizes="100vw"><img src="/strucni-savjeti/cesnjak/cesnjak-1.jpg" alt="" width="2122" height="1414" fetchpriority="high"></picture>
     </div>
     <div class="container">
         <nav aria-label="Putanja"><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Češnjak</small></nav>

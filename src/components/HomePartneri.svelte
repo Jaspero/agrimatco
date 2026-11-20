@@ -102,5 +102,6 @@
     flex-shrink: 0;
     margin: 0 var(--space-regular);
     max-width: 200px;
+    object-fit: contain;
   }
 </style>

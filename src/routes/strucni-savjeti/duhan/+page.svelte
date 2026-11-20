@@ -2,7 +2,7 @@
   <title>Agrimatco | Stručni savjeti | Duhan</title>
 </svelte:head>
 
-<img src="/strucni-savjeti/duhan/i.jpg" alt="" width="1920" height="500" />
+<picture><source type="image/webp" srcset="/strucni-savjeti/duhan/i-960.webp 960w, /strucni-savjeti/duhan/i-1920.webp 1920w" sizes="100vw"><img src="/strucni-savjeti/duhan/i.jpg" alt="" width="1920" height="500" fetchpriority="high" /></picture>
 
 <section class="section">
   <div class="container">

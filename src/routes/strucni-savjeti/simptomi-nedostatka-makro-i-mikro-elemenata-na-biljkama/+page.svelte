@@ -17,7 +17,7 @@
     <p>
       <img
         src="/strucni-savjeti/simptomi-nedostatka-makro-i-mikro-elemenata-na-biljkama/i.png"
-        alt="" width="520" height="1714"
+        alt="" width="520" height="1714" fetchpriority="high"
       />
     </p>
   </div>

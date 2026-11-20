@@ -2,7 +2,7 @@
     <title>Agrimatco | Stručni savjeti | Tikve/tikvice</title>
 </svelte:head>
 
-<img src="/strucni-savjeti/tikve/tikve.webp" alt="" width="1120" height="630">
+<picture><source type="image/webp" srcset="/strucni-savjeti/tikve/tikve-960.webp 960w, /strucni-savjeti/tikve/tikve-1120.webp 1120w" sizes="100vw"><img src="/strucni-savjeti/tikve/tikve.webp" alt="" width="1120" height="630" fetchpriority="high"></picture>
 
 <section class="section">
     <div class="container">

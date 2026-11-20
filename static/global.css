@@ -316,7 +316,8 @@ li {
   text-decoration: underline;
 }
 /* Accessibility (WCAG 2.1 AA) */
-img[width][height] {
+img[width][height],
+video[width][height] {
   height: auto;
 }
 .sr-only {

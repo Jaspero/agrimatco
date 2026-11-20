@@ -1,3 +1,7 @@
+<svelte:head>
+  <title>Agrimatco | Proizvodi | Amcolon gnojiva</title>
+</svelte:head>
+
 <section class="section">
   <div class="container">
     <h1>Amcolon gnojiva</h1>

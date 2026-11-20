@@ -3,3 +3,5 @@ node_modules
 firebase-debug.log
 .env
 build
+a11y-report/screenshots/
+a11y-report/compare/

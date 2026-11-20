@@ -8,7 +8,7 @@
 
 <section class="section">
     <div class="container">
-        <img class="w-full mt-10" src="/strucni-savjeti/batat/batat-1.jpg" alt="" width="1200" height="798">
+        <picture><source type="image/webp" srcset="/strucni-savjeti/batat/batat-1-960.webp 960w, /strucni-savjeti/batat/batat-1-1200.webp 1200w" sizes="100vw"><img class="w-full mt-10" src="/strucni-savjeti/batat/batat-1.jpg" alt="" width="1200" height="798" fetchpriority="high"></picture>
     </div>
     <div class="container">
         <nav aria-label="Putanja"><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Batat</small></nav>

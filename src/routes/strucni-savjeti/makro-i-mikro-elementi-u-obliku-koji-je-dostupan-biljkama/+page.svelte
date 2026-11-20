@@ -99,6 +99,6 @@
             </tr>
         </Table>
         <hr>
-        <p><img src="/strucni-savjeti/makro-i-mikro-elementi-u-obliku-koji-je-dostupan-biljkama/i.jpg" alt="Stupčasti grafikon „Potreba biljke za hranjivima”: najveća je potreba za kalijem (K), zatim dušikom (N) i fosforom (P); znatno manja za kalcijem (Ca), magnezijem (Mg) i sumporom (S); mikroelementi (Fe, Mn, Zn, Cu, B, Mo, Co) potrebni su u vrlo malim količinama." width="905" height="479"></p>
+        <p><img src="/strucni-savjeti/makro-i-mikro-elementi-u-obliku-koji-je-dostupan-biljkama/i.jpg" alt="Stupčasti grafikon „Potreba biljke za hranjivima”: najveća je potreba za kalijem (K), zatim dušikom (N) i fosforom (P); znatno manja za kalcijem (Ca), magnezijem (Mg) i sumporom (S); mikroelementi (Fe, Mn, Zn, Cu, B, Mo, Co) potrebni su u vrlo malim količinama." width="905" height="479" fetchpriority="high"></p>
     </div>
 </section>

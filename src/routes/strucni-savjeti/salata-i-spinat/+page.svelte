@@ -6,7 +6,7 @@
     <title>Agrimatco | Stručni savjeti | Salata i špinat</title>
 </svelte:head>
 
-<img src="/strucni-savjeti/salata-i-spinat/i.jpg" alt="" width="1920" height="500">
+<picture><source type="image/webp" srcset="/strucni-savjeti/salata-i-spinat/i-960.webp 960w, /strucni-savjeti/salata-i-spinat/i-1920.webp 1920w" sizes="100vw"><img src="/strucni-savjeti/salata-i-spinat/i.jpg" alt="" width="1920" height="500" fetchpriority="high"></picture>
 
 <section class="section">
     <div class="container">

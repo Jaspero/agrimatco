@@ -5,7 +5,7 @@
 
 <section class="section">
     <div class="container">
-        <img src="/strucni-savjeti/patlidzan/patlidzan-1.jpg" alt="" width="2000" height="1333">
+        <picture><source type="image/webp" srcset="/strucni-savjeti/patlidzan/patlidzan-1-960.webp 960w, /strucni-savjeti/patlidzan/patlidzan-1-1920.webp 1920w" sizes="100vw"><img src="/strucni-savjeti/patlidzan/patlidzan-1.jpg" alt="" width="2000" height="1333" fetchpriority="high"></picture>
     </div>
     <div class="container">
         <nav aria-label="Putanja"><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Patlidžan</small></nav>

@@ -2,7 +2,7 @@
     <title>Agrimatco | Stručni savjeti | Kukuruz šecerac</title>
 </svelte:head>
 
-<img src="/strucni-savjeti/kukuruz-secerac/secerac.jpg" alt="" width="3504" height="2336">
+<picture><source type="image/webp" srcset="/strucni-savjeti/kukuruz-secerac/secerac-960.webp 960w, /strucni-savjeti/kukuruz-secerac/secerac-1920.webp 1920w" sizes="100vw"><img src="/strucni-savjeti/kukuruz-secerac/secerac.jpg" alt="" width="3504" height="2336" fetchpriority="high"></picture>
 
 <section class="section">
     <div class="container">

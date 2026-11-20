@@ -9,7 +9,7 @@
     </nav>
     <h1>Značaj folijarne prihrane</h1>
 
-    <img class="media-large" src="/strucni-savjeti/znacaj-folijarne-prihrane/i1.jpg" alt="" width="1920" height="500" />
+    <picture><source type="image/webp" srcset="/strucni-savjeti/znacaj-folijarne-prihrane/i1-960.webp 960w, /strucni-savjeti/znacaj-folijarne-prihrane/i1-1920.webp 1920w" sizes="100vw"><img class="media-large" src="/strucni-savjeti/znacaj-folijarne-prihrane/i1.jpg" alt="" width="1920" height="500" fetchpriority="high" /></picture>
     <p>
       <b>Folijarna gnojidba</b> je način ishrane bilja putem lista. Ona ne može zamijeniti osnovnu gnojidbu,
       ali može nadomjestiti nedostatak hranjiva kada je to biljci najpotrebnije. 1 kg hranjiva kojeg

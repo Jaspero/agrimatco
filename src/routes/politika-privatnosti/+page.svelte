@@ -1,13 +1,8 @@
-<script>
-  import { onMount } from 'svelte';
-  let title = 'Politika Privatnosti';
+<svelte:head>
+  <title>Agrimatco | Politika privatnosti</title>
+</svelte:head>
 
-  onMount(() => {
-    document.title = title;
-  });
-</script>
-
-<main>
+<div class="politika">
   <h1>AGRIMATCO POLITIKA PRIVATNOSTI</h1>
   <p>
     Zahvaljujemo što ste odabrali i posjetiti našu web stranicu, kako bismo vas informirali, željeli
@@ -452,10 +447,10 @@
     zadnjeg ažuriranja i zamjenjuju sve prethodne verzije Pravila o privatnosti. U slučaju da
     trebate bilo kakva pojašnjenja o obradi Vaših osobnih podataka, kontaktirajte nas putem e-pošte.
   </p>
-</main>
+</div>
 
 <style>
-  main {
+  .politika {
     padding: 20px;
     max-width: 800px;
     margin: auto;

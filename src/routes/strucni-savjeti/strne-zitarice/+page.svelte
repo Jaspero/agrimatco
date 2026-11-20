@@ -2,14 +2,14 @@
     <title>Agrimatco | Stručni savjeti | Strne žitarice</title>
 </svelte:head>
 
-<img src="/strucni-savjeti/strne-zitarice/i.jpg" alt="" width="1920" height="500">
+<picture><source type="image/webp" srcset="/strucni-savjeti/strne-zitarice/i-960.webp 960w, /strucni-savjeti/strne-zitarice/i-1920.webp 1920w" sizes="100vw"><img src="/strucni-savjeti/strne-zitarice/i.jpg" alt="" width="1920" height="500" fetchpriority="high"></picture>
 
 <section class="section">
     <div class="container">
         <nav aria-label="Putanja"><small><a  href="/strucni-savjeti">Stručni savjeti</a> > Strne žitarice</small></nav>
         <h1>Folijarna prihrana strnih žitarica</h1>
 
-        <video controls class="media-large" aria-describedby="video-zapis-opis">
+        <video controls class="media-large" width="1280" height="720" preload="metadata" aria-describedby="video-zapis-opis">
             <source src="/strucni-savjeti/strne-zitarice/i-vid.mp4" type="video/mp4">
             <track kind="captions" src="/strucni-savjeti/strne-zitarice/i-vid.hr.vtt" srclang="hr" label="Hrvatski">
             Vaš preglednik ne podržava HTML5 video. <a href="/strucni-savjeti/strne-zitarice/i-vid.mp4">Preuzmite video</a>.
