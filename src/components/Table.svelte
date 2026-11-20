@@ -6,6 +6,7 @@
 
 <style>
   .table {
+    position: relative;
     margin: var(--space-regular) 0;
     overflow: auto;
     font-size: var(--font-small);
