@@ -8,7 +8,9 @@ export async function POST({ request }) {
 
 	try {
 		const body = await request.json();
-		await resend.emails.send({
+		// The Resend SDK reports failures in the result instead of throwing; without this check a failed
+		// send was answered with success and the visitor was told the message had been sent.
+		const { error } = await resend.emails.send({
 			to: 'ivana.ivankovic@agrimatco-eu.com',
 			from: 'info@jaspero.co',
 			subject: 'Novi kontakt',
@@ -19,6 +21,7 @@ export async function POST({ request }) {
         <p>Poruka: ${body.message}</p>
       `
     });
+    if (error) return json({ error: error.message || 'send failed' }, { status: 502 });
     return json({ success: true });
   } catch (err) {
     return json({ error: err.toString() }, { status: 500 });
