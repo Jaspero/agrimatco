@@ -90,8 +90,10 @@ transcript under the video carries all visual information (1.2.5 relies on it).
 - Product cards link to the 2023 catalogue PDF (with page anchors) although 2025/2026 catalogues exist: a content
   question for the client.
 - Not tested with a real screen reader (NVDA, VoiceOver).
-- The contact form was not sent on the live site. Whether the production Resend key works could not be confirmed:
-  with fix 14, a failing send now shows an error instead of a false success.
+- **One test message went out through the live contact form** (17:59 CET): my state-check script, meant for the
+  local build, was also run against the live site after deploying. Name "Test", e-mail test@example.com, message
+  "Test poruka (lokalni test, ne šalje se)", sent to ivana.ivankovic@agrimatco-eu.com; the server answered 200, so
+  Resend accepted it. It also confirms the production key works. The client may want a one-line apology/explanation.
 
 ## Lighthouse 12
 
@@ -108,4 +110,18 @@ the contact page, where nothing performance-related changed, scores 89 locally a
 
 \* Live article scores were measured with all images and the video missing (404), so they are not comparable.
 
-LIVE_TABLE
+**Live after deploy** (commit `6c10567`, App Hosting rollout `rollout-2026-11-20-003`):
+
+| Page | Live before, mobile | Live after, mobile | Live before, desktop | Live after, desktop |
+| --- | --- | --- | --- | --- |
+| / | 93/95/96/100 | 93/100/100/100 † | 96/95/93/100 | 96/100/100/100 |
+| /strucni-savjeti/strne-zitarice | 100/95/96/100 * | 99/100/100/100 | 99/95/96/100 * | 99/100/100/100 |
+| /kontakt | 98/96/100/100 | 98/100/100/100 | 99/96/100/100 | 99/100/100/100 |
+
+† Right after the rollout (cold CDN cache) the home page measured 93/83/83 with two one-off 500s from the CDN edge
+on static files (favicon, logo; none in the server logs); re-run 20 minutes later: 94/93/85, median 93.
+The article page now loads its header photo, inline images and video poster and still scores 99.
+
+Live axe after deploy: 0 violations on all 82 pages tested (10 main pages, 404 and all 72 article, category and
+product pages, desktop and mobile) and in the interactive states listed above. No console errors on home,
+kontakt, the video article and /trazi. Footer credit "Made by Jaspero" still links to https://jaspero.co/.
