@@ -50,8 +50,8 @@
 
   // Only the first slide's picture is in the server HTML, so it is the only image competing for the
   // first paint; the others are attached once the page has loaded (well before autoplay moves on).
-  let loaded = false;
   let glide;
+  let slideEls = [];
   let playing = true;
   let current = 0;
 
@@ -67,10 +67,16 @@
   }
 
   onMount(() => {
+    // Appended to the inline style rather than bound through Svelte: re-rendering the style attribute
+    // would wipe the slide widths Glide sets, which made slides 2-8 as wide as the whole track.
+    const attach = () =>
+      slideEls.forEach((el, i) => {
+        if (i > 0 && el) el.style.cssText += ';' + bg(slides[i].image);
+      });
     if (document.readyState === 'complete') {
-      loaded = true;
+      attach();
     } else {
-      window.addEventListener('load', () => (loaded = true), { once: true });
+      window.addEventListener('load', attach, { once: true });
     }
     // No automatic movement for people who ask the OS for reduced motion (WCAG 2.2.2); the buttons still work.
     const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -95,7 +101,8 @@
       {#each slides as slide, i}
         <li
           class="glide__slide"
-          style={i === 0 || loaded ? bg(slide.image) : undefined}
+          style={i === 0 ? bg(slide.image) : undefined}
+          bind:this={slideEls[i]}
           aria-label="{i + 1} od {slides.length}"
         >
           <h2 class="glide__slide-title">{slide.title}</h2>
@@ -168,6 +175,10 @@
     color: white;
     text-shadow: 0 0 6px black;
     margin: var(--space-medium);
+    /* dark backing so the white title stays readable on light photos (WCAG 1.4.3) */
+    align-self: flex-start;
+    padding: 0.1em 0.4em;
+    background: rgba(0, 0, 0, 0.6);
   }
   .glide__slide-content {
     margin: auto var(--space-regular) var(--space-regular) auto;
@@ -208,6 +219,10 @@
     outline-offset: 2px;
   }
   @media (max-width: 600px) {
+    .glide__slide-title {
+      /* start below the slide controls */
+      margin-top: 4.5rem;
+    }
     .glide__slide-content {
       max-width: unset;
       margin: auto var(--space-medium) var(--space-medium);

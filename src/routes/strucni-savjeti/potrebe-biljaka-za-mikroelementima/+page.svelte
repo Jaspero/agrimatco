@@ -20,107 +20,107 @@
             </tr>
             <tr>
                 <td>Jabuka</td>
-                <td style="color: #009856;">✲&nbsp;✲&nbsp;✲</td>
-                <td style="color: #a7cf39;">✲&nbsp;✲</td>
-                <td style="color: #f41b29;">✲</td>
-                <td style="color: #a7cf39;">✲&nbsp;✲</td>
+                <td style="color: #007c46;"><span aria-hidden="true">✲&nbsp;✲&nbsp;✲</span><span class="sr-only">visoka</span></td>
+                <td style="color: #5d741c;"><span aria-hidden="true">✲&nbsp;✲</span><span class="sr-only">srednja</span></td>
+                <td style="color: #d90a18;"><span aria-hidden="true">✲</span><span class="sr-only">niska</span></td>
+                <td style="color: #5d741c;"><span aria-hidden="true">✲&nbsp;✲</span><span class="sr-only">srednja</span></td>
             </tr>
             <tr>
                 <td>Šečerna repa</td>
-                <td style="color: #009856;">✲&nbsp;✲&nbsp;✲</td>
-                <td style="color: #f41b29;">✲</td>
-                <td style="color: #f41b29;">✲</td>
-                <td style="color: #a7cf39;">✲&nbsp;✲</td>
+                <td style="color: #007c46;"><span aria-hidden="true">✲&nbsp;✲&nbsp;✲</span><span class="sr-only">visoka</span></td>
+                <td style="color: #d90a18;"><span aria-hidden="true">✲</span><span class="sr-only">niska</span></td>
+                <td style="color: #d90a18;"><span aria-hidden="true">✲</span><span class="sr-only">niska</span></td>
+                <td style="color: #5d741c;"><span aria-hidden="true">✲&nbsp;✲</span><span class="sr-only">srednja</span></td>
             </tr>
             <tr>
                 <td>Kupus</td>
-                <td style="color: #a7cf39;">✲&nbsp;✲</td>
-                <td style="color: #f41b29;">✲</td>
-                <td style="color: #f41b29;">✲</td>
-                <td style="color: #f41b29;">✲</td>
+                <td style="color: #5d741c;"><span aria-hidden="true">✲&nbsp;✲</span><span class="sr-only">srednja</span></td>
+                <td style="color: #d90a18;"><span aria-hidden="true">✲</span><span class="sr-only">niska</span></td>
+                <td style="color: #d90a18;"><span aria-hidden="true">✲</span><span class="sr-only">niska</span></td>
+                <td style="color: #d90a18;"><span aria-hidden="true">✲</span><span class="sr-only">niska</span></td>
             </tr>
             <tr>
                 <td>Citrusi</td>
-                <td style="color: #a7cf39;">✲&nbsp;✲</td>
-                <td style="color: #009856;">✲&nbsp;✲&nbsp;✲</td>
-                <td style="color: #a7cf39;">✲&nbsp;✲</td>
-                <td style="color: #a7cf39;">✲&nbsp;✲</td>
+                <td style="color: #5d741c;"><span aria-hidden="true">✲&nbsp;✲</span><span class="sr-only">srednja</span></td>
+                <td style="color: #007c46;"><span aria-hidden="true">✲&nbsp;✲&nbsp;✲</span><span class="sr-only">visoka</span></td>
+                <td style="color: #5d741c;"><span aria-hidden="true">✲&nbsp;✲</span><span class="sr-only">srednja</span></td>
+                <td style="color: #5d741c;"><span aria-hidden="true">✲&nbsp;✲</span><span class="sr-only">srednja</span></td>
             </tr>
             <tr>
                 <td>Djetelina</td>
-                <td style="color: #a7cf39;">✲&nbsp;✲</td>
-                <td style="color: #a7cf39;">✲&nbsp;✲</td>
-                <td style="color: #f41b29;">✲</td>
-                <td style="color: #a7cf39;">✲&nbsp;✲</td>
+                <td style="color: #5d741c;"><span aria-hidden="true">✲&nbsp;✲</span><span class="sr-only">srednja</span></td>
+                <td style="color: #5d741c;"><span aria-hidden="true">✲&nbsp;✲</span><span class="sr-only">srednja</span></td>
+                <td style="color: #d90a18;"><span aria-hidden="true">✲</span><span class="sr-only">niska</span></td>
+                <td style="color: #5d741c;"><span aria-hidden="true">✲&nbsp;✲</span><span class="sr-only">srednja</span></td>
             </tr>
             <tr>
                 <td>Kukuruz</td>
-                <td style="color: #a7cf39;">✲&nbsp;✲</td>
-                <td style="color: #f41b29;">✲</td>
-                <td style="color: #f41b29;">✲</td>
-                <td style="color: #009856;">✲&nbsp;✲&nbsp;✲</td>
+                <td style="color: #5d741c;"><span aria-hidden="true">✲&nbsp;✲</span><span class="sr-only">srednja</span></td>
+                <td style="color: #d90a18;"><span aria-hidden="true">✲</span><span class="sr-only">niska</span></td>
+                <td style="color: #d90a18;"><span aria-hidden="true">✲</span><span class="sr-only">niska</span></td>
+                <td style="color: #007c46;"><span aria-hidden="true">✲&nbsp;✲&nbsp;✲</span><span class="sr-only">visoka</span></td>
             </tr>
             <tr>
                 <td>Salata</td>
-                <td style="color: #a7cf39;">✲&nbsp;✲</td>
-                <td style="color: #009856;">✲&nbsp;✲&nbsp;✲</td>
-                <td style="color: #009856;">✲&nbsp;✲&nbsp;✲</td>
-                <td style="color: #a7cf39;">✲&nbsp;✲</td>
+                <td style="color: #5d741c;"><span aria-hidden="true">✲&nbsp;✲</span><span class="sr-only">srednja</span></td>
+                <td style="color: #007c46;"><span aria-hidden="true">✲&nbsp;✲&nbsp;✲</span><span class="sr-only">visoka</span></td>
+                <td style="color: #007c46;"><span aria-hidden="true">✲&nbsp;✲&nbsp;✲</span><span class="sr-only">visoka</span></td>
+                <td style="color: #5d741c;"><span aria-hidden="true">✲&nbsp;✲</span><span class="sr-only">srednja</span></td>
             </tr>
             <tr>
                 <td>Luk</td>
-                <td style="color: #f41b29;">✲</td>
-                <td style="color: #009856;">✲&nbsp;✲&nbsp;✲</td>
-                <td style="color: #009856;">✲&nbsp;✲&nbsp;✲</td>
-                <td style="color: #009856;">✲&nbsp;✲&nbsp;✲</td>
+                <td style="color: #d90a18;"><span aria-hidden="true">✲</span><span class="sr-only">niska</span></td>
+                <td style="color: #007c46;"><span aria-hidden="true">✲&nbsp;✲&nbsp;✲</span><span class="sr-only">visoka</span></td>
+                <td style="color: #007c46;"><span aria-hidden="true">✲&nbsp;✲&nbsp;✲</span><span class="sr-only">visoka</span></td>
+                <td style="color: #007c46;"><span aria-hidden="true">✲&nbsp;✲&nbsp;✲</span><span class="sr-only">visoka</span></td>
             </tr>
             <tr>
                 <td>Breskva</td>
-                <td style="color: #a7cf39;">✲&nbsp;✲</td>
-                <td style="color: #a7cf39;">✲&nbsp;✲</td>
-                <td style="color: #a7cf39;">✲&nbsp;✲</td>
-                <td style="color: #009856;">✲&nbsp;✲&nbsp;✲</td>
+                <td style="color: #5d741c;"><span aria-hidden="true">✲&nbsp;✲</span><span class="sr-only">srednja</span></td>
+                <td style="color: #5d741c;"><span aria-hidden="true">✲&nbsp;✲</span><span class="sr-only">srednja</span></td>
+                <td style="color: #5d741c;"><span aria-hidden="true">✲&nbsp;✲</span><span class="sr-only">srednja</span></td>
+                <td style="color: #007c46;"><span aria-hidden="true">✲&nbsp;✲&nbsp;✲</span><span class="sr-only">visoka</span></td>
             </tr>
             <tr>
                 <td>Krumpir</td>
-                <td style="color: #009856;">✲&nbsp;✲&nbsp;✲</td>
-                <td style="color: #f41b29;">✲</td>
-                <td style="color: #009856;">✲&nbsp;✲&nbsp;✲</td>
-                <td style="color: #a7cf39;">✲&nbsp;✲</td>
+                <td style="color: #007c46;"><span aria-hidden="true">✲&nbsp;✲&nbsp;✲</span><span class="sr-only">visoka</span></td>
+                <td style="color: #d90a18;"><span aria-hidden="true">✲</span><span class="sr-only">niska</span></td>
+                <td style="color: #007c46;"><span aria-hidden="true">✲&nbsp;✲&nbsp;✲</span><span class="sr-only">visoka</span></td>
+                <td style="color: #5d741c;"><span aria-hidden="true">✲&nbsp;✲</span><span class="sr-only">srednja</span></td>
             </tr>
             <tr>
                 <td>Soja</td>
-                <td style="color: #f41b29;">✲</td>
-                <td style="color: #a7cf39;">✲&nbsp;✲</td>
-                <td style="color: #009856;">✲&nbsp;✲&nbsp;✲</td>
-                <td style="color: #a7cf39;">✲&nbsp;✲</td>
+                <td style="color: #d90a18;"><span aria-hidden="true">✲</span><span class="sr-only">niska</span></td>
+                <td style="color: #5d741c;"><span aria-hidden="true">✲&nbsp;✲</span><span class="sr-only">srednja</span></td>
+                <td style="color: #007c46;"><span aria-hidden="true">✲&nbsp;✲&nbsp;✲</span><span class="sr-only">visoka</span></td>
+                <td style="color: #5d741c;"><span aria-hidden="true">✲&nbsp;✲</span><span class="sr-only">srednja</span></td>
             </tr>
             <tr>
                 <td>Duhan</td>
-                <td style="color: #a7cf39;">✲&nbsp;✲</td>
-                <td style="color: #f41b29;">✲</td>
-                <td style="color: #a7cf39;">✲&nbsp;✲</td>
-                <td style="color: #a7cf39;">✲&nbsp;✲</td>
+                <td style="color: #5d741c;"><span aria-hidden="true">✲&nbsp;✲</span><span class="sr-only">srednja</span></td>
+                <td style="color: #d90a18;"><span aria-hidden="true">✲</span><span class="sr-only">niska</span></td>
+                <td style="color: #5d741c;"><span aria-hidden="true">✲&nbsp;✲</span><span class="sr-only">srednja</span></td>
+                <td style="color: #5d741c;"><span aria-hidden="true">✲&nbsp;✲</span><span class="sr-only">srednja</span></td>
             </tr>
             <tr>
                 <td>Rajčica</td>
-                <td style="color: #009856;">✲&nbsp;✲&nbsp;✲</td>
-                <td style="color: #009856;">✲&nbsp;✲&nbsp;✲</td>
-                <td style="color: #a7cf39;">✲&nbsp;✲</td>
-                <td style="color: #a7cf39;">✲&nbsp;✲</td>
+                <td style="color: #007c46;"><span aria-hidden="true">✲&nbsp;✲&nbsp;✲</span><span class="sr-only">visoka</span></td>
+                <td style="color: #007c46;"><span aria-hidden="true">✲&nbsp;✲&nbsp;✲</span><span class="sr-only">visoka</span></td>
+                <td style="color: #5d741c;"><span aria-hidden="true">✲&nbsp;✲</span><span class="sr-only">srednja</span></td>
+                <td style="color: #5d741c;"><span aria-hidden="true">✲&nbsp;✲</span><span class="sr-only">srednja</span></td>
             </tr>
             <tr>
                 <td>žiarice</td>
-                <td style="color: #f41b29;">✲</td>
-                <td style="color: #a7cf39;">✲&nbsp;✲</td>
-                <td style="color: #a7cf39;">✲&nbsp;✲</td>
-                <td style="color: #f41b29;">✲</td>
+                <td style="color: #d90a18;"><span aria-hidden="true">✲</span><span class="sr-only">niska</span></td>
+                <td style="color: #5d741c;"><span aria-hidden="true">✲&nbsp;✲</span><span class="sr-only">srednja</span></td>
+                <td style="color: #5d741c;"><span aria-hidden="true">✲&nbsp;✲</span><span class="sr-only">srednja</span></td>
+                <td style="color: #d90a18;"><span aria-hidden="true">✲</span><span class="sr-only">niska</span></td>
             </tr>
             <tr>
                 <td colspan="5">
-                    Visoka potreba: <span style="color: #009856;">✲&nbsp;✲&nbsp;✲</span>&nbsp;&nbsp;&nbsp;
-                    Srednja potreba: <span style="color: #a7cf39;">✲&nbsp;✲</span>&nbsp;&nbsp;&nbsp;
-                    Niska potreba: <span style="color: #f41b29;">✲</span>
+                    Visoka potreba: <span style="color: #007c46;" aria-hidden="true">✲&nbsp;✲&nbsp;✲</span>&nbsp;&nbsp;&nbsp;
+                    Srednja potreba: <span style="color: #5d741c;" aria-hidden="true">✲&nbsp;✲</span>&nbsp;&nbsp;&nbsp;
+                    Niska potreba: <span style="color: #d90a18;" aria-hidden="true">✲</span>
                 </td>
             </tr>
         </Table>
